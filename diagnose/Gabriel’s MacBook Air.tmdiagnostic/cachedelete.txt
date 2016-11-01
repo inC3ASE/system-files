@@ -1,0 +1,25 @@
+{
+    "/" =     {
+        "CACHE_DELETE_TOTAL_AVAILABLE" = 628988127;
+        "CACHE_DELETE_VOLUME" = "/";
+        "com.apple.MailCacheDelete" = 0;
+        "com.apple.Safari.CacheDeleteExtension" = 0;
+        "com.apple.TMCacheDelete" = 0;
+        "com.apple.activity_tracing.cache-delete" = 0;
+        "com.apple.bird.cache-delete" = 0;
+        "com.apple.cloudphotosd.cpl.cachedelete" = 0;
+        "com.apple.commerce.cachedelete" = 0;
+        "com.apple.coresymbolicationd.cache-delete" = 620838912;
+        "com.apple.desktoppicture.cache-delete" = 2055463;
+        "com.apple.geod.cachedelete" = 0;
+        "com.apple.iTunesCacheExtension" = 0;
+        "com.apple.ibooks.CacheDeleteExtension" = 0;
+        "com.apple.installd.CacheDelete" = 0;
+        "com.apple.logd.cachedelete" = 4947008;
+        "com.apple.metadata.mds.cachedelete" = 1146744;
+        "com.apple.mobileassetd.cache-delete" = 0;
+        "com.apple.quicklook.ThumbnailsAgent.CacheDelete" = 0;
+        "com.apple.revisiond.cache-delete" = 0;
+        "com.apple.system_installd.CacheDelete" = 0;
+    };
+}

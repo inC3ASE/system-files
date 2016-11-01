@@ -1,0 +1,247 @@
+Complete
+ARPT: 17860.023220: FrameID: 0x020b   Seq: 0x00dd   TxStatus: 0x0103
+ARPT: 17860.023244: ACK 0 IM 0 PM 0 Suppr 0 (None)
+ARPT: 17860.023253: CNT(rts_tx)=0 CNT(frag_tx_cnt)=15 CNT(cts_rx_cnt)=0
+ARPT: 17860.023261: DequeueTime: 0xaab06048 LastTxTime: 0xe91434ae PHYTxErr:   0x0000 RxAckRSSI: 0x0000 RxAckSQ: 0x0000
+ARPT: 17860.023294: Raw[0]    1 Valid
+ARPT: 17860.023305: [2]    0 IM
+ARPT: 17860.023311: [3]    0 PM
+ARPT: 17860.023317: [7-4]  0 Suppr
+ARPT: 17860.023337: [14:8] 1 Ncons
+ARPT: 17860.023343: [15]   0 Acked
+ARPT: 17860.023351: txpktpend AC_BK 0 AC_BE 1 AC_VI 0 AC_VO 1 BCMC 0 ATIM 0
+ARPT: 17886.336904: txpkt (MPDU) Complete
+ARPT: 17886.336925: FrameID: 0x2e0b   Seq: 0x0116   TxStatus: 0x010b
+ARPT: 17886.336964: ACK 0 IM 0 PM 1 Suppr 0 (None)
+ARPT: 17886.336987: CNT(rts_tx)=0 CNT(frag_tx_cnt)=15 CNT(cts_rx_cnt)=0
+ARPT: 17886.337008: DequeueTime: 0xaab06048 LastTxTime: 0xeaa5afff PHYTxErr:   0x0000 RxAckRSSI: 0x0000 RxAckSQ: 0x0000
+ARPT: 17886.337042: Raw[0]    1 Valid
+ARPT: 17886.337053: [2]    0 IM
+ARPT: 17886.337059: [3]    1 PM
+ARPT: 17886.337065: [7-4]  0 Suppr
+ARPT: 17886.337071: [14:8] 1 Ncons
+ARPT: 17886.337078: [15]   0 Acked
+ARPT: 17886.337086: txpktpend AC_BK 0 AC_BE 0 AC_VI 0 AC_VO 1 BCMC 0 ATIM 0
+SmartBattery: finished polling type 4
+SmartBattery: finished polling type 4
+IO80211Interface::updateReport _peerManager is missing
+SmartBattery: finished polling type 4
+ARPT: 18022.911213: txpkt (MPDU) Complete
+ARPT: 18022.911226: FrameID: 0x2e1b   Seq: 0x01da   TxStatus: 0x0103
+ARPT: 18022.911250: ACK 0 IM 0 PM 0 Suppr 0 (None)
+ARPT: 18022.911258: CNT(rts_tx)=0 CNT(frag_tx_cnt)=15 CNT(cts_rx_cnt)=0
+ARPT: 18022.911267: DequeueTime: 0xaab06048 LastTxTime: 0xf2c96b46 PHYTxErr:   0x0000 RxAckRSSI: 0x0000 RxAckSQ: 0x0000
+ARPT: 18022.911300: Raw[0]    1 Valid
+ARPT: 18022.911311: [2]    0 IM
+ARPT: 18022.911317: [3]    0 PM
+ARPT: 18022.911323: [7-4]  0 Suppr
+ARPT: 18022.911329: [14:8] 1 Ncons
+ARPT: 18022.911336: [15]   0 Acked
+ARPT: 18022.911344: txpktpend AC_BK 0 AC_BE 1 AC_VI 0 AC_VO 1 BCMC 0 ATIM 0
+SmartBattery: finished polling type 2
+SmartBattery: finished polling type 4
+UserEventAgent is not entitledloginwindow is not entitledSmartBattery: finished polling type 4
+AirPort: Link Down on awdl0. Reason 1 (Unspecified).
+ARPT: 18214.574977: txpkt (MPDU) Complete
+ARPT: 18214.574990: FrameID: 0x5413   Seq: 0x02e6   TxStatus: 0x0103
+ARPT: 18214.575027: ACK 0 IM 0 PM 0 Suppr 0 (None)
+ARPT: 18214.575035: CNT(rts_tx)=0 CNT(frag_tx_cnt)=15 CNT(cts_rx_cnt)=0
+ARPT: 18214.575054: DequeueTime: 0xaab06048 LastTxTime: 0xfe35d524 PHYTxErr:   0x0000 RxAckRSSI: 0x0000 RxAckSQ: 0x0000
+ARPT: 18214.575088: Raw[0]    1 Valid
+ARPT: 18214.575099: [2]    0 IM
+ARPT: 18214.575106: [3]    0 PM
+ARPT: 18214.575112: [7-4]  0 Suppr
+ARPT: 18214.575118: [14:8] 1 Ncons
+ARPT: 18214.575124: [15]   0 Acked
+ARPT: 18214.575132: txpktpend AC_BK 0 AC_BE 1 AC_VI 0 AC_VO 1 BCMC 0 ATIM 0
+SmartBattery: finished polling type 4
+ARPT: 18286.410689: txpkt (MPDU) Complete
+ARPT: 18286.410698: FrameID: 0x300b   Seq: 0x0354   TxStatus: 0x010b
+ARPT: 18286.410716: ACK 0 IM 0 PM 1 Suppr 0 (None)
+ARPT: 18286.410722: CNT(rts_tx)=0 CNT(frag_tx_cnt)=15 CNT(cts_rx_cnt)=0
+ARPT: 18286.410729: DequeueTime: 0xaab06048 LastTxTime: 0x027de326 PHYTxErr:   0x0000 RxAckRSSI: 0x0000 RxAckSQ: 0x0000
+ARPT: 18286.410753: Raw[0]    1 Valid
+ARPT: 18286.410762: [2]    0 IM
+ARPT: 18286.410766: [3]    1 PM
+ARPT: 18286.410771: [7-4]  0 Suppr
+ARPT: 18286.410775: [14:8] 1 Ncons
+ARPT: 18286.410780: [15]   0 Acked
+ARPT: 18286.410785: txpktpend AC_BK 0 AC_BE 0 AC_VI 0 AC_VO 1 BCMC 0 ATIM 0
+SmartBattery: finished polling type 4
+SmartBattery: finished polling type 4
+ARPT: 18408.462543: txpkt (MPDU) Complete
+ARPT: 18408.462562: FrameID: 0x461b   Seq: 0x03ff   TxStatus: 0x010b
+ARPT: 18408.462601: ACK 0 IM 0 PM 1 Suppr 0 (None)
+ARPT: 18408.462622: CNT(rts_tx)=0 CNT(frag_tx_cnt)=15 CNT(cts_rx_cnt)=0
+ARPT: 18408.462642: DequeueTime: 0xaab06048 LastTxTime: 0x09c41bc2 PHYTxErr:   0x0000 RxAckRSSI: 0x0000 RxAckSQ: 0x0000
+ARPT: 18408.462675: Raw[0]    1 Valid
+ARPT: 18408.462687: [2]    0 IM
+ARPT: 18408.462705: [3]    1 PM
+ARPT: 18408.462711: [7-4]  0 Suppr
+ARPT: 18408.462717: [14:8] 1 Ncons
+ARPT: 18408.462723: [15]   0 Acked
+ARPT: 18408.462731: txpktpend AC_BK 0 AC_BE 0 AC_VI 0 AC_VO 1 BCMC 0 ATIM 0
+SmartBattery: finished polling type 4
+ARPT: 18450.473446: txpkt (MPDU) Complete
+ARPT: 18450.473459: FrameID: 0x0e1b   Seq: 0x042c   TxStatus: 0x010b
+ARPT: 18450.473483: ACK 0 IM 0 PM 1 Suppr 0 (None)
+ARPT: 18450.473492: CNT(rts_tx)=0 CNT(frag_tx_cnt)=15 CNT(cts_rx_cnt)=0
+ARPT: 18450.473500: DequeueTime: 0xaab06048 LastTxTime: 0x0c4511fb PHYTxErr:   0x0000 RxAckRSSI: 0x0000 RxAckSQ: 0x0000
+ARPT: 18450.473533: Raw[0]    1 Valid
+ARPT: 18450.473544: [2]    0 IM
+ARPT: 18450.473550: [3]    1 PM
+ARPT: 18450.473556: [7-4]  0 Suppr
+ARPT: 18450.473563: [14:8] 1 Ncons
+ARPT: 18450.473569: [15]   0 Acked
+ARPT: 18450.473577: txpktpend AC_BK 0 AC_BE 0 AC_VI 0 AC_VO 1 BCMC 0 ATIM 0
+SmartBattery: finished polling type 4
+SmartBattery: finished polling type 4
+SmartBattery: finished polling type 4
+SmartBattery: finished polling type 4
+SmartBattery: finished polling type 4
+SmartBattery: finished polling type 4
+SmartBattery: finished polling type 4
+SmartBattery: finished polling type 4
+SmartBattery: finished polling type 4
+SmartBattery: finished polling type 4
+SmartBattery: finished polling type 4
+SmartBattery: finished polling type 4
+SmartBattery: finished polling type 4
+IO80211Interface::updateReport _peerManager is missing
+SmartBattery: finished polling type 4
+SmartBattery: finished polling type 2
+SmartBattery: finished polling type 4
+SmartBattery: finished polling type 4
+ARPT: 18877.399313: txpkt (MPDU) Complete
+ARPT: 18877.399325: FrameID: 0x481b   Seq: 0x0529   TxStatus: 0x0103
+ARPT: 18877.399349: ACK 0 IM 0 PM 0 Suppr 0 (None)
+ARPT: 18877.399357: CNT(rts_tx)=0 CNT(frag_tx_cnt)=15 CNT(cts_rx_cnt)=0
+ARPT: 18877.399366: DequeueTime: 0xaab06048 LastTxTime: 0x25b6aaa1 PHYTxErr:   0x0000 RxAckRSSI: 0x0000 RxAckSQ: 0x0000
+ARPT: 18877.399406: Raw[0]    1 Valid
+ARPT: 18877.399423: [2]    0 IM
+ARPT: 18877.399432: [3]    0 PM
+ARPT: 18877.399440: [7-4]  0 Suppr
+ARPT: 18877.399449: [14:8] 1 Ncons
+ARPT: 18877.399471: [15]   0 Acked
+ARPT: 18877.399483: txpktpend AC_BK 0 AC_BE 0 AC_VI 0 AC_VO 1 BCMC 0 ATIM 0
+SmartBattery: finished polling type 4
+UserEventAgent is not entitledloginwindow is not entitledSandboxViolation: dtrace(10779) System Policy: deny(1) forbidden-kas-info
+SandboxViolation: mdworker(10132) deny(1) file-read-data /Users/archopposition/Library/Preferences/com.apple.LaunchServices/com.apple.launchservices.secure.plist
+SandboxViolation: mdworker(10132) deny(1) file-read-data /Users/archopposition/Library/Preferences/com.apple.LaunchServices/com.apple.launchservices.secure.plist
+SmartBattery: finished polling type 4
+hfs: mounted Docker on device disk2s1
+SandboxViolation: mdworker(10133) deny(1) file-read-data /Users/archopposition/Library/Preferences/com.apple.LaunchServices/com.apple.launchservices.secure.plist
+SandboxViolation: mdworker(10133) deny(1) file-read-data /Users/archopposition/Library/Preferences/com.apple.LaunchServices/com.apple.launchservices.secure.plist
+hfs: unmount initiated on Docker on device disk2s1
+ARPT: 18999.703990: txpkt (MPDU) Complete
+ARPT: 18999.704006: FrameID: 0x360b   Seq: 0x05f3   TxStatus: 0x0103
+ARPT: 18999.704040: ACK 0 IM 0 PM 0 Suppr 0 (None)
+ARPT: 18999.704052: CNT(rts_tx)=0 CNT(frag_tx_cnt)=15 CNT(cts_rx_cnt)=0
+ARPT: 18999.704065: DequeueTime: 0xaab06048 LastTxTime: 0x2d00db59 PHYTxErr:   0x0000 RxAckRSSI: 0x0000 RxAckSQ: 0x0000
+ARPT: 18999.704116: Raw[0]    1 Valid
+ARPT: 18999.704132: [2]    0 IM
+ARPT: 18999.704142: [3]    0 PM
+ARPT: 18999.704150: [7-4]  0 Suppr
+ARPT: 18999.704160: [14:8] 1 Ncons
+ARPT: 18999.704169: [15]   0 Acked
+ARPT: 18999.704181: txpktpend AC_BK 0 AC_BE 2 AC_VI 0 AC_VO 1 BCMC 0 ATIM 0
+UserEventAgent is not entitledloginwindow is not entitledSmartBattery: finished polling type 4
+SandboxViolation: mdworker(10992) deny(1) file-read-data /Users/archopposition/Library/Preferences/com.apple.LaunchServices/com.apple.launchservices.secure.plist
+SandboxViolation: mdworker(10992) deny(1) file-read-data /Users/archopposition/Library/Preferences/com.apple.LaunchServices/com.apple.launchservices.secure.plist
+UserEventAgent is not entitledloginwindow is not entitledSandboxViolation: secinitd(7065) deny(1) mach-lookup com.apple.metadata.mds.legacy
+SmartBattery: finished polling type 4
+ARPT: 19080.761906: txpkt (MPDU) Complete
+ARPT: 19080.761934: FrameID: 0x3a1b   Seq: 0x0694   TxStatus: 0x0103
+ARPT: 19080.761957: ACK 0 IM 0 PM 0 Suppr 0 (None)
+ARPT: 19080.761964: CNT(rts_tx)=0 CNT(frag_tx_cnt)=15 CNT(cts_rx_cnt)=0
+ARPT: 19080.761972: DequeueTime: 0xaab06048 LastTxTime: 0x31d5a1bb PHYTxErr:   0x0000 RxAckRSSI: 0x0000 RxAckSQ: 0x0000
+ARPT: 19080.762001: Raw[0]    1 Valid
+ARPT: 19080.762054: [2]    0 IM
+ARPT: 19080.762060: [3]    0 PM
+ARPT: 19080.762066: [7-4]  0 Suppr
+ARPT: 19080.762071: [14:8] 1 Ncons
+ARPT: 19080.762076: [15]   0 Acked
+ARPT: 19080.762084: txpktpend AC_BK 0 AC_BE 1 AC_VI 0 AC_VO 1 BCMC 0 ATIM 0
+SmartBattery: finished polling type 4
+IO80211Interface::updateReport _peerManager is missing
+SmartBattery: finished polling type 4
+process com.docker.hyper[11074] caught waking the CPU 45008 times over ~166 seconds, averaging 271 wakes / second and violating a limit of 45000 wakes over 300 seconds.
+SmartBattery: finished polling type 4
+SmartBattery: finished polling type 2
+SmartBattery: finished polling type 4
+SmartBattery: finished polling type 4
+SmartBattery: finished polling type 4
+SmartBattery: finished polling type 4
+SandboxViolation: mdworker(11094) deny(1) file-read-data /Users/archopposition/Library/Preferences/com.apple.LaunchServices/com.apple.launchservices.secure.plist
+SandboxViolation: mdworker(11094) deny(1) file-read-data /Users/archopposition/Library/Preferences/com.apple.LaunchServices/com.apple.launchservices.secure.plist
+SandboxViolation: mdworker(11095) deny(1) file-read-data /Users/archopposition/Library/Preferences/com.apple.LaunchServices/com.apple.launchservices.secure.plist
+SandboxViolation: mdworker(11095) deny(1) file-read-data /Users/archopposition/Library/Preferences/com.apple.LaunchServices/com.apple.launchservices.secure.plist
+SmartBattery: finished polling type 4
+UserEventAgent is not entitledloginwindow is not entitledARPT: 19657.486600: txpkt (MPDU) Complete
+ARPT: 19657.486612: FrameID: 0x5a0b   Seq: 0x082e   TxStatus: 0x010b
+ARPT: 19657.486637: ACK 0 IM 0 PM 1 Suppr 0 (None)
+ARPT: 19657.486645: CNT(rts_tx)=0 CNT(frag_tx_cnt)=15 CNT(cts_rx_cnt)=0
+ARPT: 19657.486653: DequeueTime: 0xaab06048 LastTxTime: 0x54351282 PHYTxErr:   0x0000 RxAckRSSI: 0x0000 RxAckSQ: 0x0000
+ARPT: 19657.486686: Raw[0]    1 Valid
+ARPT: 19657.486697: [2]    0 IM
+ARPT: 19657.486704: [3]    1 PM
+ARPT: 19657.486724: [7-4]  0 Suppr
+ARPT: 19657.486730: [14:8] 1 Ncons
+ARPT: 19657.486736: [15]   0 Acked
+ARPT: 19657.486744: txpktpend AC_BK 0 AC_BE 0 AC_VI 0 AC_VO 1 BCMC 0 ATIM 0
+SmartBattery: finished polling type 4
+SmartBattery: finished polling type 4
+SmartBattery: finished polling type 4
+IO80211Interface::updateReport _peerManager is missing
+SmartBattery: finished polling type 4
+SmartBattery: finished polling type 2
+SmartBattery: finished polling type 4
+SmartBattery: finished polling type 4
+SmartBattery: finished polling type 4
+UserEventAgent is not entitledloginwindow is not entitledSmartBattery: finished polling type 4
+UserEventAgent is not entitledloginwindow is not entitledSmartBattery: finished polling type 4
+UserEventAgent is not entitledloginwindow is not entitledSandboxViolation: mdworker(15302) deny(1) file-read-data /Users/archopposition/Library/Preferences/com.apple.LaunchServices/com.apple.launchservices.secure.plist
+SandboxViolation: mdworker(15302) deny(1) file-read-data /Users/archopposition/Library/Preferences/com.apple.LaunchServices/com.apple.launchservices.secure.plist
+IO80211Interface::updateReport _peerManager is missing
+SandboxViolation: coreaudiod(113) deny(1) file-read-metadata /Library/Audio
+SandboxViolation: coreaudiod(113) deny(1) file-read-metadata /Library/Audio
+IO80211Interface::updateReport _peerManager is missing
+SmartBattery: finished polling type 4
+SandboxViolation: QuickLookSatelli(15450) deny(1) file-read-data /Users/archopposition/Library/Preferences/com.apple.LaunchServices/com.apple.launchservices.secure.plist
+SandboxViolation: QuickLookSatelli(15450) deny(1) file-read-data /Users/archopposition/Library/Preferences/com.apple.LaunchServices/com.apple.launchservices.secure.plist
+hfs: mounted Recovery HD on device disk0s3
+hfs: unmount initiated on Recovery HD on device disk0s3
+SmartBattery: finished polling type 4
+         0 [Level 7] [Facility messagetracer] [com.apple.message.domain com.apple.kernel.tcpstat] [com.apple.message.signature tcpstat] [com.apple.message.signature2 netstat] [com.apple.message.signature3 sh] [com.apple.message.summarize YES] 
+         0 [Level 7] [Facility messagetracer] [com.apple.message.domain com.apple.kernel.tcpstat] [com.apple.message.signature tcpstat] [com.apple.message.signature2 netstat] [com.apple.message.signature3 sh] [com.apple.message.summarize YES] 
+         0 [Level 7] [Facility messagetracer] [com.apple.message.domain com.apple.kernel.tcpstat] [com.apple.message.signature tcpstat] [com.apple.message.signature2 netstat] [com.apple.message.signature3 sh] [com.apple.message.summarize YES] 
+         0 [Level 7] [Facility messagetracer] [com.apple.message.domain com.apple.kernel.tcpstat] [com.apple.message.signature tcpstat] [com.apple.message.signature2 netstat] [com.apple.message.signature3 sh] [com.apple.message.summarize YES] 
+         0 [Level 7] [Facility messagetracer] [com.apple.message.domain com.apple.kernel.tcpstat] [com.apple.message.signature tcpstat] [com.apple.message.signature2 netstat] [com.apple.message.signature3 sh] [com.apple.message.summarize YES] 
+_configureInterests - nElements <= 0!IOReportUserClient::clientMemoryForType NO MEMORY!!!_configureInterests - nElements <= 0!IOReportUserClient::clientMemoryForType NO MEMORY!!!ARPT: 20348.541731: txpkt (MPDU) Complete
+ARPT: 20348.541741: FrameID: 0x400b   Seq: 0x0a3d   TxStatus: 0x0103
+ARPT: 20348.541757: ACK 0 IM 0 PM 0 Suppr 0 (None)
+ARPT: 20348.541763: CNT(rts_tx)=0 CNT(frag_tx_cnt)=15 CNT(cts_rx_cnt)=0
+ARPT: 20348.541769: DequeueTime: 0xaab06048 LastTxTime: 0x7d6582c3 PHYTxErr:   0x0000 RxAckRSSI: 0x0000 RxAckSQ: 0x0000
+ARPT: 20348.541791: Raw[0]    1 Valid
+ARPT: 20348.541799: [2]    0 IM
+ARPT: 20348.541803: [3]    0 PM
+ARPT: 20348.541807: [7-4]  0 Suppr
+ARPT: 20348.541820: [14:8] 1 Ncons
+ARPT: 20348.541825: [15]   0 Acked
+ARPT: 20348.541831: txpktpend AC_BK 0 AC_BE 0 AC_VI 0 AC_VO 1 BCMC 0 ATIM 0
+ARPT: 20348.587380: txpkt (MPDU) Complete
+ARPT: 20348.587388: FrameID: 0x420b   Seq: 0x0a3e   TxStatus: 0x010b
+ARPT: 20348.587403: ACK 0 IM 0 PM 1 Suppr 0 (None)
+ARPT: 20348.587408: CNT(rts_tx)=0 CNT(frag_tx_cnt)=15 CNT(cts_rx_cnt)=0
+ARPT: 20348.587413: DequeueTime: 0xaab06048 LastTxTime: 0x7d663513 PHYTxErr:   0x0000 RxAckRSSI: 0x0000 RxAckSQ: 0x0000
+ARPT: 20348.587434: Raw[0]    1 Valid
+ARPT: 20348.587441: [2]    0 IM
+ARPT: 20348.587445: [3]    1 PM
+ARPT: 20348.587448: [7-4]  0 Suppr
+ARPT: 20348.587452: [14:8] 1 Ncons
+ARPT: 20348.587456: [15]   0 Acked
+ARPT: 20348.587461: txpktpend AC_BK 0 AC_BE 0 AC_VI 0 AC_VO 1 BCMC 0 ATIM 0
+         0 [Level 7] [Facility messagetracer] [com.apple.message.domain com.apple.kernel.tcpstat] [com.apple.message.signature tcpstat] [com.apple.message.signature2 sysctl] [com.apple.message.signature3 sh] [com.apple.message.summarize YES] 
+         0 [Level 7] [Facility messagetracer] [com.apple.message.domain com.apple.kernel.tcpstat] [com.apple.message.signature tcpstat] [com.apple.message.signature2 sysctl] [com.apple.message.signature3 sh] [com.apple.message.summarize YES] 
+         0 [Level 7] [Facility messagetracer] [com.apple.message.domain com.apple.kernel.tcpstat] [com.apple.message.signature tcpinfo] [com.apple.message.signature2 sysctl] [com.apple.message.signature3 sh] [com.apple.message.summarize YES] 
+         0 [Level 7] [Facility messagetracer] [com.apple.message.domain com.apple.kernel.tcpstat] [com.apple.message.signature tcpinfo] [com.apple.message.signature2 sysctl] [com.apple.message.signature3 sh] [com.apple.message.summarize YES] 

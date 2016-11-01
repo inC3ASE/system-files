@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>destinationPath</key>
+	<string>/tmp</string>
+	<key>finaldestinationPath</key>
+	<string>/var/tmp/sysdiagnose_2016.10.29_21-06-02-0700/logs/loginwindow</string>
+	<key>isSysdiagnose</key>
+	<true/>
+</dict>
+</plist>

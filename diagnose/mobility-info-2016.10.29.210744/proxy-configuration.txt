@@ -1,0 +1,23 @@
+#
+# scutil -d -v --proxy
+#
+<dictionary> {
+  ExceptionsList : <array> {
+    0 : *.local
+    1 : 169.254/16
+  }
+  FTPPassive : 1
+  HTTPSEnable : 0
+  HTTPSUser : user
+  __SCOPED__ : <dictionary> {
+    en0 : <dictionary> {
+      ExceptionsList : <array> {
+        0 : *.local
+        1 : 169.254/16
+      }
+      FTPPassive : 1
+      HTTPSEnable : 0
+      HTTPSUser : user
+    }
+  }
+}

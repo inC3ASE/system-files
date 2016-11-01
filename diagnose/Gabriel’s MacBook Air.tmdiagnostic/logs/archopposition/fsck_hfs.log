@@ -1,0 +1,62 @@
+
+fsck_hfs started at Thu Oct 27 21:05:31 2016
+** /dev/rdisk2s1 (NO WRITE)
+   Executing fsck_hfs (version hfs-366.1.1).
+** Checking Journaled HFS Plus volume.
+   The volume name is VirtualBox
+** Checking extents overflow file.
+** Checking catalog file.
+** Checking multi-linked files.
+** Checking catalog hierarchy.
+** Checking extended attributes file.
+** Checking volume bitmap.
+** Checking volume information.
+** The volume VirtualBox appears to be OK.
+fsck_hfs completed at Thu Oct 27 21:05:31 2016
+
+
+fsck_hfs started at Sat Oct 29 17:51:03 2016
+** /dev/rdisk2s2 (NO WRITE)
+   Executing fsck_hfs (version hfs-366.1.1).
+** Checking non-journaled HFS Plus Volume.
+   The volume name is Firefox
+** Checking extents overflow file.
+** Checking catalog file.
+** Checking multi-linked files.
+** Checking catalog hierarchy.
+** Checking volume bitmap.
+** Checking volume information.
+** The volume Firefox appears to be OK.
+fsck_hfs completed at Sat Oct 29 17:51:03 2016
+
+
+fsck_hfs started at Sat Oct 29 17:53:10 2016
+** /dev/rdisk2s2 (NO WRITE)
+   Executing fsck_hfs (version hfs-366.1.1).
+** Checking non-journaled HFS Plus Volume.
+   The volume name is Flash Player
+** Checking extents overflow file.
+** Checking catalog file.
+** Checking multi-linked files.
+** Checking catalog hierarchy.
+** Checking volume bitmap.
+** Checking volume information.
+** The volume Flash Player appears to be OK.
+fsck_hfs completed at Sat Oct 29 17:53:10 2016
+
+
+fsck_hfs started at Sat Oct 29 20:44:45 2016
+** /dev/rdisk2s1 (NO WRITE)
+   Executing fsck_hfs (version hfs-366.1.1).
+** Checking non-journaled HFS Plus Volume.
+   The volume name is Docker
+** Checking extents overflow file.
+** Checking catalog file.
+** Checking multi-linked files.
+** Checking catalog hierarchy.
+** Checking extended attributes file.
+** Checking volume bitmap.
+** Checking volume information.
+** The volume Docker appears to be OK.
+fsck_hfs completed at Sat Oct 29 20:44:45 2016
+

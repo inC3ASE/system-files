@@ -1,0 +1,465 @@
+brctl: Dumping
+    containers: <all>
+    from:        running bird
+dump taken at 10/29/16, 9:10:16 PM [account=10316862963] [home=/Users/archopposition]
+
+boot_history (startup 185773.3s ago)
+-----------------------------------------------------
+server_truth
+  [10/27/16, 5:34:48 PM] OS:16B2657 CloudDocs:483.3 BirdSchema:7003 DBSchema:7003
+client_truth
+  [10/27/16, 5:34:48 PM] OS:16B2657 CloudDocs:483.3 BirdSchema:7003 DBSchema:7003
+backup_detector
+  [446786|446792|1] OS:16B2657 CloudDocs:483.3 DBSchema:7003
+
+server_state
+-----------------------------------------------------
+last-sync:2016-10-28 03:31:11 +0000 nextRank:46 shared-db{last-sync:never, caught-up, token:unkown-token-size:9 (AQAAAVgJVT8B)}
+
+client_state
+-----------------------------------------------------
+{
+    clientRanks = "nextNotifRank:61 nextPackageItemRank:1";
+    containerMetadataSync = "serverChangeToken:<CKServerChangeToken: 0x7fa97873c100; data=AQAAAAAAAAANf//////////dL21kxXRMm7Gdx/1m1Pm+> lastSyncDate:2016-10-27 20:37:03";
+    fsevents = "streamUUID:DEA7A45E-BF34-4A6C-B46B-069CE1EC26D0 event:233244 root:446750";
+    hasCompletedPCSMigration = 1;
+    periodicSyncDate = "2016-10-30 03:44:48 +0000";
+    purgeableSpace =     {
+        3 = 0;
+        2 = 0;
+        1 = 0;
+        4 = 0;
+    };
+    purgeableSpaceDate = "2016-10-30 04:09:35 +0000";
+    stage = "gc:1477800354";
+    syncUpBudget = "<BRCSyncBudgetThrottle {  m:2.0  h:2.0  d:19.4  }>";
+    zoneHealthSync = "zone-health-state{last-sync:(null), needs-syncdown:NO, requestID:0, changeToken:(null)}";
+}
+
+devices:
+    o "AdminUbunYu’s MacBook Air" (1)
+    o "Gabriel’s MacBook Air" (2)
+
+users:
+
+system
+-----------------------------------------------------
+    + network: online
+    + disk:    healthy [0;1;30m98 GB available[0m ([0;1;32mHFS[0m)
+    + power:   healthy
+    + optimize storage: enabled
+
+scheduler
+-----------------------------------------------------
+    + push environment:      production
+    + push token:            <76f22a2d c3134a1d f398b3e4 2e9ddde0 529af843 3150d661 8e608183 6b5a3c58>
+    + global sync up budget: budget available {  48:39:28s ago  m:0.0% (2.0)  h:0.0% (2.0)  d:0.0% (19.4)  }
+    + periodic sync:         idle
+    + container-metadata:    has-synced-down 
+    + sharedb:               has-synced-down 
+    + zone-health:           idle 
+    + pcs-migration:         complete
+
+11 containers matching '*'
+-----------------------------------------------------
+- <com.apple.Automator[8] [0;1;30mbackground[0m {client:initial-faults-live|ever-live|root-created server:idle sync:has-synced-down last-sync:2016-10-27/17:35:10, requestID:2, caught-up, token:<[0;1m5[0m,current> rid:3}>
+-----------------------------------------------------
+    + app library: <com.apple.Automator[8] [0;1;30mbackground[0m {s:no-documents|no-data} ino:448576 gen:2 bundles:{com.apple.Automator}>
+
+    pending activity (greedy)
+    ================
+    + downloads: idle
+    + uploads:   idle
+    + reader:    idle
+    + apply:     expired:0
+    + sync:      [scheduling: idle]
+      up-budget: budget available {  51:35:18s ago  m:0.0% (1.0)  h:0.0% (1.0)  d:0.0% (1.0)  }
+    + metadata:  idle etag:8 apps:{com.apple.Automator:419} DocumentScopePublic|InInitialState
+    
+    server items (last-sync:2016-10-27/17:35:10, requestID:2, caught-up, token:<[0;1m5[0m,current>)
+    ============
+    i:[33m<documents[8]>[39m rk:37 st{p:[33m<root[8]>[39m n:"[0;1mDocuments[0m" dir etag:5 bt:1467772025 m:rw-}
+    
+    client items
+    ============
+    i:root f:448576 genID:2
+    r:7 i:[33m<documents[8]>[39m al:8 up:idle st{p:[33m<root[8]>[39m n:"[0;1mDocuments[0m" dir etag:5 bt:1467772025 m:rw- ino:448577 gen:1 sc:data}
+    
+    + budget:    system data:[0;1;30m13.5 MB (13517153)[0m energy:1451mWh (for the day)
+-----------------------------------------------------
+- <com.apple.CloudDocs[1] [0;1;30mbackground[0m {client:initial-faults-live|ever-live|root-created server:idle sync:has-synced-down last-sync:2016-10-27/17:35:00, caught-up, token:<[0;1m4[0m,current> rid:0}>
+-----------------------------------------------------
+    + app library: <com.apple.CloudDocs[1] [0;1;30mbackground[0m {s:no-data} ino:446800 gen:1>
+
+    pending activity (greedy)
+    ================
+    + downloads: idle
+    + uploads:   idle
+    + reader:    idle
+    + apply:     expired:0
+    + sync:      [scheduling: idle]
+      up-budget: budget available {  51:35:28s ago  m:0.0% (0.0)  h:0.0% (0.0)  d:0.0% (0.0)  }
+    + metadata:  idle etag:(null) apps:{} DocumentScopePublic|InCloudDocsZone
+    
+    server items (last-sync:2016-10-27/17:35:00, caught-up, token:<[0;1m4[0m,current>)
+    ============
+    
+    client items
+    ============
+    i:root f:446800 genID:1
+    
+    scheduling sync contexts
+    ========================
+    + com.apple.CloudDocs-metadata
+        + budget:    system data:[0;1;30m13.5 MB (13517153)[0m energy:1451mWh (for the day)
+    + com.apple.CloudDocs
+        + budget:    system data:[0;1;30m13.5 MB (13517153)[0m energy:1451mWh (for the day)
+    
+-----------------------------------------------------
+- <com.apple.mail[7] [0;1;30mbackground[0m {client:initial-faults-live|ever-live|root-created server:idle sync:has-synced-down last-sync:2016-10-27/17:35:11, requestID:2, caught-up, token:<[0;1m13[0m,current> rid:3}>
+-----------------------------------------------------
+    + app library: <com.apple.mail[7] [0;1;30mbackground[0m {s:no-documents} ino:448514 gen:2 bundles:{com.apple.mail}>
+
+    pending activity (greedy)
+    ================
+    + downloads: idle
+    + uploads:   idle
+    + reader:    idle
+    + apply:     expired:0
+    + sync:      [scheduling: idle]
+      up-budget: budget available {  51:35:18s ago  m:0.0% (1.0)  h:0.0% (1.0)  d:0.0% (1.0)  }
+    + metadata:  idle etag:a apps:{com.apple.mail:3124}
+    
+    server items (last-sync:2016-10-27/17:35:11, requestID:2, caught-up, token:<[0;1m13[0m,current>)
+    ============
+    i:[33m<83CBBCD7>[39m rk:30 st{p:[33m<root[7]>[39m n:"[0;1mData[0m" dir etag:6 bt:1468410555 m:rw-}
+     i:[33m<02573E44>[39m rk:32 st{p:[33m<83CBBCD7>[39m n:"[0;1mV3[0m" dir etag:7 bt:1468410555 m:rw-}
+      i:[33m<DDBD84C5>[39m rk:33 st{p:[33m<02573E44>[39m n:"[0;1mMailData[0m" dir etag:8 bt:1468410555 m:rw-}
+       i:[33m<0641019A>[39m rk:34 st{p:[33m<DDBD84C5>[39m n:"[0;1mubiquitous_SyncedRules.plist[0m" doc etag:c bt:1468410556 m:rw-} ct{etag:b mt:1468410556 sz:[0;1;30m5 KB (5912)[0m n:"ubiquitous_SyncedRules.plist" sig:[0;1;30m01239afa57daf37b0c9c06bd258f8ca5ab811e57d7[0m device:1 quarantined}
+       i:[33m<C4962F98>[39m rk:35 st{p:[33m<DDBD84C5>[39m n:"[0;1mubiquitous_SyncedSmartMailboxes.plist[0m" doc etag:a bt:1468410555 m:rw-} ct{etag:9 mt:1468410555 sz:[0;1;30m2 KB (2949)[0m n:"ubiquitous_SyncedSmartMailboxes.plist" sig:[0;1;30m019cd6c0288a27ad5d8a4dd74e35220b57a822ab06[0m device:1 quarantined}
+    i:[33m<documents[7]>[39m rk:39 st{p:[33m<root[7]>[39m n:"[0;1mDocuments[0m" dir etag:d bt:1467772026 m:rw-}
+    
+    client items
+    ============
+    i:root f:448514 genID:2
+    r:25 i:[33m<83CBBCD7>[39m al:7 up:idle st{p:[33m<root[7]>[39m n:"[0;1mData[0m" dir etag:6 bt:1468410555 m:rw- ino:449618 gen:1 sc:data}
+     r:26 i:[33m<02573E44>[39m al:7 up:idle st{p:[33m<83CBBCD7>[39m n:"[0;1mV3[0m" dir etag:7 bt:1468410555 m:rw- ino:449620 gen:1 sc:data}
+      r:27 i:[33m<DDBD84C5>[39m al:7 up:idle st{p:[33m<02573E44>[39m n:"[0;1mMailData[0m" dir etag:8 bt:1468410555 m:rw- ino:449622 gen:1 sc:data}
+       r:28 i:[33m<0641019A>[39m al:7 up:idle st{p:[33m<DDBD84C5>[39m n:"[0;1mubiquitous_SyncedRules.plist[0m" [0;1mfault[0m etag:c bt:1468410556 m:rw- doc:9 ino:449623 gen:2 pn:".ubiquitous_SyncedRules.plist.icloud" sc:data} ct{etag:b mt:1468410556 sz:[0;1;30m5 KB (5912)[0m n:"ubiquitous_SyncedRules.plist" sig:[0;1;30m01239afa57daf37b0c9c06bd258f8ca5ab811e57d7[0m device:1 quarantined} thumb{greedy }
+       > reclaimer{evictable:no}
+       r:29 i:[33m<C4962F98>[39m al:7 up:idle st{p:[33m<DDBD84C5>[39m n:"[0;1mubiquitous_SyncedSmartMailboxes.plist[0m" [0;1mfault[0m etag:a bt:1468410555 m:rw- doc:10 ino:449624 gen:2 pn:".ubiquitous_SyncedSmartMailboxes.plist.icloud" sc:data} ct{etag:9 mt:1468410555 sz:[0;1;30m2 KB (2949)[0m n:"ubiquitous_SyncedSmartMailboxes.plist" sig:[0;1;30m019cd6c0288a27ad5d8a4dd74e35220b57a822ab06[0m device:1 quarantined} thumb{greedy }
+       > reclaimer{evictable:no}
+    r:6 i:[33m<documents[7]>[39m al:7 up:idle st{p:[33m<root[7]>[39m n:"[0;1mDocuments[0m" dir etag:d bt:1467772026 m:rw- ino:448515 gen:1 sc:data}
+    
+    + budget:    system data:[0;1;30m13.5 MB (13517153)[0m energy:1451mWh (for the day)
+-----------------------------------------------------
+- <com.apple.Preview[9] [0;1;32mforeground[0m {client:initial-faults-live|ever-live|root-created server:idle sync:has-synced-down last-sync:2016-10-27/17:35:11, requestID:2, caught-up, token:<[0;1m11[0m,current> rid:3}>
+-----------------------------------------------------
+    + app library: <com.apple.Preview[9] [0;1;32mforeground[0m {s:no-data} ino:448631 gen:2 bundles:{com.apple.preview, com.apple.Preview}>
+
+    pending activity (greedy)
+    ================
+    + downloads: idle
+    + uploads:   idle
+    + reader:    idle
+    + apply:     expired:0
+    + sync:      [scheduling: idle]
+      up-budget: budget available {  51:35:18s ago  m:0.0% (1.0)  h:0.0% (1.0)  d:0.0% (1.0)  }
+    + metadata:  idle etag:d apps:{com.apple.preview:909.6; com.apple.Preview:877.7} DocumentScopePublic
+    
+    server items (last-sync:2016-10-27/17:35:11, requestID:2, caught-up, token:<[0;1m11[0m,current>)
+    ============
+    i:[33m<documents[9]>[39m rk:38 st{p:[33m<root[9]>[39m n:"[0;1mDocuments[0m" dir etag:b bt:1467772037 m:rw-}
+     i:[33m<5DB350BF>[39m rk:28 st{p:[33m<documents[9]>[39m n:"[0;1mBlacksLaw4thedition1891.pdf[0m" doc etag:a bt:1468129526 m:rw- hidden-ext} ct{etag:9 mt:1468129539 sz:[0;1;30m14.0 MB (13970682)[0m tsz:[0;1;30m68 KB (68278)[0m n:"BlacksLaw4thedition1891.pdf" sig:[0;1;30m01008402f38484efe5c80f0914438824d9808bb7c2[0m tsig:[0;1;30m0108f41a7a3700dbbd1a8b2ff5a46595a45e01f972[0m device:1 quarantined}
+     i:[33m<E4ADE6A6>[39m rk:27 st{p:[33m<documents[9]>[39m n:"[0;1mChapter6MethodsStudyingPublicOratoryAboutTerrorismpdf.pdf[0m" doc etag:8 bt:1468129312 m:rw- hidden-ext} ct{etag:7 mt:1468129312 sz:[0;1;30m106 KB (106444)[0m n:"Chapter6MethodsStudyingPublicOratoryAboutTerrorismpdf.pdf" sig:[0;1;30m0151858770e9c96b49148a0c338eafafff0e269965[0m device:1 quarantined}
+     i:[33m<C0D001BA>[39m rk:29 st{p:[33m<documents[9]>[39m n:"[0;1mchapter1StruggleDefineTerrorism.pdf[0m" doc etag:6 bt:1468129290 m:rw-} ct{etag:5 mt:1468129291 sz:[0;1;30m168 KB (168818)[0m n:"chapter1StruggleDefineTerrorism.pdf" sig:[0;1;30m01d59bf6dc39da9ac821db2f59a955051603a3dd8a[0m device:1 quarantined}
+    
+    client items
+    ============
+    i:root f:448631 genID:2
+    r:8 i:[33m<documents[9]>[39m al:9 up:idle st{p:[33m<root[9]>[39m n:"[0;1mDocuments[0m" dir etag:b bt:1467772037 m:rw- ino:448632 gen:1 sc:data}
+    > faults:3 
+     r:23 i:[33m<5DB350BF>[39m al:9 up:idle st{p:[33m<documents[9]>[39m n:"[0;1mBlacksLaw4thedition1891.pdf[0m" [0;1mfault[0m etag:a bt:1468129526 m:rw- hidden-ext doc:7 ino:449616 gen:2 pn:".BlacksLaw4thedition1891.pdf.icloud" sc:docs} ct{etag:9 mt:1468129539 sz:[0;1;30m14.0 MB (13970682)[0m tsz:[0;1;30m68 KB (68278)[0m n:"BlacksLaw4thedition1891.pdf" sig:[0;1;30m01008402f38484efe5c80f0914438824d9808bb7c2[0m tsig:[0;1;30m0108f41a7a3700dbbd1a8b2ff5a46595a45e01f972[0m device:1 quarantined} thumb{greedy }
+     > faults:1 
+     > reclaimer{evictable:no}
+     r:22 i:[33m<E4ADE6A6>[39m al:9 up:idle st{p:[33m<documents[9]>[39m n:"[0;1mChapter6MethodsStudyingPublicOratoryAboutTerrorismpdf.pdf[0m" [0;1mfault[0m etag:8 bt:1468129312 m:rw- hidden-ext doc:6 ino:449615 gen:2 pn:".Chapter6MethodsStudyingPublicOratoryAboutTerrorismpdf.pdf.icloud" sc:docs} ct{etag:7 mt:1468129312 sz:[0;1;30m106 KB (106444)[0m n:"Chapter6MethodsStudyingPublicOratoryAboutTerrorismpdf.pdf" sig:[0;1;30m0151858770e9c96b49148a0c338eafafff0e269965[0m device:1 quarantined} thumb{greedy }
+     > faults:1 
+     > reclaimer{evictable:no}
+     r:24 i:[33m<C0D001BA>[39m al:9 up:idle st{p:[33m<documents[9]>[39m n:"[0;1mchapter1StruggleDefineTerrorism.pdf[0m" [0;1mfault[0m etag:6 bt:1468129290 m:rw- doc:8 ino:449617 gen:2 pn:".chapter1StruggleDefineTerrorism.pdf.icloud" sc:docs} ct{etag:5 mt:1468129291 sz:[0;1;30m168 KB (168818)[0m n:"chapter1StruggleDefineTerrorism.pdf" sig:[0;1;30m01d59bf6dc39da9ac821db2f59a955051603a3dd8a[0m device:1 quarantined} thumb{greedy }
+     > faults:1 
+     > reclaimer{evictable:no}
+    
+    + budget:    system data:[0;1;30m13.5 MB (13517153)[0m energy:1451mWh (for the day)
+    + foreground clients:
+       o com.apple.preview
+-----------------------------------------------------
+- <com.apple.QuickTimePlayerX[2] [0;1;30mbackground[0m {client:initial-faults-live|ever-live|root-created server:idle sync:has-synced-down last-sync:2016-10-27/17:35:06, requestID:2, caught-up, token:<[0;1m5[0m,current> rid:3}>
+-----------------------------------------------------
+    + app library: <com.apple.QuickTimePlayerX[2] [0;1;30mbackground[0m {s:no-documents|no-data} ino:448410 gen:2 bundles:{com.apple.QuickTimePlayerX}>
+
+    pending activity (greedy)
+    ================
+    + downloads: idle
+    + uploads:   idle
+    + reader:    idle
+    + apply:     expired:0
+    + sync:      [scheduling: idle]
+      up-budget: budget available {  51:35:19s ago  m:0.0% (1.0)  h:0.0% (1.0)  d:0.0% (1.0)  }
+    + metadata:  idle etag:4 apps:{com.apple.QuickTimePlayerX:855}
+    
+    server items (last-sync:2016-10-27/17:35:06, requestID:2, caught-up, token:<[0;1m5[0m,current>)
+    ============
+    i:[33m<documents[2]>[39m rk:20 st{p:[33m<root[2]>[39m n:"[0;1mDocuments[0m" dir etag:5 bt:1467772019 m:rw-}
+    
+    client items
+    ============
+    i:root f:448410 genID:2
+    r:1 i:[33m<documents[2]>[39m al:2 up:idle st{p:[33m<root[2]>[39m n:"[0;1mDocuments[0m" dir etag:5 bt:1467772019 m:rw- ino:448411 gen:1 sc:data}
+    
+    + budget:    system data:[0;1;30m13.5 MB (13517153)[0m energy:1451mWh (for the day)
+-----------------------------------------------------
+- <com.apple.ScriptEditor2[11] [0;1;30mbackground[0m {client:initial-faults-live|ever-live|root-created server:idle sync:has-synced-down last-sync:2016-10-27/17:35:10, requestID:2, caught-up, token:<[0;1m5[0m,current> rid:3}>
+-----------------------------------------------------
+    + app library: <com.apple.ScriptEditor2[11] [0;1;30mbackground[0m {s:no-documents|no-data} ino:448635 gen:2 bundles:{com.apple.ScriptEditor2}>
+
+    pending activity (greedy)
+    ================
+    + downloads: idle
+    + uploads:   idle
+    + reader:    idle
+    + apply:     expired:0
+    + sync:      [scheduling: idle]
+      up-budget: budget available {  51:35:18s ago  m:0.0% (1.0)  h:0.0% (1.0)  d:0.0% (1.0)  }
+    + metadata:  idle etag:3 apps:{com.apple.ScriptEditor2:183.1} DocumentScopePublic|InInitialState
+    
+    server items (last-sync:2016-10-27/17:35:10, requestID:2, caught-up, token:<[0;1m5[0m,current>)
+    ============
+    i:[33m<documents[11]>[39m rk:36 st{p:[33m<root[11]>[39m n:"[0;1mDocuments[0m" dir etag:5 bt:1467772017 m:rw-}
+    
+    client items
+    ============
+    i:root f:448635 genID:2
+    r:10 i:[33m<documents[11]>[39m al:11 up:idle st{p:[33m<root[11]>[39m n:"[0;1mDocuments[0m" dir etag:5 bt:1467772017 m:rw- ino:448636 gen:1 sc:data}
+    
+    + budget:    system data:[0;1;30m13.5 MB (13517153)[0m energy:1451mWh (for the day)
+-----------------------------------------------------
+- <com.apple.TextEdit[10] [0;1;30mbackground[0m {client:initial-faults-live|ever-live|root-created server:idle sync:has-synced-down last-sync:2016-10-27/17:35:06, requestID:2, caught-up, token:<[0;1m13[0m,current> rid:3}>
+-----------------------------------------------------
+    + app library: <com.apple.TextEdit[10] [0;1;30mbackground[0m {s:no-documents|no-data} ino:448633 gen:2 bundles:{com.apple.TextEdit}>
+
+    pending activity (greedy)
+    ================
+    + downloads: idle
+    + uploads:   idle
+    + reader:    idle
+    + apply:     expired:0
+    + sync:      [scheduling: idle]
+      up-budget: budget available {  51:35:18s ago  m:0.0% (1.0)  h:0.0% (1.0)  d:0.0% (1.0)  }
+    + metadata:  idle etag:7 apps:{com.apple.TextEdit:325} DocumentScopePublic|InInitialState
+    
+    server items (last-sync:2016-10-27/17:35:06, requestID:2, caught-up, token:<[0;1m13[0m,current>)
+    ============
+    i:[33m<documents[10]>[39m rk:19 st{p:[33m<root[10]>[39m n:"[0;1mDocuments[0m" dir etag:d bt:1467772020 m:rw-}
+    
+    client items
+    ============
+    i:root f:448633 genID:2
+    r:9 i:[33m<documents[10]>[39m al:10 up:idle st{p:[33m<root[10]>[39m n:"[0;1mDocuments[0m" dir etag:d bt:1467772020 m:rw- ino:448634 gen:1 sc:data}
+    
+    + budget:    system data:[0;1;30m13.5 MB (13517153)[0m energy:1451mWh (for the day)
+-----------------------------------------------------
+- <com.apple.TextInput[5] [0;1;32mforeground[0m {client:initial-faults-live|ever-live|root-created server:idle sync:has-synced-down last-sync:2016-10-27/20:31:11, requestID:8, caught-up, token:<[0;1m28[0m,current> rid:9}>
+-----------------------------------------------------
+    + app library: <com.apple.TextInput[5] [0;1;32mforeground[0m {s:no-documents} ino:448440 gen:2 bundles:{com.apple.inputmethod.TCIM, com.apple.InputMethodKit.TextReplacementService, com.apple.inputmethod.SCIM}>
+
+    pending activity (greedy)
+    ================
+    + downloads: idle
+    + uploads:   idle
+    + reader:    idle
+    + apply:     expired:0
+    + sync:      [scheduling: idle]
+      up-budget: budget available {  48:39:19s ago  m:0.0% (2.0)  h:0.0% (2.0)  d:0.0% (10.2)  }
+    + metadata:  idle etag:9 apps:{}
+    
+    server items (last-sync:2016-10-27/20:31:11, requestID:8, caught-up, token:<[0;1m28[0m,current>)
+    ============
+    i:[33m<EC0C755B>[39m rk:7 st{p:[33m<root[5]>[39m n:"[0;1mDictionaries[0m" dir etag:5 bt:1467772026 m:rw-}
+     i:[33m<FEE82874>[39m rk:8 st{p:[33m<EC0C755B>[39m n:"[0;1m.baseline[0m" dir etag:a bt:1467772032 m:rw-}
+      i:[33m<1AB2FB19>[39m rk:12 st{p:[33m<FEE82874>[39m n:"[0;1mUserDictionary[0m" dir etag:b bt:1467772032 m:rw-}
+       i:[33m<3B39BC30>[39m rk:13 st{p:[33m<1AB2FB19>[39m n:"[0;1mSAlQVUhF7208e6_gvZx_zdKx1U1AzKGem3HO2pLKjgY=[0m" dir etag:c bt:1467772032 m:rw-}
+        i:[33m<2DC443D8>[39m rk:15 st{p:[33m<3B39BC30>[39m n:"[0;1mbaseline.zip[0m" doc etag:e bt:1467772033 m:rw-} ct{etag:d mt:1467772033 sz:[0;1;30m8 KB (8195)[0m n:"baseline.zip" sig:[0;1;30m0109aa07f5de22fb187030c3318ec0add9fdd399da[0m device:1 quarantined}
+     i:[33m<6EDBC3F5>[39m rk:9 st{p:[33m<EC0C755B>[39m n:"[0;1m.cdmetadata[0m" dir etag:9 bt:1467772032 m:rw-}
+     i:[33m<AE74F715>[39m rk:40 st{p:[33m<EC0C755B>[39m n:"[0;1marchopposition~DF5370B0-056D-51EC-B126-7898E967BC3B[0m" dir etag:k bt:1477614933 m:rw-}
+      i:[33m<A86D2802>[39m rk:41 st{p:[33m<AE74F715>[39m n:"[0;1mUserDictionary[0m" dir etag:l bt:1477614933 m:rw-}
+       i:[33m<C4AAFF09>[39m rk:42 st{p:[33m<A86D2802>[39m n:"[0;1mSAlQVUhF7208e6_gvZx_zdKx1U1AzKGem3HO2pLKjgY=[0m" dir etag:m bt:1477614933 m:rw-}
+        i:[33m<D65E45BC>[39m rk:43 st{p:[33m<C4AAFF09>[39m n:"[0;1m2251EB82-240A-46BD-8BF2-DFF3B6F33C64.1.cdt[0m" doc etag:o bt:1477614931 m:rw-} ct{etag:n mt:1477614931 sz:[0;1;30m633 bytes[0m n:"2251EB82-240A-46BD-8BF2-DFF3B6F33C64.1.cdt" sig:[0;1;30m01bab98943818da9b4e092b9394f3235005376aa4b[0m device:2}
+        i:[33m<00E941FD>[39m rk:44 st{p:[33m<C4AAFF09>[39m n:"[0;1m3B80B854-70B9-4A51-B03C-ECADE4C190C7.1.cdt[0m" doc etag:q bt:1477614934 m:rw-} ct{etag:p mt:1477614934 sz:[0;1;30m665 bytes[0m n:"3B80B854-70B9-4A51-B03C-ECADE4C190C7.1.cdt" sig:[0;1;30m01f138c286c7ac3524549c776d07fc7235b7b9a732[0m device:2}
+        i:[33m<29874B27>[39m rk:45 st{p:[33m<C4AAFF09>[39m n:"[0;1mreceipt.0.cdt[0m" doc etag:s bt:1477625465 m:rw-} ct{etag:r mt:1477625465 sz:[0;1;30m262 bytes[0m n:"receipt.0.cdt" sig:[0;1;30m0184ac247395b47bc34e7fd00eea89f0027d772ba6[0m device:2}
+     i:[33m<F78D4A5B>[39m rk:10 st{p:[33m<EC0C755B>[39m n:"[0;1mubunyuadmin~DF5370B0-056D-51EC-B126-7898E967BC3B[0m" dir etag:6 bt:1467772032 m:rw-}
+      i:[33m<513E22B5>[39m rk:11 st{p:[33m<F78D4A5B>[39m n:"[0;1mUserDictionary[0m" dir etag:7 bt:1467772032 m:rw-}
+       i:[33m<03A9E191>[39m rk:14 st{p:[33m<513E22B5>[39m n:"[0;1mSAlQVUhF7208e6_gvZx_zdKx1U1AzKGem3HO2pLKjgY=[0m" dir etag:8 bt:1467772032 m:rw-}
+        i:[33m<5BEBDFF3>[39m rk:16 st{p:[33m<03A9E191>[39m n:"[0;1mF79E60B5-AA2E-4902-A105-503ADE999FBB.1.cdt[0m" doc etag:g bt:1467772027 m:rw-} ct{etag:f mt:1467772027 sz:[0;1;30m631 bytes[0m n:"F79E60B5-AA2E-4902-A105-503ADE999FBB.1.cdt" sig:[0;1;30m01450aa5419940dc41754c8c885a3318d2e7b947ed[0m device:1 quarantined}
+        i:[33m<6715C458>[39m rk:17 st{p:[33m<03A9E191>[39m n:"[0;1mreceipt.0.cdt[0m" doc etag:i bt:1467772628 m:rw-} ct{etag:h mt:1467772628 sz:[0;1;30m244 bytes[0m n:"receipt.0.cdt" sig:[0;1;30m013b1d3e47fbbc76047d344380cecb0ad125b3d72c[0m device:1 quarantined}
+    i:[33m<documents[5]>[39m rk:23 st{p:[33m<root[5]>[39m n:"[0;1mDocuments[0m" dir etag:j bt:1467772026 m:rw-}
+    
+    client items
+    ============
+    i:root f:448440 genID:2
+    r:11 i:[33m<EC0C755B>[39m al:5 up:idle st{p:[33m<root[5]>[39m n:"[0;1mDictionaries[0m" dir etag:5 bt:1467772026 m:rw- ino:449408 gen:1 sc:data}
+     r:12 i:[33m<FEE82874>[39m al:5 up:idle st{p:[33m<EC0C755B>[39m n:"[0;1m.baseline[0m" dir etag:a bt:1467772032 m:rw- ino:449409 gen:1 sc:data}
+      r:16 i:[33m<1AB2FB19>[39m al:5 up:idle st{p:[33m<FEE82874>[39m n:"[0;1mUserDictionary[0m" dir etag:b bt:1467772032 m:rw- ino:449415 gen:1 sc:data}
+       r:17 i:[33m<3B39BC30>[39m al:5 up:idle st{p:[33m<1AB2FB19>[39m n:"[0;1mSAlQVUhF7208e6_gvZx_zdKx1U1AzKGem3HO2pLKjgY=[0m" dir etag:c bt:1467772032 m:rw- ino:449417 gen:1 sc:data}
+        r:19 i:[33m<2DC443D8>[39m al:5 up:idle st{p:[33m<3B39BC30>[39m n:"[0;1mbaseline.zip[0m" doc etag:e bt:1467772033 m:rw- doc:3 ino:450219 gen:12 sc:data} ct{etag:d mt:1467772033 sz:[0;1;30m8 KB (8195)[0m n:"baseline.zip" sig:[0;1;30m0109aa07f5de22fb187030c3318ec0add9fdd399da[0m device:1 quarantined} thumb{greedy }
+        > reclaimer{evictable:no access:51.58h ago}
+     r:13 i:[33m<6EDBC3F5>[39m al:5 up:idle st{p:[33m<EC0C755B>[39m n:"[0;1m.cdmetadata[0m" dir etag:9 bt:1467772032 m:rw- ino:449410 gen:1 sc:data}
+     r:30 i:[33m<AE74F715>[39m al:5 up:idle st{p:[33m<EC0C755B>[39m n:"[0;1marchopposition~DF5370B0-056D-51EC-B126-7898E967BC3B[0m" dir etag:k bt:1477614933 m:rw- ino:450256 gen:3 sc:data}
+      r:31 i:[33m<A86D2802>[39m al:5 up:idle st{p:[33m<AE74F715>[39m n:"[0;1mUserDictionary[0m" dir etag:l bt:1477614933 m:rw- ino:450257 gen:2 sc:data}
+       r:32 i:[33m<C4AAFF09>[39m al:5 up:idle st{p:[33m<A86D2802>[39m n:"[0;1mSAlQVUhF7208e6_gvZx_zdKx1U1AzKGem3HO2pLKjgY=[0m" dir etag:m bt:1477614933 m:rw- ino:450258 gen:6 sc:data}
+        r:33 i:[33m<D65E45BC>[39m al:5 up:idle st{p:[33m<C4AAFF09>[39m n:"[0;1m2251EB82-240A-46BD-8BF2-DFF3B6F33C64.1.cdt[0m" doc etag:o bt:1477614931 m:rw- doc:11 ino:450168 gen:2 sc:data} ct{etag:n mt:1477614931 sz:[0;1;30m633 bytes[0m n:"2251EB82-240A-46BD-8BF2-DFF3B6F33C64.1.cdt" sig:[0;1;30m01bab98943818da9b4e092b9394f3235005376aa4b[0m device:2} thumb{greedy }
+        > reclaimer{evictable:no}
+        r:34 i:[33m<00E941FD>[39m al:5 up:idle st{p:[33m<C4AAFF09>[39m n:"[0;1m3B80B854-70B9-4A51-B03C-ECADE4C190C7.1.cdt[0m" doc etag:q bt:1477614934 m:rw- doc:12 ino:450311 gen:2 sc:data} ct{etag:p mt:1477614934 sz:[0;1;30m665 bytes[0m n:"3B80B854-70B9-4A51-B03C-ECADE4C190C7.1.cdt" sig:[0;1;30m01f138c286c7ac3524549c776d07fc7235b7b9a732[0m device:2} thumb{greedy }
+        > reclaimer{evictable:no}
+        r:35 i:[33m<29874B27>[39m al:5 up:idle st{p:[33m<C4AAFF09>[39m n:"[0;1mreceipt.0.cdt[0m" doc etag:s bt:1477625465 m:rw- doc:13 ino:454268 gen:2 sc:data} ct{etag:r mt:1477625465 sz:[0;1;30m262 bytes[0m n:"receipt.0.cdt" sig:[0;1;30m0184ac247395b47bc34e7fd00eea89f0027d772ba6[0m device:2} thumb{greedy }
+        > reclaimer{evictable:no}
+     r:14 i:[33m<F78D4A5B>[39m al:5 up:idle st{p:[33m<EC0C755B>[39m n:"[0;1mubunyuadmin~DF5370B0-056D-51EC-B126-7898E967BC3B[0m" dir etag:6 bt:1467772032 m:rw- ino:449411 gen:1 sc:data}
+      r:15 i:[33m<513E22B5>[39m al:5 up:idle st{p:[33m<F78D4A5B>[39m n:"[0;1mUserDictionary[0m" dir etag:7 bt:1467772032 m:rw- ino:449414 gen:1 sc:data}
+       r:18 i:[33m<03A9E191>[39m al:5 up:idle st{p:[33m<513E22B5>[39m n:"[0;1mSAlQVUhF7208e6_gvZx_zdKx1U1AzKGem3HO2pLKjgY=[0m" dir etag:8 bt:1467772032 m:rw- ino:449418 gen:1 sc:data}
+        r:20 i:[33m<5BEBDFF3>[39m al:5 up:idle st{p:[33m<03A9E191>[39m n:"[0;1mF79E60B5-AA2E-4902-A105-503ADE999FBB.1.cdt[0m" doc etag:g bt:1467772027 m:rw- doc:4 ino:450217 gen:4 sc:data} ct{etag:f mt:1467772027 sz:[0;1;30m631 bytes[0m n:"F79E60B5-AA2E-4902-A105-503ADE999FBB.1.cdt" sig:[0;1;30m01450aa5419940dc41754c8c885a3318d2e7b947ed[0m device:1 quarantined} thumb{greedy }
+        > reclaimer{evictable:no access:51.58h ago}
+        r:21 i:[33m<6715C458>[39m al:5 up:idle st{p:[33m<03A9E191>[39m n:"[0;1mreceipt.0.cdt[0m" doc etag:i bt:1467772628 m:rw- doc:5 ino:450218 gen:6 sc:data} ct{etag:h mt:1467772628 sz:[0;1;30m244 bytes[0m n:"receipt.0.cdt" sig:[0;1;30m013b1d3e47fbbc76047d344380cecb0ad125b3d72c[0m device:1 quarantined} thumb{greedy }
+        > reclaimer{evictable:no}
+    r:4 i:[33m<documents[5]>[39m al:5 up:idle st{p:[33m<root[5]>[39m n:"[0;1mDocuments[0m" dir etag:j bt:1467772026 m:rw- ino:448441 gen:1 sc:data}
+    
+    + budget:    system data:[0;1;30m13.5 MB (13517153)[0m energy:1451mWh (for the day)
+    + foreground clients:
+       o com.apple.keyboardservicesd
+-----------------------------------------------------
+- <iCloud.com.apple.iBooks[4] [0;1;30mbackground[0m {client:initial-faults-live|ever-live|root-created server:idle sync:has-synced-down last-sync:2016-10-27/17:35:06, requestID:2, caught-up, token:<[0;1m5[0m,current> rid:3}>
+-----------------------------------------------------
+    + app library: <iCloud.com.apple.iBooks[4] [0;1;30mbackground[0m {s:no-documents|no-data} ino:448425 gen:2 bundles:{com.apple.iBooksX}>
+
+    pending activity (greedy)
+    ================
+    + downloads: idle
+    + uploads:   idle
+    + reader:    idle
+    + apply:     expired:0
+    + sync:      [scheduling: idle]
+      up-budget: budget available {  51:35:19s ago  m:0.0% (1.0)  h:0.0% (1.0)  d:0.0% (1.0)  }
+    + metadata:  idle etag:6 apps:{com.apple.iBooksX:1110.10.44}
+    
+    server items (last-sync:2016-10-27/17:35:06, requestID:2, caught-up, token:<[0;1m5[0m,current>)
+    ============
+    i:[33m<documents[4]>[39m rk:22 st{p:[33m<root[4]>[39m n:"[0;1mDocuments[0m" dir etag:5 bt:1467772019 m:rw-}
+    
+    client items
+    ============
+    i:root f:448425 genID:2
+    r:3 i:[33m<documents[4]>[39m al:4 up:idle st{p:[33m<root[4]>[39m n:"[0;1mDocuments[0m" dir etag:5 bt:1467772019 m:rw- ino:448426 gen:1 sc:data}
+    
+    + budget:    system data:[0;1;30m13.5 MB (13517153)[0m energy:1451mWh (for the day)
+-----------------------------------------------------
+- <iCloud.com.apple.iBooks.iTunesU[3] [0;1;30mbackground[0m {client:initial-faults-live|ever-live|root-created server:idle sync:has-synced-down last-sync:2016-10-27/17:35:06, requestID:2, caught-up, token:<[0;1m5[0m,current> rid:3}>
+-----------------------------------------------------
+    + app library: <iCloud.com.apple.iBooks.iTunesU[3] [0;1;30mbackground[0m {s:no-documents|no-data} ino:448420 gen:2 bundles:{com.apple.iBooksX}>
+
+    pending activity (greedy)
+    ================
+    + downloads: idle
+    + uploads:   idle
+    + reader:    idle
+    + apply:     expired:0
+    + sync:      [scheduling: idle]
+      up-budget: budget available {  51:35:19s ago  m:0.0% (1.0)  h:0.0% (1.0)  d:0.0% (1.0)  }
+    + metadata:  idle etag:5 apps:{com.apple.iBooksX:1110.10.44}
+    
+    server items (last-sync:2016-10-27/17:35:06, requestID:2, caught-up, token:<[0;1m5[0m,current>)
+    ============
+    i:[33m<documents[3]>[39m rk:21 st{p:[33m<root[3]>[39m n:"[0;1mDocuments[0m" dir etag:5 bt:1467772019 m:rw-}
+    
+    client items
+    ============
+    i:root f:448420 genID:2
+    r:2 i:[33m<documents[3]>[39m al:3 up:idle st{p:[33m<root[3]>[39m n:"[0;1mDocuments[0m" dir etag:5 bt:1467772019 m:rw- ino:448421 gen:1 sc:data}
+    
+    + budget:    system data:[0;1;30m13.5 MB (13517153)[0m energy:1451mWh (for the day)
+-----------------------------------------------------
+- <iCloud.com.apple.ncplugin.weather[6] [0;1;30mbackground[0m {client:initial-faults-live|ever-live|root-created server:idle sync:has-synced-down last-sync:2016-10-27/17:35:06, requestID:2, caught-up, token:<[0;1m5[0m,current> rid:3}>
+-----------------------------------------------------
+    + app library: <iCloud.com.apple.ncplugin.weather[6] [0;1;30mbackground[0m {s:no-documents|no-data} ino:448494 gen:2>
+
+    pending activity (greedy)
+    ================
+    + downloads: idle
+    + uploads:   idle
+    + reader:    idle
+    + apply:     expired:0
+    + sync:      [scheduling: idle]
+      up-budget: budget available {  51:35:18s ago  m:0.0% (1.0)  h:0.0% (1.0)  d:0.0% (1.0)  }
+    + metadata:  idle etag:(null) apps:{}
+    
+    server items (last-sync:2016-10-27/17:35:06, requestID:2, caught-up, token:<[0;1m5[0m,current>)
+    ============
+    i:[33m<documents[6]>[39m rk:18 st{p:[33m<root[6]>[39m n:"[0;1mDocuments[0m" dir etag:5 bt:1467772025 m:rw-}
+    
+    client items
+    ============
+    i:root f:448494 genID:2
+    r:5 i:[33m<documents[6]>[39m al:6 up:idle st{p:[33m<root[6]>[39m n:"[0;1mDocuments[0m" dir etag:5 bt:1467772025 m:rw- ino:448495 gen:1 sc:data}
+    
+    + budget:    system data:[0;1;30m13.5 MB (13517153)[0m energy:1451mWh (for the day)
+-----------------------------------------------------
+client_pkg_items
+================
+
+
+12 xpc clients:
+ o quicklookd[15360]
+ o com.apple.BKAgentService[3155]
+ o firefox[4286]
+ o com.apple.finder[592]
+ o Spotlight[643]
+ o SystemUIServer[591]
+ o com.apple.brctl[17169]
+ o com.apple.keyboardservicesd[734]
+ o com.apple.Safari[3278]
+ o Dock[589]
+ o com.apple.finder[592]
+ o com.apple.preview[960]
+
+
+0 misc operations:
+
+file presenters for com.apple.bird
+-----------------------------------------------------
+  + keyboardservicesd[734] -> /Users/archopposition/Library/Mobile Documents/com~apple~TextInput/Dictionaries/.cdmetadata/metadata.nosync/archopposition~DF5370B0-056D-51EC-B126-7898E967BC3B/UserDictionary/metadata.store
+  + keyboardservicesd[734] -> /Users/archopposition/Library/Mobile Documents/com~apple~TextInput/Dictionaries/.cdmetadata/metadata.nosync/archopposition~DF5370B0-056D-51EC-B126-7898E967BC3B/UserDictionary/6D324DC0-31B4-436D-93BE-A8984B42DE7B.cid
+  + keyboardservicesd[734] -> /Users/archopposition/Library/Mobile Documents/com~apple~TextInput/Dictionaries
+
+global progress {none}
+-----------------------------------------------------
+    upload {none}
+    upload version sizes (0): {}
+    upload progresses (0): {}
+    upload pending quota (0): {}
+    
+    download {none}
+    download version sizes (0): {}
+    download progresses (0): {}
+    download resume unit count (0): {}
+    
+    app libraries not live (0): {}
+    
+apps monitor
+-----------------------------------------------------
+    app library IDs by App ID
+    =======================
+    {
+    }
+    
+    app IDs by app library IDs
+    =======================
+    {
+    }
+

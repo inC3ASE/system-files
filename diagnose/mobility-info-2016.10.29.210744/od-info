@@ -1,0 +1,458 @@
+#
+# odutil show all
+#
+Active connections:
+
+Node           Refs Module    Destination Socket Connected Shared Active Requests Credentials Timeout 
+-------------- ---- --------- ----------- ------ --------- ------ --------------- ----------- ------- 
+/Local/Default 51   PlistFile                    X         X      0                           0       
+/Local/Default 2    PlistFile                    X                0               Users/root  0       
+/Search        2    search                       X                0                           0       
+/Search        2    search                       X                0                           0       
+/Search        2    search                       X                0                           0       
+/Search        2    search                       X                0                           0       
+/Search        2    search                       X                0                           0       
+/Search        2    search                       X                0                           0       
+/Search        2    search                       X                0                           0       
+/Search        2    search                       X                0                           0       
+/Search        2    search                       X                0                           0       
+/Search        2    search                       X                0                           0       
+/Search        2    search                       X                0                           0       
+/Search        2    search                       X                0                           0       
+/Search        2    search                       X                0                           0       
+/Search        2    search                       X                0                           0       
+/Search        2    search                       X                0                           0       
+/Search        2    search                       X                0                           0       
+/Search        2    search                       X                0                           0       
+/Search        2    search                       X                0                           0       
+/Search        2    search                       X                0                           0       
+/Search        2    search                       X                0                           0       
+/Search        2    search                       X                0                           0       
+/Search        2    search                       X                0                           0       
+/Search        2    search                       X                0                           0       
+/Search        2    search                       X                0                           0       
+/Search        2    search                       X                0                           0       
+/Search        2    search                       X                0                           0       
+/Search        2    search                       X                0                           0       
+/Search        2    search                       X                0                           0       
+/Search        2    search                       X                0                           0       
+/Search        2    search                       X                0                           0       
+/Search        2    search                       X                0                           0       
+/Search        2    search                       X                0                           0       
+/Search        2    search                       X                0                           0       
+/Search        2    search                       X                0                           0       
+/Search        2    search                       X                0                           0       
+/Search        2    search                       X                0                           0       
+/Search        2    search                       X                0                           0       
+/Search        2    search                       X                0                           0       
+/Search        2    search                       X                0                           0       
+/Search        2    search                       X                0                           0       
+/Search        1    search                                        0                           0       
+
+Open nodes:
+
+PID      Node ID                              Refs Nodename       Options Legacy Internal Use Session ID 
+-------- ------------------------------------ ---- -------------- ------- ------ ------------ ---------- 
+23 -- syslogd -- total (2)
+         AE1795B4-F97E-44B9-AA9F-D97313CA08E7 1    /Local/Default                X            <Default>  
+         EB167240-AC78-4B41-99C2-5B3347232CE3 1    /Search        X              X            <Default>  
+27 -- fseventsd -- total (2)
+         2C363B39-223F-46E0-9AF2-883CCF083B01 1    /Search        X              X            <Default>  
+         366FAE31-BE95-49ED-A7C4-38C1D91D3B0C 1    /Local/Default                X            <Default>  
+32 -- appleeventsd -- total (2)
+         02B383D2-7BBF-4991-96D0-8BF2845165B5 1    /Search        X              X            <Default>  
+         FE2536C9-8BF7-4EF1-AAF7-07FBC1674E14 1    /Local/Default                X            <Default>  
+47 -- mds -- total (2)
+         D409DF71-D953-42DA-9097-20260F0C29D8 1    /Local/Default                X            <Default>  
+         F77E6D98-CDB0-4D73-B31A-FABAEA85A206 1    /Search        X              X            <Default>  
+52 -- iconservicesd -- total (2)
+         AB967F89-D16E-427B-9E54-D4F53BB59504 1    /Search        X              X            <Default>  
+         BFECA489-40E9-45B3-89EF-4B375EB8D8EC 1    /Local/Default                X            <Default>  
+63 -- opendirectoryd -- total (3)
+         70492A4B-7B34-461C-8581-7635E9AE888F 1    /Local/Default                X            <Default>  
+         70F8E4D9-B9C9-4A9F-A0E4-2E09D13FA702 1    /Search        X              X            <Default>  
+         DD9E5507-F6DA-4686-A4D0-D55EBBF0751A 1    /Search                       X            <Default>  
+66 -- apsd -- total (3)
+         56F19D59-4391-480D-BCA6-DA2D5AACD8EF 1    /Local/Default                X            <Default>  
+         5CE21CA5-3089-4030-803B-3C0F9E3185D4 1    /Local/Default                             <Default>  
+         99747684-4BE0-4417-92EE-CC91FF3A0ABA 1    /Search                                    <Default>  
+69 -- usbmuxd -- total (2)
+         17F9188C-5188-4791-B74F-B726F6263C24 1    /Search        X              X            <Default>  
+         93D0B1E7-B72E-4941-9504-65E1559441F2 1    /Local/Default                X            <Default>  
+70 -- securityd -- total (2)
+         1D8F8EF5-D884-4A47-B597-CE4A29F35E04 1    /Search        X              X            <Default>  
+         2EC3EA29-707F-4573-BFF1-7D9EBA86D875 1    /Local/Default                X            <Default>  
+72 -- locationd -- total (2)
+         2BCE38DB-27FC-43A3-89D4-65BA9BB1E265 1    /Search        X              X            <Default>  
+         6E31350B-2F75-4C48-9109-FD1803878BEB 1    /Local/Default                X            <Default>  
+74 -- DuetHeuristic-BM -- total (2)
+         3F3BEA5F-0B0A-48D1-9BA3-8F620EBAC0A3 1    /Local/Default                X            <Default>  
+         C49C5CD5-9431-4EA2-8E5D-226290F618D6 1    /Search        X              X            <Default>  
+86 -- hidd -- total (2)
+         68FAF257-B3D6-4341-A7F5-8C722581C2DC 1    /Search        X              X            <Default>  
+         F2A3EBB2-C111-4B62-A173-30D305104C45 1    /Local/Default                X            <Default>  
+87 -- AirPlayXPCHelper -- total (2)
+         C4F63F4F-ABC6-4715-B0AF-F76DB5B6AB83 1    /Search        X              X            <Default>  
+         CD706CF9-8C4D-4F81-B8F1-D4EE022E6F39 1    /Local/Default                X            <Default>  
+89 -- distnoted -- total (2)
+         D862A906-E175-4DCF-A48D-7F228702B746 1    /Local/Default                X            <Default>  
+         F1F99A5A-DF84-47A5-AF96-A2068F577B3E 1    /Search        X              X            <Default>  
+90 -- cfprefsd -- total (2)
+         2947B735-A1D6-4BDE-9A6D-FA6F44B50254 1    /Local/Default                X            <Default>  
+         8CD62F8C-9BD3-443C-9F3A-07C56262D207 1    /Search        X              X            <Default>  
+92 -- authd -- total (2)
+         9661D0D2-3457-4B73-9D57-183B9D662047 1    /Local/Default                X            <Default>  
+         D87B2FC4-330A-4569-9B70-9A9A527923CF 1    /Search        X              X            <Default>  
+106 -- sharedfilelistd -- total (2)
+         69995A04-AA05-4625-B4A2-9F7B362022BE 1    /Local/Default                X            <Default>  
+         924D2F5B-50A3-4328-B857-E1AF35E28349 1    /Local/Default                             <Default>  
+111 -- ctkd -- total (2)
+         14440F4B-7F28-466E-A123-B1BC98CA911E 1    /Local/Default                X            <Default>  
+         E120C892-B755-4C8F-9FE2-1C9FC836DB61 1    /Search        X              X            <Default>  
+113 -- coreaudiod -- total (2)
+         32991B5F-F2D1-4750-BBA0-089ECD44F2AD 1    /Search        X              X            <Default>  
+         9EEC3FCD-65E2-4220-8AAD-8F08A958233D 1    /Local/Default                X            <Default>  
+120 -- WindowServer -- total (2)
+         0D03E917-D90A-4126-A121-559EF9E209C6 1    /Local/Default                X            <Default>  
+         7C230315-2732-4D4E-A51B-429068307428 1    /Search        X              X            <Default>  
+123 -- mDNSResponder -- total (2)
+         08A432FA-526A-4EA4-A4E1-A9E6F4BFA233 1    /Local/Default                X            <Default>  
+         61F145D2-942B-46BC-A84D-454322145D73 1    /Search        X              X            <Default>  
+162 -- nsurlsessiond -- total (2)
+         0132165E-DF9C-4646-A12C-617C3E424E43 1    /Local/Default                X            <Default>  
+         925CFD54-2301-430D-B5B4-D8AEC041C389 1    /Search        X              X            <Default>  
+172 -- symptomsd -- total (2)
+         4678A56D-DBA3-43F8-88A1-1E27AB7D5AEC 1    /Local/Default                X            <Default>  
+         6141D091-65A2-4A51-8C2F-648358F1EB43 1    /Search        X              X            <Default>  
+199 -- trustd -- total (2)
+         9BEE923F-64FE-4FB8-A397-07CF11758875 1    /Local/Default                X            <Default>  
+         C11AA233-BF06-40E9-A6E5-17B0DB8807BB 1    /Search        X              X            <Default>  
+225 -- corestoragehelperd -- total (1)
+         191DDCC4-EDAD-47A5-B134-98DF441CE8A8 1    /Local/Default                             <Default>  
+250 -- findmydeviced -- total (3)
+         78ACC7DD-9F00-4F9A-97DB-9E731437AB53 1    /Search        X              X            <Default>  
+         A3A90924-F2AB-4C67-8F78-8507DCB161BE 1    /Local/Default                X            <Default>  
+         B10CFE31-B45B-481E-83C2-FFB2323CFCBA 1    /Local/Default                             <Default>  
+292 -- nsurlstoraged -- total (2)
+         D9C5F1C3-53AF-46D2-945D-9A0059608E5F 1    /Local/Default                X            <Default>  
+         E5EAEEE1-1AAB-49A4-A83F-1C5FE0FC12D7 1    /Search        X              X            <Default>  
+341 -- captiveagent -- total (2)
+         1F64D39F-9765-4349-9BC2-6A4AF0F61A48 1    /Search        X              X            <Default>  
+         757A0D50-A1D6-4396-AD50-F1F5632C0119 1    /Local/Default                X            <Default>  
+348 -- ntpd -- total (2)
+         9F48F5F3-444F-4B30-9072-C83922CB870C 1    /Search                       X            <Default>  
+         BAB73A85-D3EE-47A7-A1B9-B0900234B645 1    /Local/Default                X            <Default>  
+362 -- AssetCacheLocatorService -- total (2)
+         9462C781-7844-4EDA-A024-CAFFF9B0C148 1    /Search        X              X            <Default>  
+         E8D5CD24-8EEF-45F9-98AC-13E7115E6B19 1    /Local/Default                X            <Default>  
+366 -- softwareupdated -- total (2)
+         40D2CECE-0EC4-49DF-9679-52AB091ADAC8 1    /Search        X              X            <Default>  
+         86335843-48EF-4EE9-AA2A-DCDB008192E2 1    /Local/Default                X            <Default>  
+367 -- suhelperd -- total (1)
+         F47FC905-3BB1-4BD6-9C52-16B28B46FD71 1    /Local/Default                X            <Default>  
+398 -- cfprefsd -- total (2)
+         06EFCA63-2C49-4C06-A722-52878D3FCB9E 1    /Search        X              X            <Default>  
+         DBE1C807-EE0B-4317-8C53-DB8B17F01E1D 1    /Local/Default                X            <Default>  
+399 -- loginwindow -- total (4)
+         85AB9A4E-6342-4F1B-BC92-86B4930A22AE 1    /Search                                    <Default>  
+         A6398557-3809-469C-9AA6-3860BB3E5DB1 1    /Local/Default                X            <Default>  
+         EE917E84-C169-4324-A340-F27D1BAAA142 1    /Local/Default                             <Default>  
+         F3C5717F-1734-4444-94E9-7C60CB22F04A 1    /Search        X              X            <Default>  
+434 -- accountsd -- total (2)
+         410F891F-D9F2-4F70-9036-64AB6E8139D9 1    /Search        X              X            <Default>  
+         E97C123F-6923-482D-9D35-A2BBD596A0FF 1    /Local/Default                X            <Default>  
+447 -- usernoted -- total (2)
+         12FBE280-ECFF-4F71-BF3E-42C7ADA5889F 1    /Local/Default                X            <Default>  
+         979381F5-7499-44FC-9F03-8EB19AF0BAAC 1    /Search        X              X            <Default>  
+451 -- CalendarAgent -- total (2)
+         5640047C-1646-4631-9D45-DF7A7384AD73 1    /Search        X              X            <Default>  
+         E180EB33-7B9D-44D5-97E7-87340BA7377C 1    /Local/Default                X            <Default>  
+457 -- akd -- total (3)
+         101A40CA-1855-49CC-A064-27B1A5CD2227 1    /Search                                    <Default>  
+         21D74B58-D90B-42CC-9EA9-A81CA8487503 1    /Local/Default                             <Default>  
+         4329598F-72AD-4FDF-9771-21033966E834 1    /Local/Default                X            <Default>  
+592 -- Finder -- total (2)
+         702A3D6C-3780-4762-9470-3543E37450DB 1    /Search        X              X            <Default>  
+         A0D73C33-3DFD-4A81-A5AD-63B9418DBA4A 1    /Local/Default                X            <Default>  
+753 -- DataDetectorsSourceAccess -- total (2)
+         DAC5F45D-7D5B-4C08-B173-14553ACAEC8E 1    /Local/Default                X            <Default>  
+         F76015D9-20DF-495E-8118-F4CC57112F4D 1    /Search        X              X            <Default>  
+850 -- Terminal -- total (1)
+         148C060F-58E3-465C-8C37-E088468711F6 1    /Local/Default                X            <Default>  
+4349 -- login -- total (1)
+         1F51479D-AC36-422D-9C1D-6C65B4F5B258 1    /Local/Default                X            <Default>  
+9498 -- login -- total (1)
+         C7F3056B-5958-4FBC-AAFD-50DC1CEF4D8A 1    /Local/Default                X            <Default>  
+11027 -- Docker -- total (2)
+         637D0669-20FF-4D3B-89D9-3ADA284F0FF0 1    /Local/Default                X            <Default>  
+         7E0ACE60-8E91-45F3-AF7A-2EF4751D9E9F 1    /Search        X              X            <Default>  
+13477 -- login -- total (1)
+         C8D0FB82-B41F-4689-8FED-E03B2FFCF20B 1    /Local/Default                X            <Default>  
+15134 -- login -- total (1)
+         CB3E0D2D-ED57-4410-A41C-E89429B34286 1    /Local/Default                X            <Default>  
+
+Active requests (time in microseconds):
+
+PID      Request ID Refs Type Active Time Node ID Nodename Current Module Parent Request Results Delivered 
+-------- ---------- ---- ---- ----------- ------- -------- -------------- -------------- ----------------- 
+
+Nodenames:
+
+Name              State  Refs Type External Locked Hidden 
+----------------- ------ ---- ---- -------- ------ ------ 
+/Active Directory        1                  X      X      
+/Configure        Online 1                  X      X      
+/Contacts         Online 3                                
+/LDAPv3           Online 1                  X      X      
+/Local                   2                  X      X      
+/Local/Default    Online 53                 X             
+/NIS                     1                  X      X      
+/Search           Online 43                               
+
+Active sessions:
+
+PID      Session ID                           Refs      Type    Target    
+-------- ------------------------------------ --------- ------- --------- 
+63 -- opendirectoryd -- total (1)
+         5077AA85-BF4E-4424-AD54-BCC5EFBC0275 singleton Default localhost 
+
+Modules:
+
+Name            Capabilities                                               External Path                                                     
+--------------- ---------------------------------------------------------- -------- -------------------------------------------------------- 
+AppleID         Authentication, Connection                                          /System/Library/OpenDirectory/Modules/AppleID.bundle     
+FDESupport      Unspecified                                                         /System/Library/OpenDirectory/Modules/FDESupport.bundle  
+PlistFile       Authentication, Connection, Modification, Query                     /System/Library/OpenDirectory/Modules/PlistFile.bundle   
+SystemCache     Unspecified                                                         /System/Library/OpenDirectory/Modules/SystemCache.bundle 
+configure       Authentication, Connection, Query                                   /System/Library/OpenDirectory/Modules/configure.bundle   
+dspluginhelperd Connection                                                 X                                                                 
+keychain        Connection                                                          /System/Library/OpenDirectory/Modules/keychain.bundle    
+ldap            Authentication, Connection, Discovery, Modification, Query          /System/Library/OpenDirectory/Modules/ldap.bundle        
+legacy          Unspecified                                                         /System/Library/OpenDirectory/Modules/legacy.bundle      
+proxy           Unspecified                                                         /System/Library/OpenDirectory/Modules/proxy.bundle       
+search          Connection, Query                                                   /System/Library/OpenDirectory/Modules/search.bundle      
+
+Statistics:
+
+Report for Kernel
+=================
+Counters:
+    Translation (Cache Hit) - 2384
+    Translation (Cache Miss) - 70
+    Membership Checks (Cache Hit) - 596
+    Membership Checks (Cache Miss) - 90
+
+Translation (Cache Hit) metrics:
+               10%  20%  30%  40%  50%  60%  70%  80%  90%  100%
+           +----+----+----+----+----+----+----+----+----+----+
+     1 us  |**********
+     2 us  |*
+     4 us  |************
+     8 us  |*************
+    16 us  |********
+    32 us  |*
+    64 us  |
+   128 us  |
+   256 us  |
+   512 us  |
+     1 ms  |
+     2 ms  |
+     4 ms  |
+     8 ms  |
+    16 ms  |
+    32 ms  |
+    64 ms  |
+
+Translation (Cache Miss) metrics:
+               10%  20%  30%  40%  50%  60%  70%  80%  90%  100%
+           +----+----+----+----+----+----+----+----+----+----+
+     1 us  |**********
+     2 us  |
+     4 us  |
+     8 us  |
+    16 us  |
+    32 us  |
+    64 us  |
+   128 us  |
+   256 us  |
+   512 us  |
+     1 ms  |
+     2 ms  |**************
+     4 ms  |***************
+     8 ms  |**
+    16 ms  |*
+    32 ms  |
+    64 ms  |
+   128 ms  |*
+   256 ms  |***
+
+Membership Checks (Cache Hit) metrics:
+               10%  20%  30%  40%  50%  60%  70%  80%  90%  100%
+           +----+----+----+----+----+----+----+----+----+----+
+     2 us  |*
+     4 us  |****************************
+     8 us  |****************
+    16 us  |*
+    32 us  |*
+    64 us  |
+   128 us  |
+   256 us  |
+   512 us  |
+     1 ms  |
+     2 ms  |
+
+Membership Checks (Cache Miss) metrics:
+               10%  20%  30%  40%  50%  60%  70%  80%  90%  100%
+           +----+----+----+----+----+----+----+----+----+----+
+     1 ms  |*
+     2 ms  |***************
+     4 ms  |*****************
+     8 ms  |**********
+    16 ms  |***
+    32 ms  |*
+
+Report for Userland
+=================
+Counters:
+    Translation (Cache Hit) - 13016
+    Translation (Cache Miss) - 1
+    Membership Checks (Cache Hit) - 488
+    Membership Checks (Cache Miss) - 5
+    GetGrouplist (Cache Hit) - 4374
+    GetGrouplist (Cache Miss) - 46
+
+Translation (Cache Hit) metrics:
+               10%  20%  30%  40%  50%  60%  70%  80%  90%  100%
+           +----+----+----+----+----+----+----+----+----+----+
+    16 us  |****
+    32 us  |******************************
+    64 us  |*************
+   128 us  |*
+   256 us  |
+   512 us  |
+     1 ms  |
+     2 ms  |
+
+Translation (Cache Miss) metrics:
+               10%  20%  30%  40%  50%  60%  70%  80%  90%  100%
+           +----+----+----+----+----+----+----+----+----+----+
+     4 ms  |**************************************************
+
+Membership Checks (Cache Hit) metrics:
+               10%  20%  30%  40%  50%  60%  70%  80%  90%  100%
+           +----+----+----+----+----+----+----+----+----+----+
+     1 us  |*****
+     2 us  |******************
+     4 us  |******************
+     8 us  |******
+    16 us  |
+
+Membership Checks (Cache Miss) metrics:
+               10%  20%  30%  40%  50%  60%  70%  80%  90%  100%
+           +----+----+----+----+----+----+----+----+----+----+
+     2 ms  |**********
+     4 ms  |**********
+     8 ms  |******************************
+
+GetGrouplist (Cache Hit) metrics:
+               10%  20%  30%  40%  50%  60%  70%  80%  90%  100%
+           +----+----+----+----+----+----+----+----+----+----+
+     2 us  |
+     4 us  |***
+     8 us  |*************************************
+    16 us  |*******
+    32 us  |
+    64 us  |
+   128 us  |
+   256 us  |
+   512 us  |
+
+GetGrouplist (Cache Miss) metrics:
+               10%  20%  30%  40%  50%  60%  70%  80%  90%  100%
+           +----+----+----+----+----+----+----+----+----+----+
+     1 ms  |**
+     2 ms  |******
+     4 ms  |***********
+     8 ms  |***********
+    16 ms  |********
+    32 ms  |*******
+    64 ms  |
+   128 ms  |
+   256 ms  |
+   512 ms  |
+     1 s   |*
+
+Report for Queries
+=================
+Counters:
+    Total Queries - 43
+    Failed Queries - 836
+    GroupMembership - 131
+    GroupMembers - 25
+    NestedGroups - 305
+
+Total Queries metrics:
+               10%  20%  30%  40%  50%  60%  70%  80%  90%  100%
+           +----+----+----+----+----+----+----+----+----+----+
+     1 ms  |*************************
+     2 ms  |*******************
+     4 ms  |***
+     8 ms  |
+    16 ms  |
+    32 ms  |
+    64 ms  |
+   128 ms  |*
+
+Failed Queries metrics:
+               10%  20%  30%  40%  50%  60%  70%  80%  90%  100%
+           +----+----+----+----+----+----+----+----+----+----+
+   512 us  |****
+     1 ms  |**************
+     2 ms  |*******************
+     4 ms  |********
+     8 ms  |**
+    16 ms  |
+    32 ms  |
+    64 ms  |
+   128 ms  |
+   256 ms  |
+   512 ms  |
+     1 s   |
+
+GroupMembership metrics:
+               10%  20%  30%  40%  50%  60%  70%  80%  90%  100%
+           +----+----+----+----+----+----+----+----+----+----+
+   512 us  |********
+     1 ms  |*********************
+     2 ms  |*********
+     4 ms  |********
+     8 ms  |*
+    16 ms  |
+    32 ms  |
+
+GroupMembers metrics:
+               10%  20%  30%  40%  50%  60%  70%  80%  90%  100%
+           +----+----+----+----+----+----+----+----+----+----+
+   512 us  |**
+     1 ms  |********
+     2 ms  |**********
+     4 ms  |**********
+     8 ms  |**
+    16 ms  |**************
+    32 ms  |**
+    64 ms  |
+   128 ms  |
+   256 ms  |
+   512 ms  |
+     1 s   |**
+
+NestedGroups metrics:
+               10%  20%  30%  40%  50%  60%  70%  80%  90%  100%
+           +----+----+----+----+----+----+----+----+----+----+
+   512 us  |*******
+     1 ms  |***************
+     2 ms  |*************
+     4 ms  |*********
+     8 ms  |***
+
+

@@ -1,0 +1,212 @@
+2016-10-29 21:08:40.012 tmdiagnose[16453:1803] tmdiagnose version 2.0.0
+2016-10-29 21:08:40.014 tmdiagnose[16453:1803] Starting Time Machine diagnostics
+2016-10-29 21:08:40.015 tmdiagnose[16453:1803] Running impatient concurrent sections: { label: 'spindump/fs_usage/filecoordination' | timeout: 60 }
+2016-10-29 21:08:40.023 tmdiagnose[16453:1603] Executing `/usr/sbin/spindump -notarget 15 -file /private/var/tmp/Gabriel’s MacBook Air.tmdiagnostic/system_state_21.08.40/spindump.txt`
+2016-10-29 21:08:42.087 tmdiagnose[16453:1503] Executing `/usr/bin/fs_usage -w -t 10 -e tmdiagnose`
+2016-10-29 21:08:56.959 tmdiagnose[16453:1503] End of '/usr/bin/fs_usage -w -t 10 -e tmdiagnose'
+2016-10-29 21:08:56.968 tmdiagnose[16453:1503] Wrote fs_usage capture: '/private/var/tmp/Gabriel’s MacBook Air.tmdiagnostic/system_state_21.08.40/fs_usage.log' (2609289 bytes, 0.007 seconds elapsed write time)
+2016-10-29 21:09:03.277 tmdiagnose[16453:1603] End of '/usr/sbin/spindump -notarget 15 -file /private/var/tmp/Gabriel’s MacBook Air.tmdiagnostic/system_state_21.08.40/spindump.txt'
+2016-10-29 21:09:03.283 tmdiagnose[16453:1803] Running impatient section: { label: 'process harvesting' | timeout: 20 }
+2016-10-29 21:09:03.283 tmdiagnose[16453:1603] Executing `/bin/ps auxh`
+2016-10-29 21:09:03.421 tmdiagnose[16453:1603] End of '/bin/ps auxh'
+2016-10-29 21:09:03.430 tmdiagnose[16453:1603] Executing `/usr/bin/top -l 10`
+2016-10-29 21:09:13.051 tmdiagnose[16453:1603] End of '/usr/bin/top -l 10'
+2016-10-29 21:09:13.059 tmdiagnose[16453:1803] Running impatient section: { label: 'powermetrics' | timeout: 15 }
+2016-10-29 21:09:13.059 tmdiagnose[16453:2d03] Executing `/usr/bin/powermetrics -i 1000 -n 10 --show-all`
+2016-10-29 21:09:23.498 tmdiagnose[16453:2d03] End of '/usr/bin/powermetrics -i 1000 -n 10 --show-all'
+2016-10-29 21:09:23.505 tmdiagnose[16453:2d03] 
+2016-10-29 21:09:23.510 tmdiagnose[16453:1803] Starting backupd status monitor
+2016-10-29 21:09:23.510 tmdiagnose[16453:1803] Running impatient section: { label: 'process sampling' | timeout: 30 }
+2016-10-29 21:09:23.511 tmdiagnose[16453:4b07] Executing `/usr/bin/sample -file /private/var/tmp/Gabriel’s MacBook Air.tmdiagnostic/samples/backupd.txt backupd 5`
+2016-10-29 21:09:23.594 tmdiagnose[16453:4b07] '/usr/bin/sample' exited with status '255'
+2016-10-29 21:09:23.594 tmdiagnose[16453:4b07] End of '/usr/bin/sample -file /private/var/tmp/Gabriel’s MacBook Air.tmdiagnostic/samples/backupd.txt backupd 5'
+2016-10-29 21:09:23.594 tmdiagnose[16453:4b07] /usr/bin/sample: probably no process named 'backupd' found to sample
+2016-10-29 21:09:23.595 tmdiagnose[16453:4b07] Executing `/usr/bin/sample -file /private/var/tmp/Gabriel’s MacBook Air.tmdiagnostic/samples/mtmd.txt mtmd 5`
+2016-10-29 21:09:23.670 tmdiagnose[16453:4b07] '/usr/bin/sample' exited with status '255'
+2016-10-29 21:09:23.671 tmdiagnose[16453:4b07] End of '/usr/bin/sample -file /private/var/tmp/Gabriel’s MacBook Air.tmdiagnostic/samples/mtmd.txt mtmd 5'
+2016-10-29 21:09:23.671 tmdiagnose[16453:4b07] /usr/bin/sample: probably no process named 'mtmd' found to sample
+2016-10-29 21:09:23.671 tmdiagnose[16453:4b07] Executing `/usr/bin/sample -file /private/var/tmp/Gabriel’s MacBook Air.tmdiagnostic/samples/mtmfs.txt mtmfs 5`
+2016-10-29 21:09:23.757 tmdiagnose[16453:4b07] '/usr/bin/sample' exited with status '255'
+2016-10-29 21:09:23.757 tmdiagnose[16453:4b07] End of '/usr/bin/sample -file /private/var/tmp/Gabriel’s MacBook Air.tmdiagnostic/samples/mtmfs.txt mtmfs 5'
+2016-10-29 21:09:23.757 tmdiagnose[16453:4b07] /usr/bin/sample: probably no process named 'mtmfs' found to sample
+2016-10-29 21:09:23.757 tmdiagnose[16453:4b07] Executing `/usr/bin/sample -file /private/var/tmp/Gabriel’s MacBook Air.tmdiagnostic/samples/Finder.txt Finder 5`
+2016-10-29 21:09:33.196 tmdiagnose[16453:4b07] End of '/usr/bin/sample -file /private/var/tmp/Gabriel’s MacBook Air.tmdiagnostic/samples/Finder.txt Finder 5'
+2016-10-29 21:09:33.196 tmdiagnose[16453:4b07] 
+2016-10-29 21:09:33.196 tmdiagnose[16453:1803] Running impatient section: { label: 'mach port dump' | timeout: 10 }
+2016-10-29 21:09:33.197 tmdiagnose[16453:1803] Running impatient section: { label: 'disk capture' | timeout: 120 }
+2016-10-29 21:09:33.198 tmdiagnose[16453:1503] Executing `/bin/ls -la /Volumes/`
+2016-10-29 21:09:33.269 tmdiagnose[16453:1503] End of '/bin/ls -la /Volumes/'
+2016-10-29 21:09:33.269 tmdiagnose[16453:1503] Executing `/bin/df -H`
+2016-10-29 21:09:33.339 tmdiagnose[16453:1503] End of '/bin/df -H'
+2016-10-29 21:09:33.340 tmdiagnose[16453:1503] Executing `/sbin/mount`
+2016-10-29 21:09:33.404 tmdiagnose[16453:1503] End of '/sbin/mount'
+2016-10-29 21:09:33.405 tmdiagnose[16453:1503] Executing `/usr/sbin/diskutil list`
+2016-10-29 21:09:33.600 tmdiagnose[16453:1503] End of '/usr/sbin/diskutil list'
+2016-10-29 21:09:33.600 tmdiagnose[16453:1503] Executing `/usr/sbin/diskutil cs list`
+2016-10-29 21:09:33.729 tmdiagnose[16453:1503] End of '/usr/sbin/diskutil cs list'
+2016-10-29 21:09:33.729 tmdiagnose[16453:1503] Executing `/bin/bash -c /usr/sbin/diskutil list | /usr/bin/awk '/disk/ {system("/usr/sbin/diskutil info "$NF); print "*********************"}'`
+2016-10-29 21:09:34.750 tmdiagnose[16453:1503] End of '/bin/bash -c /usr/sbin/diskutil list | /usr/bin/awk '/disk/ {system("/usr/sbin/diskutil info "$NF); print "*********************"}''
+2016-10-29 21:09:34.751 tmdiagnose[16453:1503] Executing `/usr/bin/hdiutil info`
+2016-10-29 21:09:34.820 tmdiagnose[16453:1503] End of '/usr/bin/hdiutil info'
+2016-10-29 21:09:34.826 tmdiagnose[16453:1803] Running impatient section: { label: 'CacheDelete capture' | timeout: 10 }
+2016-10-29 21:09:34.874 tmdiagnose[16453:1803] Running impatient section: { label: 'network status capture' | timeout: 30 }
+2016-10-29 21:09:34.876 tmdiagnose[16453:2a03] Executing `/usr/sbin/netstat -in`
+2016-10-29 21:09:35.035 tmdiagnose[16453:2a03] End of '/usr/sbin/netstat -in'
+2016-10-29 21:09:35.036 tmdiagnose[16453:2a03] Executing `/usr/sbin/netstat -aW -p tcp`
+2016-10-29 21:09:35.181 tmdiagnose[16453:2a03] End of '/usr/sbin/netstat -aW -p tcp'
+2016-10-29 21:09:35.189 tmdiagnose[16453:1803] Running impatient section: { label: 'reachability diagnostics' | timeout: 95 }
+2016-10-29 21:09:35.190 tmdiagnose[16453:1603] Running network reachability diagnostics...
+2016-10-29 21:09:35.191 tmdiagnose[16453:1603] Recording services of type '_afpovertcp._tcp.'
+2016-10-29 21:09:55.209 tmdiagnose[16453:1603] Found 0 services of type '_afpovertcp._tcp.'
+2016-10-29 21:09:55.217 tmdiagnose[16453:1603] Recording services of type '_airport._tcp.'
+2016-10-29 21:09:55.218 tmdiagnose[16453:1603] Found 0 services of type '_airport._tcp.'
+2016-10-29 21:09:55.218 tmdiagnose[16453:1603] Recording services of type '_adisk._tcp.'
+2016-10-29 21:09:55.219 tmdiagnose[16453:1603] Found 0 services of type '_adisk._tcp.'
+2016-10-29 21:09:55.219 tmdiagnose[16453:1603] End network reachability diagnostics
+2016-10-29 21:09:55.219 tmdiagnose[16453:1803] Running impatient section: { label: 'list open files' | timeout: 60 }
+2016-10-29 21:09:55.220 tmdiagnose[16453:4b07] Executing `/usr/sbin/lsof +c 0`
+2016-10-29 21:10:00.771 tmdiagnose[16453:4b07] End of '/usr/sbin/lsof +c 0'
+2016-10-29 21:10:00.773 tmdiagnose[16453:1803] Running impatient section: { label: 'backupd-helper.status' | timeout: 5 }
+2016-10-29 21:10:00.774 tmdiagnose[16453:1803] Running impatient section: { label: 'power diagnostics' | timeout: 30 }
+2016-10-29 21:10:00.774 tmdiagnose[16453:1603] Executing `/usr/bin/pmset -g everything`
+2016-10-29 21:10:00.978 tmdiagnose[16453:1603] End of '/usr/bin/pmset -g everything'
+2016-10-29 21:10:00.979 tmdiagnose[16453:1803] Running impatient section: { label: 'libdispatch diagnostics' | timeout: 60 }
+2016-10-29 21:10:00.979 tmdiagnose[16453:1803] Running impatient section: { label: 'I/O registry capture' | timeout: 30 }
+2016-10-29 21:10:00.980 tmdiagnose[16453:2a03] Executing `/usr/sbin/ioreg -ls -w 0`
+2016-10-29 21:10:01.426 tmdiagnose[16453:2a03] End of '/usr/sbin/ioreg -ls -w 0'
+2016-10-29 21:10:01.427 tmdiagnose[16453:1803] Running impatient section: { label: 'system file capture' | timeout: 60 }
+2016-10-29 21:10:01.427 tmdiagnose[16453:3203] Executing `/usr/bin/log collect --output /private/var/tmp/Gabriel’s MacBook Air.tmdiagnostic/logs/oslog.logarchive`
+2016-10-29 21:10:11.248 tmdiagnose[16453:3203] End of '/usr/bin/log collect --output /private/var/tmp/Gabriel’s MacBook Air.tmdiagnostic/logs/oslog.logarchive'
+2016-10-29 21:10:11.266 tmdiagnose[16453:3203] Adding '/var/log/system.log'
+2016-10-29 21:10:11.269 tmdiagnose[16453:3203] Adding '/var/log/system.log.0.gz'
+2016-10-29 21:10:11.271 tmdiagnose[16453:3203] Adding '/var/log/system.log.1.gz'
+2016-10-29 21:10:11.276 tmdiagnose[16453:3203] Adding '/var/log/install.log'
+2016-10-29 21:10:11.280 tmdiagnose[16453:3203] Adding '/var/log/wifi.log'
+2016-10-29 21:10:11.287 tmdiagnose[16453:3203] Could not copy '/var/db/PreviousSystemLogs.cpgz' to '/private/var/tmp/Gabriel’s MacBook Air.tmdiagnostic/logs/PreviousSystemLogs.cpgz' -- The file “PreviousSystemLogs.cpgz” couldn’t be opened because there is no such file.
+2016-10-29 21:10:11.288 tmdiagnose[16453:3203] Could not copy '/var/db/PreviousSystemFiles.plist' to '/private/var/tmp/Gabriel’s MacBook Air.tmdiagnostic/logs/PreviousSystemFiles.plist' -- The file “PreviousSystemFiles.plist” couldn’t be opened because there is no such file.
+2016-10-29 21:10:11.291 tmdiagnose[16453:3203] Adding '/var/log/com.apple.revisiond'
+2016-10-29 21:10:11.293 tmdiagnose[16453:3203] Adding '/var/log/fsck_hfs.log'
+2016-10-29 21:10:11.346 tmdiagnose[16453:3203] Adding '/Users/archopposition/Library/Logs/fsck_hfs.log'
+2016-10-29 21:10:11.347 tmdiagnose[16453:3203] Gathering system diagnostic logs for 'backupd'
+2016-10-29 21:10:11.347 tmdiagnose[16453:3203] End gathering system diagnostic logs for 'backupd'
+2016-10-29 21:10:11.347 tmdiagnose[16453:3203] Gathering system diagnostic logs for 'backupd-helper'
+2016-10-29 21:10:11.348 tmdiagnose[16453:3203] End gathering system diagnostic logs for 'backupd-helper'
+2016-10-29 21:10:11.348 tmdiagnose[16453:3203] Gathering system diagnostic logs for 'mtmd'
+2016-10-29 21:10:11.348 tmdiagnose[16453:3203] End gathering system diagnostic logs for 'mtmd'
+2016-10-29 21:10:11.348 tmdiagnose[16453:3203] Gathering system diagnostic logs for 'mtmfs'
+2016-10-29 21:10:11.348 tmdiagnose[16453:3203] End gathering system diagnostic logs for 'mtmfs'
+2016-10-29 21:10:11.348 tmdiagnose[16453:3203] Gathering system diagnostic logs for 'tmutil'
+2016-10-29 21:10:11.348 tmdiagnose[16453:3203] End gathering system diagnostic logs for 'tmutil'
+2016-10-29 21:10:11.348 tmdiagnose[16453:3203] Gathering system diagnostic logs for 'tmdiagnose'
+2016-10-29 21:10:11.349 tmdiagnose[16453:3203] End gathering system diagnostic logs for 'tmdiagnose'
+2016-10-29 21:10:11.349 tmdiagnose[16453:3203] Gathering system diagnostic logs for 'UserEventAgent'
+2016-10-29 21:10:11.350 tmdiagnose[16453:3203] End gathering system diagnostic logs for 'UserEventAgent'
+2016-10-29 21:10:11.350 tmdiagnose[16453:3203] Gathering system diagnostic logs for 'fsck_hfs'
+2016-10-29 21:10:11.350 tmdiagnose[16453:3203] End gathering system diagnostic logs for 'fsck_hfs'
+2016-10-29 21:10:11.350 tmdiagnose[16453:3203] Gathering system diagnostic logs for 'diskmanagementd'
+2016-10-29 21:10:11.350 tmdiagnose[16453:3203] End gathering system diagnostic logs for 'diskmanagementd'
+2016-10-29 21:10:11.350 tmdiagnose[16453:3203] Gathering system diagnostic logs for 'Locum'
+2016-10-29 21:10:11.350 tmdiagnose[16453:3203] End gathering system diagnostic logs for 'Locum'
+2016-10-29 21:10:11.350 tmdiagnose[16453:3203] Gathering system diagnostic logs for 'diskimages-helper'
+2016-10-29 21:10:11.351 tmdiagnose[16453:3203] End gathering system diagnostic logs for 'diskimages-helper'
+2016-10-29 21:10:11.351 tmdiagnose[16453:3203] Gathering system diagnostic logs for 'newfs_hfs'
+2016-10-29 21:10:11.351 tmdiagnose[16453:3203] End gathering system diagnostic logs for 'newfs_hfs'
+2016-10-29 21:10:11.351 tmdiagnose[16453:3203] Gathering system diagnostic logs for 'NetAuthSysAgent'
+2016-10-29 21:10:11.351 tmdiagnose[16453:3203] End gathering system diagnostic logs for 'NetAuthSysAgent'
+2016-10-29 21:10:11.351 tmdiagnose[16453:3203] Gathering system diagnostic logs for 'discoveryd'
+2016-10-29 21:10:11.351 tmdiagnose[16453:3203] End gathering system diagnostic logs for 'discoveryd'
+2016-10-29 21:10:11.351 tmdiagnose[16453:3203] Gathering system diagnostic logs for 'TMCacheDelete'
+2016-10-29 21:10:11.351 tmdiagnose[16453:3203] End gathering system diagnostic logs for 'TMCacheDelete'
+2016-10-29 21:10:11.352 tmdiagnose[16453:3203] Gathering system diagnostic logs for 'Finder'
+2016-10-29 21:10:11.352 tmdiagnose[16453:3203] End gathering system diagnostic logs for 'Finder'
+2016-10-29 21:10:11.352 tmdiagnose[16453:3203] Gathering system diagnostic logs for 'System Preferences'
+2016-10-29 21:10:11.352 tmdiagnose[16453:3203] End gathering system diagnostic logs for 'System Preferences'
+2016-10-29 21:10:11.352 tmdiagnose[16453:3203] Gathering system diagnostic logs for 'com.apple.prefs.backup.remoteservice'
+2016-10-29 21:10:11.352 tmdiagnose[16453:3203] End gathering system diagnostic logs for 'com.apple.prefs.backup.remoteservice'
+2016-10-29 21:10:11.352 tmdiagnose[16453:3203] Gathering system diagnostic logs for 'TMHelperAgent'
+2016-10-29 21:10:11.352 tmdiagnose[16453:3203] End gathering system diagnostic logs for 'TMHelperAgent'
+2016-10-29 21:10:11.352 tmdiagnose[16453:3203] Gathering system diagnostic logs for 'FileStatsAgent'
+2016-10-29 21:10:11.353 tmdiagnose[16453:3203] End gathering system diagnostic logs for 'FileStatsAgent'
+2016-10-29 21:10:11.353 tmdiagnose[16453:3203] Gathering system diagnostic logs for 'ReclaimSpaceAgent'
+2016-10-29 21:10:11.353 tmdiagnose[16453:3203] End gathering system diagnostic logs for 'ReclaimSpaceAgent'
+2016-10-29 21:10:11.353 tmdiagnose[16453:3203] Gathering system diagnostic logs for 'NetAuthSysAgent'
+2016-10-29 21:10:11.353 tmdiagnose[16453:3203] End gathering system diagnostic logs for 'NetAuthSysAgent'
+2016-10-29 21:10:11.353 tmdiagnose[16453:3203] Gathering system diagnostic logs for 'SystemUIServer'
+2016-10-29 21:10:11.354 tmdiagnose[16453:3203] End gathering system diagnostic logs for 'SystemUIServer'
+2016-10-29 21:10:11.354 tmdiagnose[16453:3203] Gathering system diagnostic logs for 'Mail'
+2016-10-29 21:10:11.354 tmdiagnose[16453:3203] End gathering system diagnostic logs for 'Mail'
+2016-10-29 21:10:11.354 tmdiagnose[16453:3203] Gathering system diagnostic logs for 'Contacts'
+2016-10-29 21:10:11.354 tmdiagnose[16453:3203] End gathering system diagnostic logs for 'Contacts'
+2016-10-29 21:10:11.354 tmdiagnose[16453:3203] Gathering recent user diagnostic logs for 'com.apple.prefs.backup.remoteservice'
+2016-10-29 21:10:11.397 tmdiagnose[16453:3203] End gathering recent user diagnostic logs for 'com.apple.prefs.backup.remoteservice'
+2016-10-29 21:10:11.397 tmdiagnose[16453:3203] Gathering recent user diagnostic logs for 'TMHelperAgent'
+2016-10-29 21:10:11.436 tmdiagnose[16453:3203] End gathering recent user diagnostic logs for 'TMHelperAgent'
+2016-10-29 21:10:11.436 tmdiagnose[16453:3203] Gathering recent user diagnostic logs for 'tmutil'
+2016-10-29 21:10:11.475 tmdiagnose[16453:3203] End gathering recent user diagnostic logs for 'tmutil'
+2016-10-29 21:10:11.476 tmdiagnose[16453:3203] Gathering recent user diagnostic logs for 'Finder'
+2016-10-29 21:10:11.514 tmdiagnose[16453:3203] End gathering recent user diagnostic logs for 'Finder'
+2016-10-29 21:10:11.514 tmdiagnose[16453:3203] Gathering recent user diagnostic logs for 'Locum'
+2016-10-29 21:10:11.557 tmdiagnose[16453:3203] End gathering recent user diagnostic logs for 'Locum'
+2016-10-29 21:10:11.557 tmdiagnose[16453:3203] Gathering recent user diagnostic logs for 'FileStatsAgent'
+2016-10-29 21:10:11.605 tmdiagnose[16453:3203] End gathering recent user diagnostic logs for 'FileStatsAgent'
+2016-10-29 21:10:11.605 tmdiagnose[16453:3203] Gathering recent user diagnostic logs for 'System Preferences'
+2016-10-29 21:10:11.674 tmdiagnose[16453:3203] End gathering recent user diagnostic logs for 'System Preferences'
+2016-10-29 21:10:11.678 tmdiagnose[16453:3203] Gathering recent user diagnostic logs for 'NetAuthSysAgent'
+2016-10-29 21:10:11.776 tmdiagnose[16453:3203] End gathering recent user diagnostic logs for 'NetAuthSysAgent'
+2016-10-29 21:10:11.776 tmdiagnose[16453:3203] Gathering recent user diagnostic logs for 'SystemUIServer'
+2016-10-29 21:10:11.824 tmdiagnose[16453:3203] End gathering recent user diagnostic logs for 'SystemUIServer'
+2016-10-29 21:10:11.824 tmdiagnose[16453:3203] Gathering recent user diagnostic logs for 'Mail'
+2016-10-29 21:10:11.873 tmdiagnose[16453:3203] End gathering recent user diagnostic logs for 'Mail'
+2016-10-29 21:10:11.873 tmdiagnose[16453:3203] Gathering recent user diagnostic logs for 'Contacts'
+2016-10-29 21:10:11.924 tmdiagnose[16453:3203] End gathering recent user diagnostic logs for 'Contacts'
+2016-10-29 21:10:11.925 tmdiagnose[16453:3203] Adding '/Library/Preferences/com.apple.TimeMachine.plist'
+2016-10-29 21:10:11.926 tmdiagnose[16453:3203] Could not copy '/var/db/.TimeMachine.Results.plist' to '/private/var/tmp/Gabriel’s MacBook Air.tmdiagnostic/configuration/TimeMachine.Results.plist' -- The file “.TimeMachine.Results.plist” couldn’t be opened because there is no such file.
+2016-10-29 21:10:11.926 tmdiagnose[16453:3203] Could not copy '/var/db/.TimeMachine.NeedsUpdate.plist' to '/private/var/tmp/Gabriel’s MacBook Air.tmdiagnostic/configuration/TimeMachine.NeedsUpdate.plist' -- The file “.TimeMachine.NeedsUpdate.plist” couldn’t be opened because there is no such file.
+2016-10-29 21:10:11.927 tmdiagnose[16453:3203] Could not copy '/Library/Caches/com.apple.TimeMachine.SnapshotDates.plist' to '/private/var/tmp/Gabriel’s MacBook Air.tmdiagnostic/configuration/com.apple.TimeMachine.SnapshotDates.plist' -- The file “com.apple.TimeMachine.SnapshotDates.plist” couldn’t be opened because there is no such file.
+2016-10-29 21:10:11.927 tmdiagnose[16453:3203] Could not copy '/var/db/.TimeMachine.VerificationResults.plist' to '/private/var/tmp/Gabriel’s MacBook Air.tmdiagnostic/configuration/TimeMachine.VerificationResults.plist' -- The file “.TimeMachine.VerificationResults.plist” couldn’t be opened because there is no such file.
+2016-10-29 21:10:11.927 tmdiagnose[16453:1803] Running impatient section: { label: 'system profiler report' | timeout: 60 }
+2016-10-29 21:10:11.928 tmdiagnose[16453:2a03] Executing `/usr/sbin/system_profiler -xml -timeout 30 SPParallelATADataType SPAirPortDataType SPBluetoothDataType SPDiagnosticsDataType SPEthernetDataType SPFibreChannelDataType SPFireWireDataType SPFirewallDataType SPHardwareDataType SPHardwareRAIDDataType SPNetworkLocationDataType SPManagedClientDataType SPMemoryDataType SPNetworkDataType SPPowerDataType SPSerialATADataType SPSoftwareDataType SPUSBDataType`
+2016-10-29 21:10:15.916 tmdiagnose[16453:2a03] End of '/usr/sbin/system_profiler -xml -timeout 30 SPParallelATADataType SPAirPortDataType SPBluetoothDataType SPDiagnosticsDataType SPEthernetDataType SPFibreChannelDataType SPFireWireDataType SPFirewallDataType SPHardwareDataType SPHardwareRAIDDataType SPNetworkLocationDataType SPManagedClientDataType SPMemoryDataType SPNetworkDataType SPPowerDataType SPSerialATADataType SPSoftwareDataType SPUSBDataType'
+2016-10-29 21:10:15.920 tmdiagnose[16453:1803] Running impatient section: { label: 'system configuration capture' | timeout: 30 }
+2016-10-29 21:10:15.922 tmdiagnose[16453:6003] Executing `/bin/ls -Ulae@ /Library/Keychains/System.keychain`
+2016-10-29 21:10:15.986 tmdiagnose[16453:6003] End of '/bin/ls -Ulae@ /Library/Keychains/System.keychain'
+2016-10-29 21:10:15.987 tmdiagnose[16453:6003] Executing `/usr/bin/darwinup list`
+2016-10-29 21:10:16.061 tmdiagnose[16453:6003] End of '/usr/bin/darwinup list'
+2016-10-29 21:10:16.061 tmdiagnose[16453:6003] 
+2016-10-29 21:10:16.061 tmdiagnose[16453:6003] Executing `/bin/bash -c /bin/launchctl list | /usr/bin/grep -e 'PID' -e 'com.apple.mtm' -e 'com.apple.backup' -e 'com.apple.TMHelperAgent'`
+2016-10-29 21:10:16.125 tmdiagnose[16453:6003] End of '/bin/bash -c /bin/launchctl list | /usr/bin/grep -e 'PID' -e 'com.apple.mtm' -e 'com.apple.backup' -e 'com.apple.TMHelperAgent''
+2016-10-29 21:10:16.125 tmdiagnose[16453:6003] 
+2016-10-29 21:10:16.125 tmdiagnose[16453:6003] Executing `/usr/bin/tmutil destinationinfo`
+2016-10-29 21:10:16.257 tmdiagnose[16453:6003] End of '/usr/bin/tmutil destinationinfo'
+2016-10-29 21:10:16.257 tmdiagnose[16453:6003] 
+2016-10-29 21:10:16.263 tmdiagnose[16453:1803] Running impatient section: { label: 'Time Machine exclusions capture' | timeout: 30 }
+2016-10-29 21:10:16.406 tmdiagnose[16453:1503] Executing `/usr/bin/mdfind com_apple_backup_excludeItem == com.apple.backupd`
+2016-10-29 21:10:16.473 tmdiagnose[16453:1503] End of '/usr/bin/mdfind com_apple_backup_excludeItem == com.apple.backupd'
+2016-10-29 21:10:16.473 tmdiagnose[16453:1803] Running impatient section: { label: 'Time Machine backups inspection' | timeout: 300 }
+2016-10-29 21:10:16.473 tmdiagnose[16453:1503] Collecting diagnostics for Time Machine backups (this may take several minutes)
+2016-10-29 21:10:16.473 tmdiagnose[16453:1503] Building classic Time Machine snapshot skeletons...
+2016-10-29 21:10:16.474 tmdiagnose[16453:1603] Locating machine directory...
+2016-10-29 21:10:16.778 tmdiagnose[16453:1603] Could not mount last backup destination: Error Domain=com.apple.backupd.ErrorDomain Code=17 "Failed to mount destination." UserInfo={NSLocalizedDescription=Failed to mount destination.}
+2016-10-29 21:10:16.778 tmdiagnose[16453:1503] Building Mobile Time Machine overlay snapshot skeletons...
+2016-10-29 21:10:16.779 tmdiagnose[16453:1503] Building Mobile Time Machine delta store snapshot skeletons...
+2016-10-29 21:10:16.779 tmdiagnose[16453:1803] Stopped backupd status monitor
+2016-10-29 21:10:16.779 tmdiagnose[16453:1803] Running impatient section: { label: 'Cloud Docs diagnostics' | timeout: 10 }
+2016-10-29 21:10:16.779 tmdiagnose[16453:2a03] Executing `/usr/bin/brctl diagnose --sysdiagnose /private/var/tmp/Gabriel’s MacBook Air.tmdiagnostic/brctl`
+2016-10-29 21:10:17.492 tmdiagnose[16453:2a03] End of '/usr/bin/brctl diagnose --sysdiagnose /private/var/tmp/Gabriel’s MacBook Air.tmdiagnostic/brctl'
+2016-10-29 21:10:17.492 tmdiagnose[16453:1803] Running impatient section: { label: 'Spotlight diagnostics' | timeout: 180 }
+2016-10-29 21:10:17.493 tmdiagnose[16453:2a03] Executing `/usr/bin/mddiagnose -w -n -f /private/var/tmp/Gabriel’s MacBook Air.tmdiagnostic`
+2016-10-29 21:10:55.891 tmdiagnose[16453:2a03] End of '/usr/bin/mddiagnose -w -n -f /private/var/tmp/Gabriel’s MacBook Air.tmdiagnostic'
+2016-10-29 21:10:55.893 tmdiagnose[16453:1803] Running impatient concurrent sections: { label: 'spindump/fs_usage/filecoordination' | timeout: 60 }
+2016-10-29 21:10:55.893 tmdiagnose[16453:2a03] Executing `/usr/sbin/spindump -notarget 15 -file /private/var/tmp/Gabriel’s MacBook Air.tmdiagnostic/system_state_21.10.55/spindump.txt`
+2016-10-29 21:10:57.967 tmdiagnose[16453:1507] Executing `/usr/bin/fs_usage -w -t 10 -e tmdiagnose`
+2016-10-29 21:11:08.486 tmdiagnose[16453:1507] End of '/usr/bin/fs_usage -w -t 10 -e tmdiagnose'
+2016-10-29 21:11:08.500 tmdiagnose[16453:1507] Wrote fs_usage capture: '/private/var/tmp/Gabriel’s MacBook Air.tmdiagnostic/system_state_21.10.55/fs_usage.log' (3594770 bytes, 0.013 seconds elapsed write time)
+2016-10-29 21:11:17.270 tmdiagnose[16453:2a03] End of '/usr/sbin/spindump -notarget 15 -file /private/var/tmp/Gabriel’s MacBook Air.tmdiagnostic/system_state_21.10.55/spindump.txt'
+2016-10-29 21:11:17.270 tmdiagnose[16453:1803] Running impatient section: { label: 'process harvesting' | timeout: 20 }
+2016-10-29 21:11:17.270 tmdiagnose[16453:2a03] Executing `/bin/ps auxh`
+2016-10-29 21:11:17.339 tmdiagnose[16453:2a03] End of '/bin/ps auxh'
+2016-10-29 21:11:17.340 tmdiagnose[16453:2a03] Executing `/usr/bin/top -l 10`
+2016-10-29 21:11:26.902 tmdiagnose[16453:2a03] End of '/usr/bin/top -l 10'
+2016-10-29 21:11:26.911 tmdiagnose[16453:1803] End of Time Machine diagnostics
+2016-10-29 21:11:26.911 tmdiagnose[16453:1803] Executing `/bin/chmod -R a=rwx /private/var/tmp/Gabriel’s MacBook Air.tmdiagnostic`
+2016-10-29 21:11:26.976 tmdiagnose[16453:1803] End of '/bin/chmod -R a=rwx /private/var/tmp/Gabriel’s MacBook Air.tmdiagnostic'

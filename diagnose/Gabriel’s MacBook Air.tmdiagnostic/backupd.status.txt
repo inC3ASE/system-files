@@ -1,0 +1,66 @@
+=== 2016-10-29 21:09:23.512 ===
+{
+    ClientID = "com.apple.backupd";
+    Running = 0;
+}
+
+=== 2016-10-29 21:09:28.551 ===
+{
+    ClientID = "com.apple.backupd";
+    Running = 0;
+}
+
+=== 2016-10-29 21:09:33.534 ===
+{
+    ClientID = "com.apple.backupd";
+    Running = 0;
+}
+
+=== 2016-10-29 21:09:38.610 ===
+{
+    ClientID = "com.apple.backupd";
+    Running = 0;
+}
+
+=== 2016-10-29 21:09:43.609 ===
+{
+    ClientID = "com.apple.backupd";
+    Running = 0;
+}
+
+=== 2016-10-29 21:09:48.511 ===
+{
+    ClientID = "com.apple.backupd";
+    Running = 0;
+}
+
+=== 2016-10-29 21:09:53.511 ===
+{
+    ClientID = "com.apple.backupd";
+    Running = 0;
+}
+
+=== 2016-10-29 21:09:58.565 ===
+{
+    ClientID = "com.apple.backupd";
+    Running = 0;
+}
+
+=== 2016-10-29 21:10:03.568 ===
+{
+    ClientID = "com.apple.backupd";
+    Running = 0;
+}
+
+=== 2016-10-29 21:10:08.580 ===
+{
+    ClientID = "com.apple.backupd";
+    Running = 0;
+}
+
+=== 2016-10-29 21:10:13.552 ===
+{
+    ClientID = "com.apple.backupd";
+    Running = 0;
+}
+

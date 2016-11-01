@@ -1,0 +1,10 @@
+Mach kernel version:
+	 Darwin Kernel Version 16.1.0: Wed Oct 19 20:31:56 PDT 2016; root:xnu-3789.21.4~4/RELEASE_X86_64
+Kernel configured for up to 4 processors.
+2 processors are physically available.
+4 processors are logically available.
+Processor type: x86_64h (Intel x86-64h Haswell)
+Processors active: 0 1 2 3
+Primary memory available: 4.00 gigabytes
+Default processor set: 324 tasks, 1211 threads, 4 processors
+Load average: 2.75, Mach factor: 1.26

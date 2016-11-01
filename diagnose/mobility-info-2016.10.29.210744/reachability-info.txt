@@ -1,0 +1,12 @@
+#
+# scutil -d -v -r www.apple.com
+#
+flags = 0x00000002 (Reachable)
+#
+# scutil -d -v -r 0.0.0.0
+#
+flags = 0x00000002 (Reachable)
+#
+# scutil -d -v -r 169.254.0.0
+#
+flags = 0x00020002 (Reachable, Directly Reachable Address)

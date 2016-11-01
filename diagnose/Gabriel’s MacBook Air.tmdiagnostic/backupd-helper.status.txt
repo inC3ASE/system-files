@@ -1,0 +1,4 @@
+=== com.apple.backupd-helper.status ===
+<error: 0x7fffa20c4ca0> { count = 1, transaction: 0, voucher = 0x0, contents =
+	"XPCErrorDescription" => <string: 0x7fffa20c4f18> { length = 18, contents = "Connection invalid" }
+}

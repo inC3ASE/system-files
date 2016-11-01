@@ -1,0 +1,334 @@
+total 0
+446750 drwxr-xr-x@ 13 archopposition  staff   442 Oct 27 17:34:58 2016 .
+	com.apple.ubd.prsid	  21 
+442064 drwx------@ 57 archopposition  staff  1938 Oct 29 18:34:20 2016 ..
+	com.apple.FinderInfo	  32 
+ 0: group:everyone deny delete
+448576 drwxr-xr-x   3 archopposition  staff   102 Oct 27 17:34:58 2016 com~apple~Automator
+446800 drwxr-xr-x   2 archopposition  staff    68 Oct 27 17:34:48 2016 com~apple~CloudDocs
+448631 drwxr-xr-x   3 archopposition  staff   102 Oct 27 17:34:58 2016 com~apple~Preview
+448410 drwxr-xr-x   3 archopposition  staff   102 Oct 27 17:34:57 2016 com~apple~QuickTimePlayerX
+448635 drwxr-xr-x   3 archopposition  staff   102 Oct 27 17:34:58 2016 com~apple~ScriptEditor2
+448633 drwxr-xr-x   3 archopposition  staff   102 Oct 27 17:34:58 2016 com~apple~TextEdit
+448440 drwxr-xr-x   4 archopposition  staff   136 Oct 27 17:35:05 2016 com~apple~TextInput
+448514 drwxr-xr-x   4 archopposition  staff   136 Oct 27 17:35:10 2016 com~apple~mail
+448425 drwxr-xr-x   3 archopposition  staff   102 Oct 27 17:34:57 2016 iCloud~com~apple~iBooks
+448420 drwxr-xr-x   3 archopposition  staff   102 Oct 27 17:34:57 2016 iCloud~com~apple~iBooks~iTunesU
+448494 drwxr-xr-x   3 archopposition  staff   102 Oct 27 17:34:57 2016 iCloud~com~apple~ncplugin~weather
+
+/Users/archopposition/Library/Mobile Documents/com~apple~Automator:
+total 0
+448576 drwxr-xr-x   3 archopposition  staff  102 Oct 27 17:34:58 2016 .
+446750 drwxr-xr-x@ 13 archopposition  staff  442 Oct 27 17:34:58 2016 ..
+	com.apple.ubd.prsid	 21 
+448577 drwxr-xr-x   2 archopposition  staff   68 Oct 27 17:35:10 2016 Documents
+
+/Users/archopposition/Library/Mobile Documents/com~apple~Automator/Documents:
+total 0
+448577 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:35:10 2016 .
+448576 drwxr-xr-x  3 archopposition  staff  102 Oct 27 17:34:58 2016 ..
+
+/Users/archopposition/Library/Mobile Documents/com~apple~CloudDocs:
+total 0
+446800 drwxr-xr-x   2 archopposition  staff   68 Oct 27 17:34:48 2016 .
+446750 drwxr-xr-x@ 13 archopposition  staff  442 Oct 27 17:34:58 2016 ..
+	com.apple.ubd.prsid	 21 
+
+/Users/archopposition/Library/Mobile Documents/com~apple~Preview:
+total 0
+448631 drwxr-xr-x   3 archopposition  staff  102 Oct 27 17:34:58 2016 .
+446750 drwxr-xr-x@ 13 archopposition  staff  442 Oct 27 17:34:58 2016 ..
+	com.apple.ubd.prsid	 21 
+448632 drwxr-xr-x   5 archopposition  staff  170 Oct 27 17:35:11 2016 Documents
+
+/Users/archopposition/Library/Mobile Documents/com~apple~Preview/Documents:
+total 24
+448632 drwxr-xr-x  5 archopposition  staff  170 Oct 27 17:35:11 2016 .
+448631 drwxr-xr-x  3 archopposition  staff  102 Oct 27 17:34:58 2016 ..
+449616 -rw-r--r--@ 1 archopposition  staff  179 Jul  9 22:45:39 2016 .BlacksLaw4thedition1891.pdf.icloud
+	com.apple.FinderInfo	 32 
+	com.apple.icloud.itemName	 27 
+	com.apple.quarantine	 22 
+449615 -rw-r--r--@ 1 archopposition  staff  209 Jul  9 22:41:52 2016 .Chapter6MethodsStudyingPublicOratoryAboutTerrorismpdf.pdf.icloud
+	com.apple.FinderInfo	 32 
+	com.apple.icloud.itemName	 57 
+	com.apple.quarantine	 22 
+449617 -rw-r--r--@ 1 archopposition  staff  187 Jul  9 22:41:31 2016 .chapter1StruggleDefineTerrorism.pdf.icloud
+	com.apple.icloud.itemName	 35 
+	com.apple.quarantine	 22 
+
+/Users/archopposition/Library/Mobile Documents/com~apple~QuickTimePlayerX:
+total 0
+448410 drwxr-xr-x   3 archopposition  staff  102 Oct 27 17:34:57 2016 .
+446750 drwxr-xr-x@ 13 archopposition  staff  442 Oct 27 17:34:58 2016 ..
+	com.apple.ubd.prsid	 21 
+448411 drwxr-xr-x   2 archopposition  staff   68 Oct 27 17:35:06 2016 Documents
+
+/Users/archopposition/Library/Mobile Documents/com~apple~QuickTimePlayerX/Documents:
+total 0
+448411 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:35:06 2016 .
+448410 drwxr-xr-x  3 archopposition  staff  102 Oct 27 17:34:57 2016 ..
+
+/Users/archopposition/Library/Mobile Documents/com~apple~ScriptEditor2:
+total 0
+448635 drwxr-xr-x   3 archopposition  staff  102 Oct 27 17:34:58 2016 .
+446750 drwxr-xr-x@ 13 archopposition  staff  442 Oct 27 17:34:58 2016 ..
+	com.apple.ubd.prsid	 21 
+448636 drwxr-xr-x   2 archopposition  staff   68 Oct 27 17:35:10 2016 Documents
+
+/Users/archopposition/Library/Mobile Documents/com~apple~ScriptEditor2/Documents:
+total 0
+448636 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:35:10 2016 .
+448635 drwxr-xr-x  3 archopposition  staff  102 Oct 27 17:34:58 2016 ..
+
+/Users/archopposition/Library/Mobile Documents/com~apple~TextEdit:
+total 0
+448633 drwxr-xr-x   3 archopposition  staff  102 Oct 27 17:34:58 2016 .
+446750 drwxr-xr-x@ 13 archopposition  staff  442 Oct 27 17:34:58 2016 ..
+	com.apple.ubd.prsid	 21 
+448634 drwxr-xr-x   2 archopposition  staff   68 Oct 27 17:35:06 2016 Documents
+
+/Users/archopposition/Library/Mobile Documents/com~apple~TextEdit/Documents:
+total 0
+448634 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:35:06 2016 .
+448633 drwxr-xr-x  3 archopposition  staff  102 Oct 27 17:34:58 2016 ..
+
+/Users/archopposition/Library/Mobile Documents/com~apple~TextInput:
+total 0
+448440 drwxr-xr-x   4 archopposition  staff  136 Oct 27 17:35:05 2016 .
+446750 drwxr-xr-x@ 13 archopposition  staff  442 Oct 27 17:34:58 2016 ..
+	com.apple.ubd.prsid	 21 
+449408 drwxr-xr-x   6 archopposition  staff  204 Oct 27 17:35:33 2016 Dictionaries
+448441 drwxr-xr-x   2 archopposition  staff   68 Oct 27 17:35:06 2016 Documents
+
+/Users/archopposition/Library/Mobile Documents/com~apple~TextInput/Dictionaries:
+total 0
+449408 drwxr-xr-x  6 archopposition  staff  204 Oct 27 17:35:33 2016 .
+448440 drwxr-xr-x  4 archopposition  staff  136 Oct 27 17:35:05 2016 ..
+449409 drwxr-xr-x  4 archopposition  staff  136 Oct 27 17:35:33 2016 .baseline
+449410 drwxr-xr-x  3 archopposition  staff  102 Oct 27 17:35:33 2016 .cdmetadata
+450256 drwxr-xr-x  4 archopposition  staff  136 Oct 27 17:35:34 2016 archopposition~DF5370B0-056D-51EC-B126-7898E967BC3B
+449411 drwxr-xr-x  3 archopposition  staff  102 Oct 27 17:35:05 2016 ubunyuadmin~DF5370B0-056D-51EC-B126-7898E967BC3B
+
+/Users/archopposition/Library/Mobile Documents/com~apple~TextInput/Dictionaries/.baseline:
+total 0
+449409 drwxr-xr-x  4 archopposition  staff  136 Oct 27 17:35:33 2016 .
+449408 drwxr-xr-x  6 archopposition  staff  204 Oct 27 17:35:33 2016 ..
+449415 drwxr-xr-x  3 archopposition  staff  102 Oct 27 17:35:05 2016 UserDictionary
+450275 drwxr-xr-x  3 archopposition  staff  102 Oct 27 17:35:33 2016 current.nosync
+
+/Users/archopposition/Library/Mobile Documents/com~apple~TextInput/Dictionaries/.baseline/UserDictionary:
+total 0
+449415 drwxr-xr-x  3 archopposition  staff  102 Oct 27 17:35:05 2016 .
+449409 drwxr-xr-x  4 archopposition  staff  136 Oct 27 17:35:33 2016 ..
+449417 drwxr-xr-x  4 archopposition  staff  136 Oct 27 17:35:33 2016 SAlQVUhF7208e6_gvZx_zdKx1U1AzKGem3HO2pLKjgY=
+
+/Users/archopposition/Library/Mobile Documents/com~apple~TextInput/Dictionaries/.baseline/UserDictionary/SAlQVUhF7208e6_gvZx_zdKx1U1AzKGem3HO2pLKjgY=:
+total 24
+449417 drwxr-xr-x  4 archopposition  staff   136 Oct 27 17:35:33 2016 .
+449415 drwxr-xr-x  3 archopposition  staff   102 Oct 27 17:35:05 2016 ..
+450219 -rw-r--r--@ 1 archopposition  staff  8195 Jul  5 19:27:13 2016 baseline.zip
+	com.apple.quarantine	  62 
+450288 drwxr-xr-x  2 archopposition  staff    68 Oct 27 17:35:33 2016 staging.nosync
+
+/Users/archopposition/Library/Mobile Documents/com~apple~TextInput/Dictionaries/.baseline/UserDictionary/SAlQVUhF7208e6_gvZx_zdKx1U1AzKGem3HO2pLKjgY=/staging.nosync:
+total 0
+450288 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:35:33 2016 .
+449417 drwxr-xr-x  4 archopposition  staff  136 Oct 27 17:35:33 2016 ..
+
+/Users/archopposition/Library/Mobile Documents/com~apple~TextInput/Dictionaries/.baseline/current.nosync:
+total 0
+450275 drwxr-xr-x  3 archopposition  staff  102 Oct 27 17:35:33 2016 .
+449409 drwxr-xr-x  4 archopposition  staff  136 Oct 27 17:35:33 2016 ..
+450276 drwxr-xr-x  3 archopposition  staff  102 Oct 27 17:35:33 2016 archopposition~DF5370B0-056D-51EC-B126-7898E967BC3B
+
+/Users/archopposition/Library/Mobile Documents/com~apple~TextInput/Dictionaries/.baseline/current.nosync/archopposition~DF5370B0-056D-51EC-B126-7898E967BC3B:
+total 0
+450276 drwxr-xr-x  3 archopposition  staff  102 Oct 27 17:35:33 2016 .
+450275 drwxr-xr-x  3 archopposition  staff  102 Oct 27 17:35:33 2016 ..
+450277 drwxr-xr-x  3 archopposition  staff  102 Oct 27 17:35:33 2016 UserDictionary
+
+/Users/archopposition/Library/Mobile Documents/com~apple~TextInput/Dictionaries/.baseline/current.nosync/archopposition~DF5370B0-056D-51EC-B126-7898E967BC3B/UserDictionary:
+total 0
+450277 drwxr-xr-x  3 archopposition  staff  102 Oct 27 17:35:33 2016 .
+450276 drwxr-xr-x  3 archopposition  staff  102 Oct 27 17:35:33 2016 ..
+450278 drwxr-xr-x  6 archopposition  staff  204 Oct 27 17:35:33 2016 SAlQVUhF7208e6_gvZx_zdKx1U1AzKGem3HO2pLKjgY=
+
+/Users/archopposition/Library/Mobile Documents/com~apple~TextInput/Dictionaries/.baseline/current.nosync/archopposition~DF5370B0-056D-51EC-B126-7898E967BC3B/UserDictionary/SAlQVUhF7208e6_gvZx_zdKx1U1AzKGem3HO2pLKjgY=:
+total 32
+450278 drwxr-xr-x  6 archopposition  staff   204 Oct 27 17:35:33 2016 .
+450277 drwxr-xr-x  3 archopposition  staff   102 Oct 27 17:35:33 2016 ..
+450281 -rw-r--r--  1 archopposition  staff  3541 Oct 27 17:35:33 2016 baseline.gcmodel
+450279 -rw-r--r--  1 archopposition  staff   818 Oct 27 17:35:33 2016 baseline.meta
+450280 -rw-r--r--  1 archopposition  staff  4864 Oct 27 17:35:33 2016 baseline.model
+450282 drwxr-xr-x  3 archopposition  staff   102 Oct 27 17:35:33 2016 stores
+
+/Users/archopposition/Library/Mobile Documents/com~apple~TextInput/Dictionaries/.baseline/current.nosync/archopposition~DF5370B0-056D-51EC-B126-7898E967BC3B/UserDictionary/SAlQVUhF7208e6_gvZx_zdKx1U1AzKGem3HO2pLKjgY=/stores:
+total 88
+450282 drwxr-xr-x  3 archopposition  staff    102 Oct 27 17:35:33 2016 .
+450278 drwxr-xr-x  6 archopposition  staff    204 Oct 27 17:35:33 2016 ..
+450283 -rw-r--r--  1 archopposition  staff  45056 Oct 27 17:35:33 2016 UserDictionary.db
+
+/Users/archopposition/Library/Mobile Documents/com~apple~TextInput/Dictionaries/.cdmetadata:
+total 0
+449410 drwxr-xr-x  3 archopposition  staff  102 Oct 27 17:35:33 2016 .
+449408 drwxr-xr-x  6 archopposition  staff  204 Oct 27 17:35:33 2016 ..
+450260 drwxr-xr-x  3 archopposition  staff  102 Oct 27 17:35:33 2016 metadata.nosync
+
+/Users/archopposition/Library/Mobile Documents/com~apple~TextInput/Dictionaries/.cdmetadata/metadata.nosync:
+total 0
+450260 drwxr-xr-x  3 archopposition  staff  102 Oct 27 17:35:33 2016 .
+449410 drwxr-xr-x  3 archopposition  staff  102 Oct 27 17:35:33 2016 ..
+450261 drwxr-xr-x  3 archopposition  staff  102 Oct 27 17:35:33 2016 archopposition~DF5370B0-056D-51EC-B126-7898E967BC3B
+
+/Users/archopposition/Library/Mobile Documents/com~apple~TextInput/Dictionaries/.cdmetadata/metadata.nosync/archopposition~DF5370B0-056D-51EC-B126-7898E967BC3B:
+total 0
+450261 drwxr-xr-x  3 archopposition  staff  102 Oct 27 17:35:33 2016 .
+450260 drwxr-xr-x  3 archopposition  staff  102 Oct 27 17:35:33 2016 ..
+450262 drwxr-xr-x  6 archopposition  staff  204 Oct 27 17:35:33 2016 UserDictionary
+
+/Users/archopposition/Library/Mobile Documents/com~apple~TextInput/Dictionaries/.cdmetadata/metadata.nosync/archopposition~DF5370B0-056D-51EC-B126-7898E967BC3B/UserDictionary:
+total 488
+450262 drwxr-xr-x  6 archopposition  staff     204 Oct 27 17:35:33 2016 .
+450261 drwxr-xr-x  3 archopposition  staff     102 Oct 27 17:35:33 2016 ..
+450264 -rw-r--r--@ 1 archopposition  staff      36 Oct 27 17:35:33 2016 6D324DC0-31B4-436D-93BE-A8984B42DE7B.cid
+	com.apple.TextEncoding	    15 
+450265 -rw-r--r--  1 archopposition  staff    4096 Oct 27 17:35:33 2016 metadata.store
+450270 -rw-r--r--  1 archopposition  staff   32768 Oct 27 17:35:33 2016 metadata.store-shm
+450269 -rw-r--r--  1 archopposition  staff  206032 Oct 27 17:35:34 2016 metadata.store-wal
+
+/Users/archopposition/Library/Mobile Documents/com~apple~TextInput/Dictionaries/archopposition~DF5370B0-056D-51EC-B126-7898E967BC3B:
+total 0
+450256 drwxr-xr-x  4 archopposition  staff  136 Oct 27 17:35:34 2016 .
+449408 drwxr-xr-x  6 archopposition  staff  204 Oct 27 17:35:33 2016 ..
+450308 drwxr-xr-x  3 archopposition  staff  102 Oct 27 17:35:34 2016 .stage.nosync
+450257 drwxr-xr-x  3 archopposition  staff  102 Oct 27 17:35:34 2016 UserDictionary
+
+/Users/archopposition/Library/Mobile Documents/com~apple~TextInput/Dictionaries/archopposition~DF5370B0-056D-51EC-B126-7898E967BC3B/.stage.nosync:
+total 0
+450308 drwxr-xr-x  3 archopposition  staff  102 Oct 27 17:35:34 2016 .
+450256 drwxr-xr-x  4 archopposition  staff  136 Oct 27 17:35:34 2016 ..
+450309 drwxr-xr-x  3 archopposition  staff  102 Oct 27 17:35:34 2016 UserDictionary
+
+/Users/archopposition/Library/Mobile Documents/com~apple~TextInput/Dictionaries/archopposition~DF5370B0-056D-51EC-B126-7898E967BC3B/.stage.nosync/UserDictionary:
+total 0
+450309 drwxr-xr-x  3 archopposition  staff  102 Oct 27 17:35:34 2016 .
+450308 drwxr-xr-x  3 archopposition  staff  102 Oct 27 17:35:34 2016 ..
+450310 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:35:34 2016 SAlQVUhF7208e6_gvZx_zdKx1U1AzKGem3HO2pLKjgY=
+
+/Users/archopposition/Library/Mobile Documents/com~apple~TextInput/Dictionaries/archopposition~DF5370B0-056D-51EC-B126-7898E967BC3B/.stage.nosync/UserDictionary/SAlQVUhF7208e6_gvZx_zdKx1U1AzKGem3HO2pLKjgY=:
+total 0
+450310 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:35:34 2016 .
+450309 drwxr-xr-x  3 archopposition  staff  102 Oct 27 17:35:34 2016 ..
+
+/Users/archopposition/Library/Mobile Documents/com~apple~TextInput/Dictionaries/archopposition~DF5370B0-056D-51EC-B126-7898E967BC3B/UserDictionary:
+total 0
+450257 drwxr-xr-x  3 archopposition  staff  102 Oct 27 17:35:34 2016 .
+450256 drwxr-xr-x  4 archopposition  staff  136 Oct 27 17:35:34 2016 ..
+450258 drwxr-xr-x  5 archopposition  staff  170 Oct 27 20:31:05 2016 SAlQVUhF7208e6_gvZx_zdKx1U1AzKGem3HO2pLKjgY=
+
+/Users/archopposition/Library/Mobile Documents/com~apple~TextInput/Dictionaries/archopposition~DF5370B0-056D-51EC-B126-7898E967BC3B/UserDictionary/SAlQVUhF7208e6_gvZx_zdKx1U1AzKGem3HO2pLKjgY=:
+total 24
+450258 drwxr-xr-x  5 archopposition  staff  170 Oct 27 20:31:05 2016 .
+450257 drwxr-xr-x  3 archopposition  staff  102 Oct 27 17:35:34 2016 ..
+450168 -rw-r--r--  1 archopposition  staff  633 Oct 27 17:35:31 2016 2251EB82-240A-46BD-8BF2-DFF3B6F33C64.1.cdt
+450311 -rw-r--r--  1 archopposition  staff  665 Oct 27 17:35:34 2016 3B80B854-70B9-4A51-B03C-ECADE4C190C7.1.cdt
+454268 -rw-r--r--  1 archopposition  staff  262 Oct 27 20:31:05 2016 receipt.0.cdt
+
+/Users/archopposition/Library/Mobile Documents/com~apple~TextInput/Dictionaries/ubunyuadmin~DF5370B0-056D-51EC-B126-7898E967BC3B:
+total 0
+449411 drwxr-xr-x  3 archopposition  staff  102 Oct 27 17:35:05 2016 .
+449408 drwxr-xr-x  6 archopposition  staff  204 Oct 27 17:35:33 2016 ..
+449414 drwxr-xr-x  3 archopposition  staff  102 Oct 27 17:35:05 2016 UserDictionary
+
+/Users/archopposition/Library/Mobile Documents/com~apple~TextInput/Dictionaries/ubunyuadmin~DF5370B0-056D-51EC-B126-7898E967BC3B/UserDictionary:
+total 0
+449414 drwxr-xr-x  3 archopposition  staff  102 Oct 27 17:35:05 2016 .
+449411 drwxr-xr-x  3 archopposition  staff  102 Oct 27 17:35:05 2016 ..
+449418 drwxr-xr-x  4 archopposition  staff  136 Oct 27 17:35:33 2016 SAlQVUhF7208e6_gvZx_zdKx1U1AzKGem3HO2pLKjgY=
+
+/Users/archopposition/Library/Mobile Documents/com~apple~TextInput/Dictionaries/ubunyuadmin~DF5370B0-056D-51EC-B126-7898E967BC3B/UserDictionary/SAlQVUhF7208e6_gvZx_zdKx1U1AzKGem3HO2pLKjgY=:
+total 16
+449418 drwxr-xr-x  4 archopposition  staff  136 Oct 27 17:35:33 2016 .
+449414 drwxr-xr-x  3 archopposition  staff  102 Oct 27 17:35:05 2016 ..
+450217 -rw-r--r--@ 1 archopposition  staff  631 Jul  5 19:27:07 2016 F79E60B5-AA2E-4902-A105-503ADE999FBB.1.cdt
+	com.apple.quarantine	 62 
+450218 -rw-r--r--@ 1 archopposition  staff  244 Jul  5 19:37:08 2016 receipt.0.cdt
+	com.apple.quarantine	 62 
+
+/Users/archopposition/Library/Mobile Documents/com~apple~TextInput/Documents:
+total 0
+448441 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:35:06 2016 .
+448440 drwxr-xr-x  4 archopposition  staff  136 Oct 27 17:35:05 2016 ..
+
+/Users/archopposition/Library/Mobile Documents/com~apple~mail:
+total 0
+448514 drwxr-xr-x   4 archopposition  staff  136 Oct 27 17:35:10 2016 .
+446750 drwxr-xr-x@ 13 archopposition  staff  442 Oct 27 17:34:58 2016 ..
+	com.apple.ubd.prsid	 21 
+449618 drwxr-xr-x   3 archopposition  staff  102 Oct 27 17:35:10 2016 Data
+448515 drwxr-xr-x   2 archopposition  staff   68 Oct 27 17:35:11 2016 Documents
+
+/Users/archopposition/Library/Mobile Documents/com~apple~mail/Data:
+total 0
+449618 drwxr-xr-x  3 archopposition  staff  102 Oct 27 17:35:10 2016 .
+448514 drwxr-xr-x  4 archopposition  staff  136 Oct 27 17:35:10 2016 ..
+449620 drwxr-xr-x  3 archopposition  staff  102 Oct 27 17:35:10 2016 V3
+
+/Users/archopposition/Library/Mobile Documents/com~apple~mail/Data/V3:
+total 0
+449620 drwxr-xr-x  3 archopposition  staff  102 Oct 27 17:35:10 2016 .
+449618 drwxr-xr-x  3 archopposition  staff  102 Oct 27 17:35:10 2016 ..
+449622 drwxr-xr-x  4 archopposition  staff  136 Oct 27 17:35:10 2016 MailData
+
+/Users/archopposition/Library/Mobile Documents/com~apple~mail/Data/V3/MailData:
+total 16
+449622 drwxr-xr-x  4 archopposition  staff  136 Oct 27 17:35:10 2016 .
+449620 drwxr-xr-x  3 archopposition  staff  102 Oct 27 17:35:10 2016 ..
+449623 -rw-r--r--@ 1 archopposition  staff  178 Jul 13 04:49:16 2016 .ubiquitous_SyncedRules.plist.icloud
+	com.apple.icloud.itemName	 28 
+	com.apple.quarantine	 19 
+449624 -rw-r--r--@ 1 archopposition  staff  187 Jul 13 04:49:15 2016 .ubiquitous_SyncedSmartMailboxes.plist.icloud
+	com.apple.icloud.itemName	 37 
+	com.apple.quarantine	 19 
+
+/Users/archopposition/Library/Mobile Documents/com~apple~mail/Documents:
+total 0
+448515 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:35:11 2016 .
+448514 drwxr-xr-x  4 archopposition  staff  136 Oct 27 17:35:10 2016 ..
+
+/Users/archopposition/Library/Mobile Documents/iCloud~com~apple~iBooks:
+total 0
+448425 drwxr-xr-x   3 archopposition  staff  102 Oct 27 17:34:57 2016 .
+446750 drwxr-xr-x@ 13 archopposition  staff  442 Oct 27 17:34:58 2016 ..
+	com.apple.ubd.prsid	 21 
+448426 drwxr-xr-x   2 archopposition  staff   68 Oct 27 17:35:06 2016 Documents
+
+/Users/archopposition/Library/Mobile Documents/iCloud~com~apple~iBooks/Documents:
+total 0
+448426 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:35:06 2016 .
+448425 drwxr-xr-x  3 archopposition  staff  102 Oct 27 17:34:57 2016 ..
+
+/Users/archopposition/Library/Mobile Documents/iCloud~com~apple~iBooks~iTunesU:
+total 0
+448420 drwxr-xr-x   3 archopposition  staff  102 Oct 27 17:34:57 2016 .
+446750 drwxr-xr-x@ 13 archopposition  staff  442 Oct 27 17:34:58 2016 ..
+	com.apple.ubd.prsid	 21 
+448421 drwxr-xr-x   2 archopposition  staff   68 Oct 27 17:35:06 2016 Documents
+
+/Users/archopposition/Library/Mobile Documents/iCloud~com~apple~iBooks~iTunesU/Documents:
+total 0
+448421 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:35:06 2016 .
+448420 drwxr-xr-x  3 archopposition  staff  102 Oct 27 17:34:57 2016 ..
+
+/Users/archopposition/Library/Mobile Documents/iCloud~com~apple~ncplugin~weather:
+total 0
+448494 drwxr-xr-x   3 archopposition  staff  102 Oct 27 17:34:57 2016 .
+446750 drwxr-xr-x@ 13 archopposition  staff  442 Oct 27 17:34:58 2016 ..
+	com.apple.ubd.prsid	 21 
+448495 drwxr-xr-x   2 archopposition  staff   68 Oct 27 17:35:06 2016 Documents
+
+/Users/archopposition/Library/Mobile Documents/iCloud~com~apple~ncplugin~weather/Documents:
+total 0
+448495 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:35:06 2016 .
+448494 drwxr-xr-x  3 archopposition  staff  102 Oct 27 17:34:57 2016 ..

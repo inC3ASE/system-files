@@ -1,0 +1,12 @@
+listing 11 containers:
+  id:iCloud.com.apple.ncplugin.weather localizedName:'Weather' documents:'/Users/archopposition/Library/Mobile Documents/iCloud~com~apple~ncplugin~weather/Documents' [Private: Any, inInitialState] clients: 
+  id:com.apple.ScriptEditor2 localizedName:'Script Editor' documents:'/Users/archopposition/Library/Mobile Documents/com~apple~ScriptEditor2/Documents' [Public: Any, inInitialState] clients: com.apple.ScriptEditor2
+  id:iCloud.com.apple.iBooks localizedName:'iBooks' documents:'/Users/archopposition/Library/Mobile Documents/iCloud~com~apple~iBooks/Documents' [Private: One, inInitialState] clients: com.apple.iBooksX
+  id:com.apple.QuickTimePlayerX localizedName:'QuickTime Player' documents:'/Users/archopposition/Library/Mobile Documents/com~apple~QuickTimePlayerX/Documents' [Private: Any, inInitialState] clients: com.apple.QuickTimePlayerX
+  id:com.apple.Preview localizedName:'Preview' documents:'/Users/archopposition/Library/Mobile Documents/com~apple~Preview/Documents' [Public: One] clients: com.apple.preview, com.apple.Preview
+  id:iCloud.com.apple.iBooks.iTunesU localizedName:'iBooks' documents:'/Users/archopposition/Library/Mobile Documents/iCloud~com~apple~iBooks~iTunesU/Documents' [Private: One, inInitialState] clients: com.apple.iBooksX
+  id:com.apple.CloudDocs localizedName:'iCloud Drive' documents:'/Users/archopposition/Library/Mobile Documents/com~apple~CloudDocs' [Public: Any] clients: 
+  id:com.apple.TextEdit localizedName:'TextEdit' documents:'/Users/archopposition/Library/Mobile Documents/com~apple~TextEdit/Documents' [Public: Any, inInitialState] clients: com.apple.TextEdit
+  id:com.apple.Automator localizedName:'Automator' documents:'/Users/archopposition/Library/Mobile Documents/com~apple~Automator/Documents' [Public: Any, inInitialState] clients: com.apple.Automator
+  id:com.apple.TextInput localizedName:'TextInput' documents:'/Users/archopposition/Library/Mobile Documents/com~apple~TextInput/Documents' [Private: Any, inInitialState] clients: com.apple.inputmethod.TCIM, com.apple.InputMethodKit.TextReplacementService, com.apple.inputmethod.SCIM
+  id:com.apple.mail localizedName:'Mail' documents:'/Users/archopposition/Library/Mobile Documents/com~apple~mail/Documents' [Private: Any, inInitialState] clients: com.apple.mail

@@ -1,0 +1,148 @@
+total 0
+446744 drwxr-xr-x   9 archopposition  staff  306 Oct 27 17:34:57 2016 .
+444164 drwxr-xr-x   6 archopposition  staff  204 Oct 27 17:34:53 2016 ..
+448416 drwxr-xr-x  20 archopposition  staff  680 Oct 27 20:37:03 2016 containers
+446798 drwxr-xr-x@  2 archopposition  staff   68 Oct 27 17:35:33 2016 d
+	com.apple.metadata:com_apple_backup_excludeItem	 61 
+446752 drwxr-xr-x@ 10 archopposition  staff  340 Oct 27 17:34:48 2016 db
+	com.apple.metadata:com_apple_backup_excludeItem	 61 
+446794 drwxr-xr-x@  2 archopposition  staff   68 Oct 27 17:35:10 2016 f
+	com.apple.metadata:com_apple_backup_excludeItem	 61 
+446796 drwxr-xr-x@  2 archopposition  staff   68 Oct 27 17:34:48 2016 r
+	com.apple.metadata:com_apple_backup_excludeItem	 61 
+446799 drwxr-xr-x@  2 archopposition  staff   68 Oct 27 17:34:48 2016 u
+	com.apple.metadata:com_apple_backup_excludeItem	 61 
+446795 drwxr-xr-x@  2 archopposition  staff   68 Oct 27 17:35:33 2016 v
+	com.apple.metadata:com_apple_backup_excludeItem	 61 
+
+/Users/archopposition/Library/Application Support/CloudDocs/session/containers:
+total 160
+448416 drwxr-xr-x  20 archopposition  staff    680 Oct 27 20:37:03 2016 .
+446744 drwxr-xr-x   9 archopposition  staff    306 Oct 27 17:34:57 2016 ..
+449119 drwxr-xr-x   7 archopposition  staff    238 Oct 27 17:35:02 2016 com.apple.Automator
+449121 -rw-r--r--   1 archopposition  staff  11847 Oct 27 17:35:02 2016 com.apple.Automator.plist
+449098 drwxr-xr-x   7 archopposition  staff    238 Oct 27 20:36:59 2016 com.apple.Preview
+456522 -rw-r--r--   1 archopposition  staff  27908 Oct 27 20:37:03 2016 com.apple.Preview.plist
+448417 drwxr-xr-x   2 archopposition  staff     68 Oct 27 17:34:57 2016 com.apple.QuickTimePlayerX
+448419 -rw-r--r--   1 archopposition  staff   8110 Oct 27 17:34:57 2016 com.apple.QuickTimePlayerX.plist
+449112 drwxr-xr-x   7 archopposition  staff    238 Oct 27 17:35:02 2016 com.apple.ScriptEditor2
+449115 -rw-r--r--   1 archopposition  staff   3929 Oct 27 17:35:02 2016 com.apple.ScriptEditor2.plist
+449116 drwxr-xr-x   7 archopposition  staff    238 Oct 27 17:35:02 2016 com.apple.TextEdit
+449118 -rw-r--r--   1 archopposition  staff   5308 Oct 27 17:35:02 2016 com.apple.TextEdit.plist
+448498 drwxr-xr-x   2 archopposition  staff     68 Oct 27 17:34:58 2016 com.apple.TextInput
+448503 -rw-r--r--   1 archopposition  staff    165 Oct 27 17:34:58 2016 com.apple.TextInput.plist
+448518 drwxr-xr-x   2 archopposition  staff     68 Oct 27 17:34:58 2016 com.apple.mail
+448520 -rw-r--r--   1 archopposition  staff   4264 Oct 27 17:34:58 2016 com.apple.mail.plist
+448432 drwxr-xr-x   2 archopposition  staff     68 Oct 27 17:34:57 2016 iCloud.com.apple.iBooks
+448422 drwxr-xr-x   2 archopposition  staff     68 Oct 27 17:34:57 2016 iCloud.com.apple.iBooks.iTunesU
+448424 -rw-r--r--   1 archopposition  staff   3441 Oct 27 17:34:57 2016 iCloud.com.apple.iBooks.iTunesU.plist
+448436 -rw-r--r--   1 archopposition  staff   3441 Oct 27 17:34:57 2016 iCloud.com.apple.iBooks.plist
+
+/Users/archopposition/Library/Application Support/CloudDocs/session/containers/com.apple.Automator:
+total 216
+449119 drwxr-xr-x   7 archopposition  staff    238 Oct 27 17:35:02 2016 .
+448416 drwxr-xr-x  20 archopposition  staff    680 Oct 27 20:37:03 2016 ..
+448954 -rw-------   1 archopposition  staff  21483 Oct 27 17:35:01 2016 128x128_OSX.png
+448956 -rw-------   1 archopposition  staff    755 Oct 27 17:35:01 2016 16x16_OSX.png
+448955 -rw-------   1 archopposition  staff  66458 Oct 27 17:35:02 2016 256x256_OSX.png
+448957 -rw-------   1 archopposition  staff   2192 Oct 27 17:35:02 2016 32x32_OSX.png
+448958 -rw-------   1 archopposition  staff   6900 Oct 27 17:35:02 2016 64x64_OSX.png
+
+/Users/archopposition/Library/Application Support/CloudDocs/session/containers/com.apple.Preview:
+total 280
+449098 drwxr-xr-x   7 archopposition  staff    238 Oct 27 20:36:59 2016 .
+448416 drwxr-xr-x  20 archopposition  staff    680 Oct 27 20:37:03 2016 ..
+456460 -rw-r--r--   1 archopposition  staff  27374 Oct 27 20:36:59 2016 128x128_OSX.png
+456466 -rw-r--r--   1 archopposition  staff    849 Oct 27 20:36:59 2016 16x16_OSX.png
+456465 -rw-r--r--   1 archopposition  staff  94477 Oct 27 20:36:59 2016 256x256_OSX.png
+456467 -rw-r--r--   1 archopposition  staff   2618 Oct 27 20:36:59 2016 32x32_OSX.png
+456468 -rw-r--r--   1 archopposition  staff   8176 Oct 27 20:36:59 2016 64x64_OSX.png
+
+/Users/archopposition/Library/Application Support/CloudDocs/session/containers/com.apple.QuickTimePlayerX:
+total 0
+448417 drwxr-xr-x   2 archopposition  staff   68 Oct 27 17:34:57 2016 .
+448416 drwxr-xr-x  20 archopposition  staff  680 Oct 27 20:37:03 2016 ..
+
+/Users/archopposition/Library/Application Support/CloudDocs/session/containers/com.apple.ScriptEditor2:
+total 168
+449112 drwxr-xr-x   7 archopposition  staff    238 Oct 27 17:35:02 2016 .
+448416 drwxr-xr-x  20 archopposition  staff    680 Oct 27 20:37:03 2016 ..
+448959 -rw-------   1 archopposition  staff  16185 Oct 27 17:35:01 2016 128x128_OSX.png
+448961 -rw-------   1 archopposition  staff    743 Oct 27 17:35:01 2016 16x16_OSX.png
+448960 -rw-------   1 archopposition  staff  49899 Oct 27 17:35:02 2016 256x256_OSX.png
+448962 -rw-------   1 archopposition  staff   2268 Oct 27 17:35:02 2016 32x32_OSX.png
+448963 -rw-------   1 archopposition  staff   5739 Oct 27 17:35:02 2016 64x64_OSX.png
+
+/Users/archopposition/Library/Application Support/CloudDocs/session/containers/com.apple.TextEdit:
+total 176
+449116 drwxr-xr-x   7 archopposition  staff    238 Oct 27 17:35:02 2016 .
+448416 drwxr-xr-x  20 archopposition  staff    680 Oct 27 20:37:03 2016 ..
+448949 -rw-------   1 archopposition  staff  16975 Oct 27 17:35:02 2016 128x128_OSX.png
+448951 -rw-------   1 archopposition  staff    785 Oct 27 17:35:02 2016 16x16_OSX.png
+448950 -rw-------   1 archopposition  staff  51955 Oct 27 17:35:02 2016 256x256_OSX.png
+448952 -rw-------   1 archopposition  staff   2136 Oct 27 17:35:02 2016 32x32_OSX.png
+448953 -rw-------   1 archopposition  staff   5199 Oct 27 17:35:02 2016 64x64_OSX.png
+
+/Users/archopposition/Library/Application Support/CloudDocs/session/containers/com.apple.TextInput:
+total 0
+448498 drwxr-xr-x   2 archopposition  staff   68 Oct 27 17:34:58 2016 .
+448416 drwxr-xr-x  20 archopposition  staff  680 Oct 27 20:37:03 2016 ..
+
+/Users/archopposition/Library/Application Support/CloudDocs/session/containers/com.apple.mail:
+total 0
+448518 drwxr-xr-x   2 archopposition  staff   68 Oct 27 17:34:58 2016 .
+448416 drwxr-xr-x  20 archopposition  staff  680 Oct 27 20:37:03 2016 ..
+
+/Users/archopposition/Library/Application Support/CloudDocs/session/containers/iCloud.com.apple.iBooks:
+total 0
+448432 drwxr-xr-x   2 archopposition  staff   68 Oct 27 17:34:57 2016 .
+448416 drwxr-xr-x  20 archopposition  staff  680 Oct 27 20:37:03 2016 ..
+
+/Users/archopposition/Library/Application Support/CloudDocs/session/containers/iCloud.com.apple.iBooks.iTunesU:
+total 0
+448422 drwxr-xr-x   2 archopposition  staff   68 Oct 27 17:34:57 2016 .
+448416 drwxr-xr-x  20 archopposition  staff  680 Oct 27 20:37:03 2016 ..
+
+/Users/archopposition/Library/Application Support/CloudDocs/session/d:
+total 0
+446798 drwxr-xr-x@ 2 archopposition  staff   68 Oct 27 17:35:33 2016 .
+	com.apple.metadata:com_apple_backup_excludeItem	 61 
+446744 drwxr-xr-x  9 archopposition  staff  306 Oct 27 17:34:57 2016 ..
+
+/Users/archopposition/Library/Application Support/CloudDocs/session/db:
+total 7968
+446752 drwxr-xr-x@ 10 archopposition  staff      340 Oct 27 17:34:48 2016 .
+	com.apple.metadata:com_apple_backup_excludeItem	     61 
+446744 drwxr-xr-x   9 archopposition  staff      306 Oct 27 17:34:57 2016 ..
+446768 -rw-r--r--   1 archopposition  staff   446464 Oct 27 20:31:10 2016 client.db
+446784 -rw-r--r--   1 archopposition  staff    32768 Oct 29 21:07:41 2016 client.db-shm
+446783 -rw-r--r--   1 archopposition  staff  1277232 Oct 29 21:09:41 2016 client.db-wal
+446786 -rw-------   1 archopposition  staff        0 Oct 27 17:34:48 2016 control-even
+446792 -rw-------   1 archopposition  staff        0 Oct 27 17:34:48 2016 control-odd
+446758 -rw-r--r--   1 archopposition  staff     4096 Oct 27 17:34:48 2016 server.db
+446762 -rw-r--r--   1 archopposition  staff    32768 Oct 29 18:51:16 2016 server.db-shm
+446761 -rw-r--r--   1 archopposition  staff  2282512 Oct 29 18:34:25 2016 server.db-wal
+
+/Users/archopposition/Library/Application Support/CloudDocs/session/f:
+total 0
+446794 drwxr-xr-x@ 2 archopposition  staff   68 Oct 27 17:35:10 2016 .
+	com.apple.metadata:com_apple_backup_excludeItem	 61 
+446744 drwxr-xr-x  9 archopposition  staff  306 Oct 27 17:34:57 2016 ..
+
+/Users/archopposition/Library/Application Support/CloudDocs/session/r:
+total 0
+446796 drwxr-xr-x@ 2 archopposition  staff   68 Oct 27 17:34:48 2016 .
+	com.apple.metadata:com_apple_backup_excludeItem	 61 
+446744 drwxr-xr-x  9 archopposition  staff  306 Oct 27 17:34:57 2016 ..
+
+/Users/archopposition/Library/Application Support/CloudDocs/session/u:
+total 0
+446799 drwxr-xr-x@ 2 archopposition  staff   68 Oct 27 17:34:48 2016 .
+	com.apple.metadata:com_apple_backup_excludeItem	 61 
+446744 drwxr-xr-x  9 archopposition  staff  306 Oct 27 17:34:57 2016 ..
+
+/Users/archopposition/Library/Application Support/CloudDocs/session/v:
+total 0
+446795 drwxr-xr-x@ 2 archopposition  staff   68 Oct 27 17:35:33 2016 .
+	com.apple.metadata:com_apple_backup_excludeItem	 61 
+446744 drwxr-xr-x  9 archopposition  staff  306 Oct 27 17:34:57 2016 ..

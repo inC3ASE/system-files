@@ -1,0 +1,12 @@
+11 containers matching '*'
+<com.apple.Automator[8] [0;1;30mbackground[0m {client:initial-faults-live|ever-live|root-created server:idle sync:has-synced-down last-sync:2016-10-27/17:35:10, requestID:2, caught-up, token:<[0;1m5[0m,current> rid:3}>
+<com.apple.CloudDocs[1] [0;1;30mbackground[0m {client:initial-faults-live|ever-live|root-created server:idle sync:has-synced-down last-sync:2016-10-27/17:35:00, caught-up, token:<[0;1m4[0m,current> rid:0}>
+<com.apple.mail[7] [0;1;30mbackground[0m {client:initial-faults-live|ever-live|root-created server:idle sync:has-synced-down last-sync:2016-10-27/17:35:11, requestID:2, caught-up, token:<[0;1m13[0m,current> rid:3}>
+<com.apple.Preview[9] [0;1;32mforeground[0m {client:initial-faults-live|ever-live|root-created server:idle sync:has-synced-down last-sync:2016-10-27/17:35:11, requestID:2, caught-up, token:<[0;1m11[0m,current> rid:3}>
+<com.apple.QuickTimePlayerX[2] [0;1;30mbackground[0m {client:initial-faults-live|ever-live|root-created server:idle sync:has-synced-down last-sync:2016-10-27/17:35:06, requestID:2, caught-up, token:<[0;1m5[0m,current> rid:3}>
+<com.apple.ScriptEditor2[11] [0;1;30mbackground[0m {client:initial-faults-live|ever-live|root-created server:idle sync:has-synced-down last-sync:2016-10-27/17:35:10, requestID:2, caught-up, token:<[0;1m5[0m,current> rid:3}>
+<com.apple.TextEdit[10] [0;1;30mbackground[0m {client:initial-faults-live|ever-live|root-created server:idle sync:has-synced-down last-sync:2016-10-27/17:35:06, requestID:2, caught-up, token:<[0;1m13[0m,current> rid:3}>
+<com.apple.TextInput[5] [0;1;32mforeground[0m {client:initial-faults-live|ever-live|root-created server:idle sync:has-synced-down last-sync:2016-10-27/20:31:11, requestID:8, caught-up, token:<[0;1m28[0m,current> rid:9}>
+<iCloud.com.apple.iBooks[4] [0;1;30mbackground[0m {client:initial-faults-live|ever-live|root-created server:idle sync:has-synced-down last-sync:2016-10-27/17:35:06, requestID:2, caught-up, token:<[0;1m5[0m,current> rid:3}>
+<iCloud.com.apple.iBooks.iTunesU[3] [0;1;30mbackground[0m {client:initial-faults-live|ever-live|root-created server:idle sync:has-synced-down last-sync:2016-10-27/17:35:06, requestID:2, caught-up, token:<[0;1m5[0m,current> rid:3}>
+<iCloud.com.apple.ncplugin.weather[6] [0;1;30mbackground[0m {client:initial-faults-live|ever-live|root-created server:idle sync:has-synced-down last-sync:2016-10-27/17:35:06, requestID:2, caught-up, token:<[0;1m5[0m,current> rid:3}>

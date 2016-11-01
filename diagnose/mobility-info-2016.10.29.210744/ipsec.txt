@@ -1,0 +1,9 @@
+#
+# setkey -D
+#
+No SAD entries.
+
+#
+# setkey -Pp -D
+#
+No SPD entries.

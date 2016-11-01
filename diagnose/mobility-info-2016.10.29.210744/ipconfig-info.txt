@@ -1,0 +1,106 @@
+#
+# INTERFACE gif0
+#
+DHCPv4 information:
+not available
+
+DHCPv6 information:
+not available
+
+#
+# INTERFACE stf0
+#
+DHCPv4 information:
+not available
+
+DHCPv6 information:
+not available
+
+#
+# INTERFACE en0
+#
+DHCPv4 information:
+op = BOOTREPLY
+htype = 1
+flags = 0
+hlen = 6
+hops = 0
+xid = 0x9a9fa7e9
+secs = 0
+ciaddr = 172.31.98.116
+yiaddr = 172.31.98.116
+siaddr = 172.31.98.1
+giaddr = 0.0.0.0
+chaddr = 5c:f9:38:8d:b7:20
+sname = 
+file = 
+options:
+Options count is 10
+dhcp_message_type (uint8): ACK 0x5
+server_identifier (ip): 172.31.98.1
+lease_time (uint32): 0xe10
+renewal_t1_time_value (uint32): 0x63e
+rebinding_t2_time_value (uint32): 0xb84
+broadcast_address (ip): 172.31.99.255
+domain_name_server (ip_mult): {8.8.8.8, 8.8.4.4}
+router (ip_mult): {172.31.98.1}
+subnet_mask (ip): 255.255.254.0
+end (none): 
+
+DHCPv6 information:
+not available
+
+#
+# INTERFACE en1
+#
+DHCPv4 information:
+not available
+
+DHCPv6 information:
+not available
+
+#
+# INTERFACE bridge0
+#
+DHCPv4 information:
+not available
+
+DHCPv6 information:
+not available
+
+#
+# INTERFACE p2p0
+#
+DHCPv4 information:
+not available
+
+DHCPv6 information:
+not available
+
+#
+# INTERFACE awdl0
+#
+DHCPv4 information:
+not available
+
+DHCPv6 information:
+not available
+
+#
+# INTERFACE utun1
+#
+DHCPv4 information:
+not available
+
+DHCPv6 information:
+not available
+
+#
+# INTERFACE bond0
+#
+DHCPv4 information:
+not available
+
+DHCPv6 information:
+not available
+

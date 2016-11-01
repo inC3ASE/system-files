@@ -1,0 +1,4 @@
+#
+# scutil --nc list
+#
+Available network connection services in the current set (*=enabled):

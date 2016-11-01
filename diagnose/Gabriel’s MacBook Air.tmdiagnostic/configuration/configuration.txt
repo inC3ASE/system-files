@@ -1,0 +1,31 @@
+=== System Version ===
+{
+    Build = Build;
+    FullVersionString = "Version 10.12.1 (Build 16B2657)";
+    ProductBuildVersion = 16B2657;
+    ProductCopyright = "1983-2016 Apple Inc.";
+    ProductName = "Mac OS X";
+    ProductUserVisibleVersion = "10.12.1";
+    ProductVersion = "10.12.1";
+    Version = Version;
+}
+
+=== Host UUID ===
+DF5370B0-056D-51EC-B126-7898E967BC3B
+
+=== System Keychain ===
+-rw-r--r--  1 root  wheel  33224 Oct 27 17:35 /Library/Keychains/System.keychain
+
+=== Darwinup Root List ===
+Serial UUID                                  Date          Build    Name
+====== ====================================  ============  =======  =================
+
+=== Launchd Jobs ===
+PID	Status	Label
+-	0	com.apple.mtmd
+-	0	com.apple.mtmhelper
+-	0	com.apple.backupd
+
+=== Backup Destinations ===
+tmutil: No destinations configured.
+

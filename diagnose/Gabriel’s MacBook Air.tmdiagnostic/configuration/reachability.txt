@@ -1,0 +1,17 @@
+======================================================================
+Discoverable Bonjour Services
+
+
+=== _afpovertcp._tcp. ===
+
+INSTANCE NAME                       DOMAIN               HOST NAME                                TIME TO RESOLVE
+Unable to locate any services of type '_afpovertcp._tcp.'
+
+=== _airport._tcp. ===
+Unable to locate any services of type '_airport._tcp.'
+
+=== _adisk._tcp. ===
+Unable to locate any services of type '_adisk._tcp.'
+
+======================================================================
+Network Destination Response Times

@@ -1,0 +1,98 @@
+/usr/libexec/bootpd
+	PROGRAM:bootpd  PROJECT:bootp-343.20.1
+	sum: 39130 183 /usr/libexec/bootpd
+	additional info: -rwxr-xr-x  1 root  wheel  186720 Oct 29 21:07 /usr/libexec/bootpd
+
+/usr/libexec/configd
+	PROGRAM:configd  PROJECT:configd-888.20.5
+	sum: 62570 429 /usr/libexec/configd
+	additional info: -rwxr-xr-x  1 root  wheel  438320 Oct 29 21:07 /usr/libexec/configd
+
+/usr/sbin/mDNSResponder
+	 mDNSResponder mDNSResponder-765.20.4 (Sep 19 2016 17:06:49)
+	sum: 24446 825 /usr/sbin/mDNSResponder
+	additional info: -rwxr-xr-x  1 root  wheel  843808 Oct 29 21:07 /usr/sbin/mDNSResponder
+
+/usr/sbin/pppd
+	sum: 62478 342 /usr/sbin/pppd
+	additional info: -r-xr-xr-x  1 root  wheel  350208 Oct 29 21:07 /usr/sbin/pppd
+
+/usr/sbin/racoon
+	This product linked %s (http://www.openssl.org/)
+	 racoon / IPsec-tools
+	sum: 39177 869 /usr/sbin/racoon
+	additional info: -r-xr-xr-x  1 root  wheel  889136 Oct 29 21:07 /usr/sbin/racoon
+
+/usr/libexec/InternetSharing
+	PROGRAM:InternetSharing  PROJECT:MobileInternetSharing-163
+	sum: 16518 180 /usr/libexec/InternetSharing
+	additional info: -r-xr-xr-x  1 root  wheel  184272 Oct 29 21:07 /usr/libexec/InternetSharing
+
+/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+	PROGRAM:SystemConfiguration  PROJECT:configd-888.20.5
+	PROGRAM:SystemConfiguration  PROJECT:configd-888.20.5
+	sum: 15642 1330 /System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+	additional info: lrwxr-xr-x  1 root  wheel  36 Oct 27 17:22 /System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration -> Versions/Current/SystemConfiguration
+
+ApplicationFirewallStartup.bundle
+	Enabled
+	Version: 1
+	sum: 28443 18 /System/Library/SystemConfiguration/ApplicationFirewallStartup.bundle/Contents/MacOS/ApplicationFirewallStartup
+	additional info: -rwxr-xr-x  1 root  wheel  18112 Oct 29 21:07 /System/Library/SystemConfiguration/ApplicationFirewallStartup.bundle/Contents/MacOS/ApplicationFirewallStartup
+
+CaptiveNetworkSupport.bundle
+	Enabled*
+	Version: 1.0
+	sum: 3195 200 /System/Library/SystemConfiguration/CaptiveNetworkSupport.bundle/Contents/MacOS/CaptiveNetworkSupport
+	additional info: -rwxr-xr-x  1 root  wheel  204512 Oct 29 21:07 /System/Library/SystemConfiguration/CaptiveNetworkSupport.bundle/Contents/MacOS/CaptiveNetworkSupport
+
+EAPOLController.bundle
+	Enabled
+	Version: 14.0
+	sum: 576 55 /System/Library/SystemConfiguration/EAPOLController.bundle/Contents/MacOS/EAPOLController
+	additional info: -rwxr-xr-x  1 root  wheel  55440 Oct 29 21:07 /System/Library/SystemConfiguration/EAPOLController.bundle/Contents/MacOS/EAPOLController
+
+IPConfiguration.bundle
+	Enabled
+	Version: 16.0.0
+	sum: 52993 370 /System/Library/SystemConfiguration/IPConfiguration.bundle/Contents/MacOS/IPConfiguration
+	additional info: -rwxr-xr-x  1 root  wheel  378272 Oct 29 21:07 /System/Library/SystemConfiguration/IPConfiguration.bundle/Contents/MacOS/IPConfiguration
+
+IPMonitor.bundle
+	Enabled
+	Version: 1.14
+
+InterfaceNamer.bundle
+	Enabled
+	Version: 1.14
+
+InternetSharingPreference.bundle
+	Enabled*
+	Version: 1.13
+	sum: 56602 49 /System/Library/SystemConfiguration/InternetSharingPreference.bundle/Contents/MacOS/InternetSharingPreference
+	additional info: -rwxr-xr-x  1 root  wheel  49184 Oct 29 21:07 /System/Library/SystemConfiguration/InternetSharingPreference.bundle/Contents/MacOS/InternetSharingPreference
+
+KernelEventMonitor.bundle
+	Enabled
+	Version: 1.14
+
+LinkConfiguration.bundle
+	Enabled
+	Version: 1.14
+
+PPPController.bundle
+	Enabled
+	Version: 1.10
+	sum: 50038 364 /System/Library/SystemConfiguration/PPPController.bundle/Contents/MacOS/PPPController
+	additional info: -rwxr-xr-x  1 root  wheel  371728 Oct 29 21:07 /System/Library/SystemConfiguration/PPPController.bundle/Contents/MacOS/PPPController
+
+PreferencesMonitor.bundle
+	Enabled
+	Version: 1.14
+
+PrinterNotifications.bundle
+	Enabled
+	Version: 543
+	sum: 46819 135 /System/Library/SystemConfiguration/PrinterNotifications.bundle/Contents/MacOS/PrinterNotifications
+	additional info: -rwxr-xr-x  1 root  wheel  137904 Oct 29 21:07 /System/Library/SystemConfiguration/PrinterNotifications.bundle/Contents/MacOS/PrinterNotifications
+

@@ -1,0 +1,1132 @@
+#
+# uptime
+#
+21:07  up 2 days,  3:37, 5 users, load averages: 2.41 2.48 2.34
+#
+# sysctl kern hw net debug
+#
+kern.ostype: Darwin
+kern.osrelease: 16.1.0
+kern.osrevision: 199506
+kern.version: Darwin Kernel Version 16.1.0: Wed Oct 19 20:31:56 PDT 2016; root:xnu-3789.21.4~4/RELEASE_X86_64
+kern.maxvnodes: 66560
+kern.maxproc: 1064
+kern.maxfiles: 12288
+kern.argmax: 262144
+kern.securelevel: 0
+kern.hostname: Gabriels-MacBook-Air.local
+kern.hostid: 0
+kern.clockrate: { hz = 100, tick = 10000, tickadj = 2, profhz = 100, stathz = 100 }
+kern.posix1version: 200112
+kern.ngroups: 16
+kern.job_control: 1
+kern.saved_ids: 1
+kern.boottime: { sec = 1477614639, usec = 183695 } Thu Oct 27 17:30:39 2016
+kern.nisdomainname: 
+kern.maxfilesperproc: 10240
+kern.maxprocperuid: 709
+kern.ipc.maxsockbuf: 4194304
+kern.ipc.sockbuf_waste_factor: 8
+kern.ipc.somaxconn: 128
+kern.ipc.nmbclusters: 32768
+kern.ipc.soqlimitcompat: 1
+kern.ipc.mb_drain_maxint: 0
+kern.ipc.mb_drain_force: 0
+kern.ipc.mb_watchdog: 0
+kern.ipc.mb_normalized: 0
+kern.ipc.mleak_sample_factor: 500
+kern.ipc.sotcdb: 0
+kern.ipc.extbkidlercvhiwat: 131072
+kern.ipc.extbkidletime: 600
+kern.ipc.maxextbkidleperproc: 1
+kern.ipc.soreserveheadroom: 1
+kern.ipc.sorestrictsend: 1
+kern.ipc.sorestrictrecv: 1
+kern.ipc.sothrottlelog: 0
+kern.ipc.sodefunctlog: 0
+kern.ipc.sosendbigcl_ignore_capab: 0
+kern.ipc.sosendjcl_ignore_capab: 0
+kern.ipc.sosendjcl: 1
+kern.ipc.sorecvmincopy: 16384
+kern.ipc.sosendminchain: 16384
+kern.ipc.sodefunct_calls: 0
+kern.ipc.socket_debug: 0
+kern.ipc.throttle_best_effort: 0
+kern.ipc.io_policy.uuid: 1
+kern.ipc.io_policy.log: 0
+kern.ipc.io_policy.throttled: 0
+kern.ipc.sbmb_limreached: 0
+kern.ipc.sbmb_cnt_floor: 181
+kern.ipc.sbmb_cnt_peak: 6741
+kern.ipc.sbmb_cnt: 189
+kern.ipc.soqlencomp: 0
+kern.ipc.njclbytes: 16384
+kern.ipc.njcl: 10920
+kern.ipc.maxsendmsgx: 100
+kern.ipc.maxrecvmsgx: 100
+kern.usrstack: 1588940800
+kern.netboot: 0
+kern.sysv.shmall: 1024
+kern.sysv.shmseg: 8
+kern.sysv.shmmni: 32
+kern.sysv.shmmin: 1
+kern.sysv.shmmax: 4194304
+kern.sysv.semume: 10
+kern.sysv.semmsl: 87381
+kern.sysv.semmnu: 87381
+kern.sysv.semmns: 87381
+kern.sysv.semmni: 87381
+kern.aiomax: 90
+kern.aioprocmax: 16
+kern.aiothreads: 4
+kern.corefile: /cores/core.%P
+kern.coredump: 1
+kern.sugid_coredump: 0
+kern.delayterm: 0
+kern.shreg_private: 0
+kern.posix.sem.max: 10000
+kern.usrstack64: 140734782328832
+kern.nx: 1
+kern.tfp.policy: 2
+kern.procname: sysctl
+kern.speculative_reads_disabled: 0
+kern.osversion: 16B2657
+kern.safeboot: 0
+kern.rage_vnode: 0
+kern.tty.ptmx_max: 127
+kern.threadname: 
+kern.dtrace.err_verbose: 0
+kern.dtrace.buffer_memory_maxsize: 1431655765
+kern.dtrace.buffer_memory_inuse: 0
+kern.dtrace.difo_maxsize: 262144
+kern.dtrace.dof_maxsize: 393216
+kern.dtrace.global_maxsize: 16384
+kern.dtrace.provide_private_probes: 0
+kern.nbuf: 16384
+kern.maxnbuf: 16384
+kern.flush_cache_on_write: 0
+kern.ds_supgroups_supported: 1
+kern.sugid_scripts: 0
+kern.zleak.zone_threshold: 100663296
+kern.zleak.global_threshold: 805306368
+kern.zleak.max_zonemap_size: 1610612736
+kern.zleak.active: 0
+kern.min_audio_buffer_usec: 11609
+kern.hv_support: 1
+kern.timer_coalesce_tier5_ns_max: 10000000000
+kern.timer_coalesce_tier5_scale: -15
+kern.timer_coalesce_tier4_ns_max: 10000000000
+kern.timer_coalesce_tier4_scale: -15
+kern.timer_coalesce_tier3_ns_max: 75000000
+kern.timer_coalesce_tier3_scale: -2
+kern.timer_coalesce_tier2_ns_max: 20000000
+kern.timer_coalesce_tier2_scale: 1
+kern.timer_coalesce_tier1_ns_max: 5000000
+kern.timer_coalesce_tier1_scale: 2
+kern.timer_coalesce_tier0_ns_max: 1000000
+kern.timer_coalesce_tier0_scale: 3
+kern.timer_coalesce_ts_ns_max: 1000000
+kern.timer_coalesce_ts_scale: 3
+kern.timer_coalesce_fp_ns_max: 1000000
+kern.timer_coalesce_fp_scale: 3
+kern.timer_coalesce_kt_ns_max: 1000000
+kern.timer_coalesce_kt_scale: 3
+kern.timer_coalesce_bg_ns_max: 100000000
+kern.timer_resort_threshold_ns: 50000000
+kern.timer_coalesce_bg_scale: -5
+kern.sched: multiq
+kern.ipc_portbt: 0
+kern.stack_depth_max: -43912
+kern.stack_size: 16384
+kern.ipc_voucher_trace_contents: 0
+kern.slide: 1
+kern.affinity_sets_mapping: 1
+kern.affinity_sets_enabled: 1
+kern.minimalboot: 0
+kern.singleuser: 0
+kern.timer.longterm.qlen: 147
+kern.timer.longterm.threshold: 1000
+kern.timer.deadline_tracking_bin_2: 5000000
+kern.timer.deadline_tracking_bin_1: 2000000
+kern.timer.coalescing_enabled: 1
+kern.bootsessionuuid: 01A82138-D8B5-41AF-8821-0A148ABBD50A
+kern.vm_max_batch: 256
+kern.vm_max_delayed_work_limit: 32
+kern.vm_page_speculative_q_age_ms: 500
+kern.vm_page_speculative_percentage: 5
+kern.vm_page_free_reserved: 772
+kern.vm_page_free_min: 3500
+kern.vm_page_free_target: 4000
+kern.speculative_prefetch_max_iosize: 524288
+kern.speculative_prefetch_max: 201326592
+kern.preheat_min_bytes: 32768
+kern.preheat_max_bytes: 1048576
+kern.ignore_is_ssd: 0
+kern.namecache_disabled: 0
+kern.num_taskthreads: 2048
+kern.num_threads: 10240
+kern.num_tasks: 2048
+kern.num_vnodes: 66560
+kern.num_files: 2648
+kern.bootargs: 
+kern.uuid: 75CA1C4D-7BF4-321B-B544-D8F1B6D60EF8
+kern.memorystatus_purge_on_critical: 8
+kern.memorystatus_purge_on_urgent: 5
+kern.memorystatus_purge_on_warning: 2
+kern.jetsam_aging_policy: 1
+kern.memorystatus_apps_idle_delay_time: 10
+kern.memorystatus_sysprocs_idle_delay_time: 10
+kern.msgbuf: 16384
+kern.coalition_pid_list: 850 15447 852 15281 9498 13477 15134 4350 4349 15279 13511 9499 15135 13478 15892 16175 15911 13484 1260
+kern.coalition_page_count: 26483 26483
+kern.coalition_roles: 0 0
+kern.coalitions: 890 891
+kern.secure_kernel: 0
+kern.timer_coalesce_idle_entry_hard_deadline_max: 5000000
+kern.interrupt_timer_coalescing_enabled: 1
+kern.pmtimeout: 0
+kern.sleep_abs_time: 13831053578630
+kern.wake_abs_time: 13831367000298
+kern.sleeptime: { sec = 1477792277, usec = 501857 } Sat Oct 29 18:51:17 2016
+kern.waketime: { sec = 1477793950, usec = 142 } Sat Oct 29 19:19:10 2016
+kern.willshutdown: 0
+kern.iokittest: 0
+kern.progressmeterenable: 0
+kern.progressmeter: 830
+kern.wakereason: EC.ACAttach
+kern.consoleoptions: 0
+kern.hibernatefile: /var/vm/sleepimage
+kern.bootsignature: 56f1d59a2c7c0e0ea17f00cb41805e12038a30e3
+
+kern.hibernatemode: 0
+kern.hibernategraphicsready: 42802
+kern.hibernatewakenotification: 41137
+kern.hibernatelockscreenready: 41285
+kern.hibernatehidready: 0
+kern.wq_yielded_threshold: 2000
+kern.wq_yielded_window_usecs: 30000
+kern.wq_stalled_window_usecs: 200
+kern.wq_reduce_pool_window_usecs: 5000000
+kern.wq_max_timer_interval_usecs: 50000
+kern.wq_max_threads: 512
+kern.wq_max_constrained_threads: 64
+kern.pthread_debug_tracing: 1
+hw.ncpu: 4
+hw.byteorder: 1234
+hw.memsize: 4294967296
+hw.activecpu: 4
+hw.optional.sgx: 0
+hw.optional.mpx: 0
+hw.optional.adx: 1
+hw.optional.hle: 0
+hw.optional.rtm: 0
+hw.optional.bmi2: 1
+hw.optional.bmi1: 1
+hw.optional.avx2_0: 1
+hw.optional.fma: 1
+hw.optional.enfstrg: 1
+hw.optional.f16c: 1
+hw.optional.rdrand: 1
+hw.optional.avx1_0: 1
+hw.optional.aes: 1
+hw.optional.x86_64: 1
+hw.optional.sse4_2: 1
+hw.optional.sse4_1: 1
+hw.optional.supplementalsse3: 1
+hw.optional.sse3: 1
+hw.optional.sse2: 1
+hw.optional.sse: 1
+hw.optional.mmx: 1
+hw.optional.floatingpoint: 1
+hw.packages: 1
+hw.tbfrequency: 1000000000
+hw.l3cachesize: 3145728
+hw.l2cachesize: 262144
+hw.l1dcachesize: 32768
+hw.l1icachesize: 32768
+hw.cachelinesize: 64
+hw.cpufrequency_max: 1300000000
+hw.cpufrequency_min: 1300000000
+hw.cpufrequency: 1300000000
+hw.busfrequency_max: 100000000
+hw.busfrequency_min: 100000000
+hw.busfrequency: 100000000
+hw.pagesize32: 4096
+hw.pagesize: 4096
+hw.cachesize: 4294967296 32768 262144 3145728 0 0 0 0 0 0
+hw.cacheconfig: 4 2 2 4 0 0 0 0 0 0
+hw.cpufamily: 280134364
+hw.cpu64bit_capable: 1
+hw.cpusubtype: 8
+hw.cputype: 7
+hw.logicalcpu_max: 4
+hw.logicalcpu: 4
+hw.physicalcpu_max: 2
+hw.physicalcpu: 2
+hw.targettype: Mac
+hw.cputhreadtype: 1
+net.local.stream.tracemdns: 0
+net.local.stream.recvspace: 8192
+net.local.stream.sendspace: 8192
+net.local.dgram.recvspace: 4096
+net.local.dgram.maxdgram: 2048
+net.local.inflight: 0
+net.inet.ip.portrange.hilast: 65535
+net.inet.ip.portrange.hifirst: 49152
+net.inet.ip.portrange.last: 65535
+net.inet.ip.portrange.first: 49152
+net.inet.ip.portrange.lowlast: 600
+net.inet.ip.portrange.lowfirst: 1023
+net.inet.ip.forwarding: 0
+net.inet.ip.redirect: 1
+net.inet.ip.ttl: 64
+net.inet.ip.rtexpire: 3600
+net.inet.ip.rtminexpire: 10
+net.inet.ip.rtmaxcache: 128
+net.inet.ip.sourceroute: 0
+net.inet.ip.accept_sourceroute: 0
+net.inet.ip.gifttl: 30
+net.inet.ip.subnets_are_local: 0
+net.inet.ip.mcast.maxgrpsrc: 512
+net.inet.ip.mcast.maxsocksrc: 128
+net.inet.ip.mcast.loop: 1
+net.inet.ip.dummynet.hash_size: 64
+net.inet.ip.dummynet.curr_time: 0
+net.inet.ip.dummynet.ready_heap: 0
+net.inet.ip.dummynet.extract_heap: 0
+net.inet.ip.dummynet.searches: 0
+net.inet.ip.dummynet.search_steps: 0
+net.inet.ip.dummynet.expire: 1
+net.inet.ip.dummynet.max_chain_len: 16
+net.inet.ip.dummynet.red_lookup_depth: 256
+net.inet.ip.dummynet.red_avg_pkt_size: 512
+net.inet.ip.dummynet.red_max_pkt_size: 1500
+net.inet.ip.dummynet.debug: 0
+net.inet.ip.random_id_statistics: 0
+net.inet.ip.random_id_collisions: 0
+net.inet.ip.random_id_total: 0
+net.inet.ip.random_id: 1
+net.inet.ip.linklocal.in.allowbadttl: 1
+net.inet.ip.rx_chainsz: 6
+net.inet.ip.rx_chaining: 1
+net.inet.ip.check_interface: 0
+net.inet.ip.adj_clear_hwcksum: 0
+net.inet.ip.maxfragsperpacket: 128
+net.inet.ip.fragpackets: 0
+net.inet.ip.maxfragpackets: 1024
+net.inet.ip.sendsourcequench: 0
+net.inet.ip.maxchainsent: 27
+net.inet.ip.select_srcif_debug: 0
+net.inet.ip.output_perf_bins: 0
+net.inet.ip.output_perf: 0
+net.inet.icmp.maskrepl: 0
+net.inet.icmp.icmplim: 250
+net.inet.icmp.timestamp: 0
+net.inet.icmp.drop_redirect: 1
+net.inet.icmp.log_redirect: 0
+net.inet.icmp.bmcastecho: 1
+net.inet.igmp.recvifkludge: 1
+net.inet.igmp.sendra: 1
+net.inet.igmp.sendlocal: 1
+net.inet.igmp.v1enable: 1
+net.inet.igmp.v2enable: 1
+net.inet.igmp.legacysupp: 0
+net.inet.igmp.debug: 0
+net.inet.igmp.gsrdelay: 10
+net.inet.igmp.default_version: 3
+net.inet.tcp.rfc1644: 0
+net.inet.tcp.mssdflt: 512
+net.inet.tcp.keepidle: 7200000
+net.inet.tcp.keepintvl: 75000
+net.inet.tcp.sendspace: 131072
+net.inet.tcp.recvspace: 131072
+net.inet.tcp.keepinit: 75000
+net.inet.tcp.v6mssdflt: 1024
+net.inet.tcp.ecn_timeout: 60
+net.inet.tcp.disable_tcp_heuristics: 0
+net.inet.tcp.clear_tfocache: 0
+net.inet.tcp.log_in_vain: 0
+net.inet.tcp.blackhole: 0
+net.inet.tcp.delayed_ack: 3
+net.inet.tcp.tcp_lq_overflow: 1
+net.inet.tcp.recvbg: 0
+net.inet.tcp.drop_synfin: 1
+net.inet.tcp.reass.overflows: 0
+net.inet.tcp.slowlink_wsize: 8192
+net.inet.tcp.maxseg_unacked: 8
+net.inet.tcp.rfc3465: 1
+net.inet.tcp.rfc3465_lim2: 1
+net.inet.tcp.recv_allowed_iaj: 5
+net.inet.tcp.doautorcvbuf: 1
+net.inet.tcp.autorcvbufmax: 1048576
+net.inet.tcp.lro: 0
+net.inet.tcp.lrodbg: 0
+net.inet.tcp.lro_startcnt: 4
+net.inet.tcp.rcvsspktcnt: 512
+net.inet.tcp.rexmt_thresh: 3
+net.inet.tcp.path_mtu_discovery: 1
+net.inet.tcp.slowstart_flightsize: 1
+net.inet.tcp.local_slowstart_flightsize: 8
+net.inet.tcp.tso: 1
+net.inet.tcp.ecn_setup_percentage: 50
+net.inet.tcp.enable_tlp: 1
+net.inet.tcp.recv_throttle_minwin: 16384
+net.inet.tcp.rtt_recvbg: 1
+net.inet.tcp.ack_prioritize: 1
+net.inet.tcp.autosndbufmax: 1048576
+net.inet.tcp.autosndbufinc: 8192
+net.inet.tcp.doautosndbuf: 1
+net.inet.tcp.acc_iaj_react_limit: 200
+net.inet.tcp.min_iaj_win: 16
+net.inet.tcp.rfc3390: 1
+net.inet.tcp.socket_unlocked_on_output: 1
+net.inet.tcp.packetchain: 50
+net.inet.tcp.ecn_negotiate_in: 2
+net.inet.tcp.ecn_initiate_out: 2
+net.inet.tcp.sack: 1
+net.inet.tcp.sack_maxholes: 128
+net.inet.tcp.sack_globalmaxholes: 65536
+net.inet.tcp.sack_globalholes: 0
+net.inet.tcp.tcbhashsize: 4096
+net.inet.tcp.win_scale_factor: 3
+net.inet.tcp.randomize_ports: 0
+net.inet.tcp.rexmt_slop: 200
+net.inet.tcp.rtt_min: 100
+net.inet.tcp.icmp_may_rst: 1
+net.inet.tcp.tw_pcbcount: 1
+net.inet.tcp.pcbcount: 5
+net.inet.tcp.do_tcpdrain: 0
+net.inet.tcp.minmss: 216
+net.inet.tcp.fastopen_fallback_min: 10
+net.inet.tcp.fastopen: 3
+net.inet.tcp.fastopen_backlog: 10
+net.inet.tcp.pmtud_blackhole_mss: 1200
+net.inet.tcp.pmtud_blackhole_detection: 1
+net.inet.tcp.tcp_resched_timerlist: 11236
+net.inet.tcp.tcp_timer_advanced: 30
+net.inet.tcp.broken_peer_syn_rexmit_thres: 10
+net.inet.tcp.timer_fastmode_idlemax: 10
+net.inet.tcp.always_keepalive: 0
+net.inet.tcp.max_persist_timeout: 0
+net.inet.tcp.msl: 15000
+net.inet.tcp.keepcnt: 8
+net.inet.tcp.cc_debug: 0
+net.inet.tcp.newreno_sockets: 0
+net.inet.tcp.background_sockets: 0
+net.inet.tcp.cubic_sockets: 5
+net.inet.tcp.use_newreno: 0
+net.inet.tcp.cubic_use_minrtt: 0
+net.inet.tcp.cubic_fast_convergence: 0
+net.inet.tcp.cubic_tcp_friendliness: 0
+net.inet.tcp.lro_sz: 8
+net.inet.tcp.lro_time: 10
+net.inet.tcp.bg_ss_fltsz: 2
+net.inet.tcp.bg_tether_shift: 1
+net.inet.tcp.bg_allowed_increase: 8
+net.inet.tcp.bg_target_qdelay: 100
+net.inet.udp.checksum: 1
+net.inet.udp.maxdgram: 9216
+net.inet.udp.recvspace: 196724
+net.inet.udp.log_in_vain: 0
+net.inet.udp.blackhole: 0
+net.inet.udp.randomize_ports: 1
+net.inet.udp.pcbcount: 55
+net.inet.ipsec.def_policy: 1
+net.inet.ipsec.esp_trans_deflev: 1
+net.inet.ipsec.esp_net_deflev: 1
+net.inet.ipsec.ah_trans_deflev: 1
+net.inet.ipsec.ah_net_deflev: 1
+net.inet.ipsec.ah_cleartos: 1
+net.inet.ipsec.ah_offsetmask: 0
+net.inet.ipsec.dfbit: 0
+net.inet.ipsec.ecn: 0
+net.inet.ipsec.debug: 0
+net.inet.ipsec.esp_randpad: -1
+net.inet.ipsec.esp_port: 0
+net.inet.ipsec.bypass: 1
+net.inet.log_restricted: 0
+net.inet.raw.maxdgram: 8192
+net.inet.raw.recvspace: 8192
+net.inet.raw.pcbcount: 1
+net.inet.mptcp.enable: 1
+net.inet.mptcp.mptcp_cap_retr: 2
+net.inet.mptcp.dss_csum: 0
+net.inet.mptcp.fail: 1
+net.inet.mptcp.keepalive: 840
+net.inet.mptcp.mpprio: 1
+net.inet.mptcp.remaddr: 1
+net.inet.mptcp.fastjoin: 1
+net.inet.mptcp.zerortt_fastjoin: 0
+net.inet.mptcp.rwnotify: 0
+net.inet.mptcp.rtthist: 1
+net.inet.mptcp.rtthist_thresh: 600
+net.inet.mptcp.userto: 1
+net.inet.mptcp.rto_thresh: 1500
+net.inet.mptcp.use_peer: 1
+net.inet.mptcp.peerswitchno: 3
+net.inet.mptcp.probeto: 1000
+net.inet.mptcp.probecnt: 5
+net.inet.mptcp.dbg_area: 0
+net.inet.mptcp.dbg_level: 0
+net.inet.mptcp.pcbcount: 0
+net.inet.mptcp.sk_lim: 32
+net.inet.mptcp.delayed: 0
+net.inet.mptcp.usesymptoms: 1
+net.inet.mptcp.force_64bit_dsn: 0
+net.inet.mptcp.rto: 3
+net.inet.mptcp.nrto: 3
+net.inet.mptcp.tw: 60
+net.link.generic.system.ifcount: 12
+net.link.generic.system.if_verbose: 0
+net.link.generic.system.dlil_lladdr_ckreq: 0
+net.link.generic.system.dlil_verbose: 0
+net.link.generic.system.tx_chain_len_count: 0
+net.link.generic.system.hwcksum_rx: 1
+net.link.generic.system.hwcksum_tx: 1
+net.link.generic.system.hwcksum_dbg_finalized_data: 0
+net.link.generic.system.hwcksum_dbg_finalized_hdr: 0
+net.link.generic.system.hwcksum_dbg_adjusted: 0
+net.link.generic.system.hwcksum_dbg_bad_rxoff: 0
+net.link.generic.system.hwcksum_dbg_bad_cksum: 0
+net.link.generic.system.hwcksum_dbg_verified: 0
+net.link.generic.system.hwcksum_dbg_partial_rxoff_adj: 0
+net.link.generic.system.hwcksum_dbg_partial_rxoff_forced: 0
+net.link.generic.system.hwcksum_dbg_partial_forced_bytes: 0
+net.link.generic.system.hwcksum_dbg_partial_forced: 0
+net.link.generic.system.hwcksum_dbg_mode: 0
+net.link.generic.system.start_delay_disabled: 0
+net.link.generic.system.start_delayed: 0
+net.link.generic.system.hwcksum_dbg: 0
+net.link.generic.system.hwcksum_in_invalidated: 0
+net.link.generic.system.delaybased_queue: 1
+net.link.generic.system.flow_advisory: 1
+net.link.generic.system.dlil_input_sanity_check: 0
+net.link.generic.system.dlil_input_threads: 5
+net.link.generic.system.if_bw_measure_size: 10
+net.link.generic.system.if_bw_smoothing_val: 3
+net.link.generic.system.rxpoll: 1
+net.link.generic.system.rxpoll_max: 0
+net.link.generic.system.rxpoll_wakeups_hiwat: 100
+net.link.generic.system.rxpoll_wakeups_lowat: 10
+net.link.generic.system.rxpoll_interval_pkts: 0
+net.link.generic.system.rxpoll_interval_time: 1000000
+net.link.generic.system.rxpoll_sample_time: 10000000
+net.link.generic.system.rxpoll_freeze_time: 1000000000
+net.link.generic.system.rxpoll_decay: 2
+net.link.generic.system.rcvq_maxlen: 256
+net.link.generic.system.sndq_maxlen: 128
+net.link.ether.inet.prune_intvl: 300
+net.link.ether.inet.probe_intvl: 7
+net.link.ether.inet.max_age: 1200
+net.link.ether.inet.host_down_time: 20
+net.link.ether.inet.arp_llreach_base: 120
+net.link.ether.inet.arp_unicast_lim: 3
+net.link.ether.inet.maxtries: 5
+net.link.ether.inet.maxhold: 16
+net.link.ether.inet.useloopback: 1
+net.link.ether.inet.proxyall: 0
+net.link.ether.inet.sendllconflict: 0
+net.link.ether.inet.log_arp_warnings: 0
+net.link.ether.inet.keep_announcements: 1
+net.link.ether.inet.send_conflicting_probes: 1
+net.link.ether.inet.verbose: 0
+net.link.bridge.inherit_mac: 0
+net.link.bridge.rtable_prune_period: 300
+net.link.bridge.rtable_hash_size_max: 2048
+net.link.bridge.txstart: 0
+net.link.bridge.debug: 0
+net.link.loopback.bw_sleep_usec: 10
+net.link.loopback.bw_measure: 0
+net.link.loopback.dequeue_sc: 0
+net.link.loopback.sched_model: 0
+net.link.loopback.max_dequeue: 256
+net.link.iptap.total_tap_count: 0
+net.link.iptap.log: 0
+net.link.pktap.total_tap_count: 0
+net.link.pktap.count_unknown_if_type: 0
+net.link.pktap.log: 0
+net.key.debug: 0
+net.key.spi_trycnt: 1000
+net.key.spi_minval: 256
+net.key.spi_maxval: 268435455
+net.key.int_random: 60
+net.key.larval_lifetime: 30
+net.key.blockacq_count: 10
+net.key.blockacq_lifetime: 20
+net.key.esp_keymin: 256
+net.key.esp_auth: 0
+net.key.ah_keymin: 128
+net.key.prefered_oldsa: 0
+net.key.natt_keepalive_interval: 20
+net.inet6.ip6.forwarding: 0
+net.inet6.ip6.redirect: 1
+net.inet6.ip6.hlim: 64
+net.inet6.ip6.maxfragpackets: 1024
+net.inet6.ip6.accept_rtadv: 1
+net.inet6.ip6.keepfaith: 0
+net.inet6.ip6.log_interval: 5
+net.inet6.ip6.hdrnestlimit: 15
+net.inet6.ip6.dad_count: 1
+net.inet6.ip6.auto_flowlabel: 1
+net.inet6.ip6.defmcasthlim: 1
+net.inet6.ip6.gifhlim: 0
+net.inet6.ip6.kame_version: 2009/apple-darwin
+net.inet6.ip6.use_deprecated: 1
+net.inet6.ip6.rr_prune: 5
+net.inet6.ip6.v6only: 0
+net.inet6.ip6.rtexpire: 3600
+net.inet6.ip6.rtminexpire: 10
+net.inet6.ip6.rtmaxcache: 128
+net.inet6.ip6.use_tempaddr: 1
+net.inet6.ip6.temppltime: 86400
+net.inet6.ip6.tempvltime: 604800
+net.inet6.ip6.auto_linklocal: 1
+net.inet6.ip6.prefer_tempaddr: 1
+net.inet6.ip6.use_defaultzone: 0
+net.inet6.ip6.maxfrags: 2048
+net.inet6.ip6.mcast_pmtu: 0
+net.inet6.ip6.neighborgcthresh: 1024
+net.inet6.ip6.maxifprefixes: 16
+net.inet6.ip6.maxifdefrouters: 16
+net.inet6.ip6.maxdynroutes: 1024
+net.inet6.ip6.fragpackets: 0
+net.inet6.ip6.adj_clear_hwcksum: 0
+net.inet6.ip6.input_perf_bins: 0
+net.inet6.ip6.input_perf: 0
+net.inet6.ip6.output_perf_bins: 0
+net.inet6.ip6.output_perf: 0
+net.inet6.ip6.select_srcif_debug: 0
+net.inet6.ip6.select_srcaddr_debug: 0
+net.inet6.ip6.select_src_expensive_secondary_if: 0
+net.inet6.ip6.mcast.maxgrpsrc: 512
+net.inet6.ip6.mcast.maxsocksrc: 128
+net.inet6.ip6.mcast.loop: 1
+net.inet6.ip6.only_allow_rfc4193_prefixes: 0
+net.inet6.ip6.maxchainsent: 1
+net.inet6.ip6.dad_enhanced: 1
+net.inet6.ipsec6.def_policy: 1
+net.inet6.ipsec6.esp_trans_deflev: 1
+net.inet6.ipsec6.esp_net_deflev: 1
+net.inet6.ipsec6.ah_trans_deflev: 1
+net.inet6.ipsec6.ah_net_deflev: 1
+net.inet6.ipsec6.ecn: 0
+net.inet6.ipsec6.debug: 0
+net.inet6.ipsec6.esp_randpad: -1
+net.inet6.icmp6.rediraccept: 0
+net.inet6.icmp6.redirtimeout: 600
+net.inet6.icmp6.nd6_prune: 1
+net.inet6.icmp6.nd6_delay: 5
+net.inet6.icmp6.nd6_umaxtries: 3
+net.inet6.icmp6.nd6_mmaxtries: 3
+net.inet6.icmp6.nd6_useloopback: 1
+net.inet6.icmp6.nodeinfo: 3
+net.inet6.icmp6.errppslimit: 500
+net.inet6.icmp6.nd6_debug: 0
+net.inet6.icmp6.nd6_accept_6to4: 1
+net.inet6.icmp6.nd6_optimistic_dad: 63
+net.inet6.icmp6.nd6_onlink_ns_rfc4861: 0
+net.inet6.icmp6.rappslimit: 10
+net.inet6.icmp6.nd6_prune_lazy: 5
+net.inet6.icmp6.nd6_llreach_base: 30
+net.inet6.icmp6.nd6_maxsolstgt: 8
+net.inet6.icmp6.nd6_maxproxiedsol: 4
+net.inet6.icmp6.prproxy_cnt: 0
+net.inet6.mld.debug: 0
+net.inet6.mld.use_allow: 1
+net.inet6.mld.v2enable: 1
+net.inet6.mld.v1enable: 1
+net.inet6.mld.gsrdelay: 10
+net.inet6.send.opstate: 1
+net.inet6.send.opmode: 1
+net.systm.kctl.debug: 0
+net.systm.kctl.autorcvbufhigh: 0
+net.systm.kctl.autorcvbufmax: 262144
+net.ndrv_multi_max_count: 1024
+net.statistics: 1
+net.statistics_privcheck: 0
+net.stats.debug: 0
+net.stats.sendspace: 2048
+net.stats.recvspace: 8192
+net.necp.drop_all_level: 0
+net.necp.debug: 0
+net.necp.pass_loopback: 1
+net.necp.pass_keepalives: 1
+net.necp.socket_policy_count: 18
+net.necp.socket_non_app_policy_count: 18
+net.necp.ip_policy_count: 8
+net.necp.session_count: 3
+net.netagent.debug: 5
+net.netagent.registered_count: 10
+net.netagent.active_count: 9
+net.cfil.log: 3
+net.cfil.debug: 1
+net.cfil.sock_attached_count: 0
+net.cfil.active_count: 0
+net.cfil.close_wait_timeout: 1000
+net.cfil.sbtrim: 1
+net.pktmnglr.log: 3
+net.classq.verbose: 0
+net.classq.sfb.holdtime: 0
+net.classq.sfb.pboxtime: 0
+net.classq.sfb.hinterval: 0
+net.classq.sfb.increment: 82
+net.classq.sfb.decrement: 16
+net.classq.sfb.allocation: 0
+net.classq.sfb.ratelimit: 0
+net.classq.target_qdelay: 0
+net.classq.update_interval: 0
+net.pktsched.verbose: 0
+net.qos.policy.capable_enabled: 0
+net.qos.policy.wifi_enabled: 0
+net.qos.policy.restrict_avapps: 0
+net.qos.policy.restricted: 0
+net.qos.verbose: 0
+net.qos.reset_dscp_to_wifi_ac_map: 0
+net.alf.loglevel: 55
+net.alf.perm: 0
+net.alf.defaultaction: 1
+net.alf.mqcount: 0
+debug.lowpri_throttle_max_iosize: 131072
+debug.lowpri_throttle_enabled: 1
+debug.lowpri_throttle_tier3_io_period_ssd_msecs: 25
+debug.lowpri_throttle_tier2_io_period_ssd_msecs: 15
+debug.lowpri_throttle_tier1_io_period_ssd_msecs: 5
+debug.lowpri_throttle_tier3_io_period_msecs: 200
+debug.lowpri_throttle_tier2_io_period_msecs: 85
+debug.lowpri_throttle_tier1_io_period_msecs: 40
+debug.lowpri_throttle_tier3_window_msecs: 500
+debug.lowpri_throttle_tier2_window_msecs: 100
+debug.lowpri_throttle_tier1_window_msecs: 25
+debug.bpf_bufsize: 4096
+debug.bpf_maxbufsize: 524288
+debug.bpf_maxdevices: 256
+debug.bpf_wantpktap: 0
+debug.bpf_debug: 0
+debug.toggle_address_reuse: 0
+debug.sched: 0
+debug.sys_override_enabled: 1
+debug.kextlog: 4083
+debug.swd_kext_name: 
+debug.swd_delay_type: 
+debug.swd_delay_duration: 0
+debug.iokit: 0
+debug.iotrace: 0
+debug.noidle: 0
+debug.darkwake: 3
+debug.batman: 0
+debug.brcmfirewirelog: 0
+debug.brcmlinkdebug: 0
+debug.brcmlogging: 0
+debug.ioppf: 0
+debug.wdtlog: 19654m1/019674m1/019694m1/019714m1/019734m1/019754m1/019774m1/019794m1/019814m1/019834m1/019874m1/019894m1/019914m1/019934m1/019954m1/019974m1/020014m1/020034m1/020054m1/020074m1/020094m1/020114m1/020134m1/020154m1/020174m1/020194m1/020214m1/020235m1/020255m1/020275m1/020295m1/020315m1/0
+debug.intelfb.graphicsTracePointEnable: 0
+debug.intelfb.IGInterruptControl: 0
+debug.intelfb.fLastRequestedPState: 10
+debug.intelfb.forceSlicesGTx: 0
+debug.intelfb.sliceInfo: 11
+debug.intelfb.testCase: 0
+debug.intelfb.temp0: 0
+debug.intelfb.temp1: 0
+debug.intelfb.temp2: 0
+debug.intelfb.temp3: 0
+debug.intelfb.temp4: 0
+debug.intelfb.FakeType2Dongle: 0
+debug.intel.kdctlVersion: 2004299792
+debug.intel.gstVersion: 3
+debug.intel.ctr_operation: 0
+debug.intel.ctr_nSec: 0
+debug.intel.ctr_GFXREG_GT_PERF_STATUS: 0
+debug.intel.ctr_GPU_REG_GT_GFX_RC6: 0
+debug.intel.ctr_GPU_REG_pp1c0CoreClk: 0
+debug.intel.graphicsTracePointEnable: 0
+debug.intel.IGInterruptControl: 0
+debug.intel.gstSampleKMD: 0
+debug.intel.gstLoaderControl: 0
+debug.intel.gstSampleUMD: 0
+debug.intel.gstSampleMetal: 0
+debug.intel.gstStatOptions: 0
+debug.intel.gstStatPasses: 0
+debug.intel.gstAsync: 0
+debug.intel.gstEnableGroup0: 0
+debug.intel.gstEnableGroup1: 0
+debug.intel.gstEnableGroup2: 0
+debug.intel.gstEnableGroup3: 0
+debug.intel.gstEnableGroup4: 0
+debug.intel.gstEnableGroup5: 0
+debug.intel.gstEnableGroup6: 0
+debug.intel.gstEnableGroup7: 0
+debug.intel.gstEnableGroup8: 0
+debug.intel.gstEnableGroup9: 0
+debug.intel.gstEnableGroup10: 0
+debug.intel.gstMode: 0
+debug.intel.gstWaitForDebugger: 0
+debug.intel.gstAccumN: 0
+debug.intel.gstMinuSecSample: 50000
+debug.intel.gstEveryNSubmit: 0
+debug.intel.gstFirstFrame: 0
+debug.intel.gstCaptureNumFrames: 0
+debug.intel.gstOperationComplete: 0
+debug.intel.gstTestCase: 0
+debug.intel.gstSpot1: 0
+debug.intel.gstKernel: 0
+debug.intel.perfEventEnable: 0
+debug.intel.dtraceEnable: 0
+debug.intel.oaEnable: 0
+debug.intel.unitStats: 15
+debug.intel.unitStatsCheck: 0
+debug.intel.flipCount: 244570
+debug.intel.swapCount: 30388
+debug.intel.ringTakeSample: 0
+debug.intel.ringOnSample: 0
+debug.intel.ringMainUsage: 0
+debug.intel.ringMediaUsage: 0
+debug.intel.ringBlitUsage: 0
+debug.intel.ringVEBoxUsage: 0
+debug.intel.ringMedia2Usage: 0
+debug.intel.ringMain_nSec: 0
+debug.intel.ringMedia_nSec: 0
+debug.intel.ringBlit_nSec: 0
+debug.intel.ringVEBox_nSec: 0
+debug.intel.ringMedia2_nSec: 0
+debug.intel.mSecCalcGPUBusy: 1000
+debug.intel.ktrace: 0
+debug.intel.temp0: 0
+debug.intel.temp1: 0
+debug.intel.temp2: 0
+debug.intel.temp3: 0
+debug.intel.temp4: 0
+#
+# zprint
+#
+                            elem         cur         max        cur         max         cur  alloc  alloc    
+zone name                   size        size        size      #elts       #elts       inuse   size  count    
+-------------------------------------------------------------------------------------------------------------
+vm.objects                   256      20988K      29524K      83952      118098       80313     4K     16   C
+vm.object.hash.entries        40       2896K       3888K      74137       99532       70315     4K    102   C
+maps                         248         92K         90K        379         371         340     8K     33    
+VM.map.entries                80       6704K      11664K      85811      149299       79920     4K     51   C
+Reserved.VM.map.entries       80        156K       2560K       1996       32768         894     4K     51    
+VM.map.copies                 80          4K         16K         51         204           1     4K     51   C
+VM.map.holes                  32        136K         16K       4352         512        3422     4K    128   C
+pmap                         368        128K        144K        356         400         329    32K     89   C
+pagetable.anchors           4096       1372K       1751K        343         437         329     4K      1   C
+pv_list                       48      77424K      91860K    1651712     1959688     1645177     4K     85   C
+vm.pages.array                56      51480K          0K     941348           0      941340     4K     73 X C
+vm.pages                      64       4672K          0K      74752           0       74008     4K     64 X C
+kalloc.16                     16       4496K       5911K     287744      378339      277855     4K    256   C
+kalloc.32                     32       5136K       5911K     164352      189169      158091     4K    128   C
+kalloc.48                     48       5296K       5911K     112981      126113       95715     4K     85   C
+kalloc.64                     64       5664K       5911K      90624       94584       87428     4K     64   C
+kalloc.80                     80       2468K       2627K      31590       33630       27907     4K     51   C
+kalloc.96                     96       3328K       3503K      35498       37366       34711     8K     85   C
+kalloc.128                   128      10676K      13301K      85408      106408       81952     4K     32   C
+kalloc.160                   160       4040K       5254K      25856       33630       24953     8K     51   C
+kalloc.192                   192        720K       1037K       3840        5535        3802    12K     64   C
+kalloc.256                   256       2276K       3941K       9104       15764        8329     4K     16   C
+kalloc.288                   288       1560K       2594K       5546        9226        5038    20K     71   C
+kalloc.512                   512      17752K      19951K      35504       39903       34465     4K      8   C
+kalloc.576                   576        456K        518K        810         922         780     4K      7   C
+kalloc.1024                 1024       5508K       5911K       5508        5911        5483     4K      4   C
+kalloc.1152                 1152        176K        461K        156         410          83     8K      7   C
+kalloc.1280                 1280        420K        512K        336         410         304    20K     16   C
+kalloc.2048                 2048       7660K       8867K       3830        4433        3806     4K      2   C
+kalloc.4096                 4096      14920K      29927K       3730        7481        3717     4K      1   C
+kalloc.8192                 8192      22232K      39903K       2779        4987        2772     8K      1   C
+mem_obj_control               16       1156K       1458K      73984       93312       70315     4K    256   C
+device.node.pager.struct$     56          4K        548K         73       10020          42     4K     73   C
+sched.groups                5184       1792K      10368K        353        2048         323    16K      3   C
+waitq.sets                    64          0K        384K          0        6144           0     4K     64   C
+wqslab.wql                 16384        112K       8192K          7         512           7    16K      1   C
+wqslab.prepost             16384         48K       8192K          3         512           3    16K      1   C
+ipc.spaces                    64         24K        132K        384        2112         325     4K     64   C
+ipc.ports                    168       4644K      12612K      28306       76873       22587    12K     73   C
+ipc.port.sets                 96        120K       2132K       1280       22741        1021     8K     85   C
+ipc.kmsgs                    256        352K      96080K       1408      384320        1284     4K     16   C
+ipc.vouchers                  80         40K       1920K        512       24576         347     4K     51   C
+ipc.voucher.attr.control$     56          4K          4K         73          73           6     4K     73   C
+ipc.task.importance          128        108K       3072K        864       24576         850     4K     32   C
+ipc.importance.inherit        72          8K       1728K        113       24576          45     8K    113   C
+semaphores                    96        104K       3604K       1109       38442         887     8K     85   C
+mk_timer                     136        152K        544K       1144        4096        1005     4K     30   C
+host_notify                   24          8K         96K        341        4096         265     4K    170   C
+MAC.Labels                    64        572K        768K       9152       12288        8851     4K     64   C
+coalitions                   184        160K        184K        890        1024         815    16K     89   C
+tasks                       1360        448K       2720K        337        2048         323     4K      3   C
+threads                     1176       1988K      11760K       1731       10240        1210    28K     24   C
+thread.qos.override           24          4K        960K        170       40960           5     4K    170   C
+x86_64.saved.state           224        384K       2240K       1755       10240        1211    16K     73   C
+x86_64.debug.state            64          0K        640K          0       10240           0     4K     64   C
+x86.fpsave.state             832       1280K       8320K       1575       10240        1057    32K     39   C
+atm_values                    72          0K        576K          0        8192           0     8K    113   C
+atm_task_descriptors          40          0K        320K          0        8192           0     4K    102   C
+atm_link_objects              40          0K        320K          0        8192           0     4K    102   C
+bank_task                    144         60K        144K        426        1024         345    12K     85   C
+bank_account                  88         24K        308K        279        3584         124     8K     93   C
+uthreads                     816       1172K       8160K       1470       10240        1211     4K      5   C
+thread_call                  112        256K        448K       2340        4096        2207     8K     73   C
+alarms                        80          4K          4K         51          51           1     4K     51   C
+io_reprioritize_req           40          0K        320K          0        8192           0     4K    102   C
+mbuf                         256          0K       1024K          0        4096           0     4K     16   C
+socket                       952        420K       1024K        451        1101         370    28K     30   C
+zombie                       144          0K       1024K          0        7281           0    12K     85   C
+namei                       1024          8K       1024K          8        1024           0     4K      4   C
+cred                         144        132K       1024K        938        7281         926    12K     85   C
+pgrp                          72         24K       1024K        341       14563         311     8K    113   C
+session                      352         80K       1024K        232        2978         163    20K     58   C
+mount                       2568         28K       1024K         11         408           5    28K     11   C
+NFS.req                      336          0K       1024K          0        3120           0    24K     73   C
+NFS.mount                    792          0K       1024K          0        1323           0    24K     31   C
+NFS.node                     752          0K       1024K          0        1394           0    20K     27   C
+vnodes                       248      16136K      17496K      66626       72241       66560     8K     33   C
+namecache                     96       6888K       7776K      73472       82944       73129     8K     85   C
+plimit                       152         16K       1024K        107        6898          68    16K    107   C
+sigacts                      720        240K       1024K        341        1456         321    12K     17   C
+fileproc                      24         60K       1024K       2560       43690        2328     4K    170   C
+file.desc                     88         32K       1024K        372       11915         321     8K     93   C
+proc                        1144        392K       1024K        350         916         321    28K     25   C
+pstats                       440        144K       1024K        335        2383         321    16K     37   C
+NFSV3.srvdesc                344          0K       1024K          0        3048           0    20K     59   C
+NFSV3.diroff                 240          0K       1024K          0        4369           0     4K     17   C
+ttys                         504          0K       1024K          0        2080           0    32K     65   C
+ofile.tabl                   232          8K       1024K         35        4519          18     8K     35   C
+mbuf.clust                  2048          0K       1024K          0         512           0     4K      2   C
+specinfo                      72         24K       1024K        341       14563         322     8K    113   C
+kqueue                       176          0K       1024K          0        5957           0    16K     93   C
+cluster_read                  40        480K       1024K      12288       26214       11539     4K    102   C
+cluster_write                248       4152K       7776K      17143       32107       17096     8K     33   C
+fileglob                      96        256K       1024K       2730       10922        2651     8K     85   C
+decmpfs_cnode                 56       2172K       3456K      39716       63195       23252     4K     73   C
+flow_divert_pcb              168          0K       1024K          0        6241           0    12K     73   C
+flow_divert_group            152          0K       1024K          0        6898           0    16K    107   C
+necp_session_policy          168         12K       1024K         73        6241          18    12K     73   C
+necp_socket_policy           248          8K       1024K         33        4228          18     8K     33   C
+necp_ip_policy               208          8K       1024K         39        5041           8     8K     39   C
+mac_audit_data_zone         1024          0K        100K          0         100           0     4K      4   C
+ulocks                        88          8K        880K         93       10240           0     8K     93   C
+buf.512                      512          4K       1640K          8        3280           1     4K      8   C
+buf.1024                    1024          0K         64K          0          64           0     4K      4   C
+buf.2048                    2048          0K         32K          0          16           0     4K      2   C
+buf.4096                    4096        220K       2048K         55         512          55     4K      1   C
+buf.8192                    8192       7792K     157464K        974       19683         974     8K      1   C
+buf.headers                  240          0K          4K          0          17           0     4K     17   C
+ubc_info.zone                 88       4488K       6530K      52224       75992       47750     8K     93   C
+mcache                       968         20K        244K         21         258          19    20K     21   C
+mcache.bkt_1                  32          4K        256K        128        8192          10     4K    128   C
+mcache.bkt_3                  48          4K        256K         85        5461          14     4K     85   C
+mcache.bkt_7                  80         16K        256K        204        3276         192     4K     51   C
+mcache.bkt_15                144         12K        256K         85        1820          65    12K     85   C
+mcache.bkt_31                272         16K        256K         60         963          53     4K     15   C
+mcache.bkt_47                400         20K        256K         51         655          12    20K     51   C
+mcache.bkt_63                528          0K        256K          0         496           0    16K     31   C
+mcache.bkt_95                784          0K        256K          0         334           0    20K     26   C
+mcache.bkt_143              1168          0K        256K          0         224           0     8K      7   C
+mcache.bkt_165              1344          0K        256K          0         195           0     4K      3   C
+mcache.audit                 360          0K        256K          0         728           0    12K     34   C
+mcache.mext_ref               40         68K        256K       1740        6553        1638     4K    102   C
+audit_zone                  1520         12K        152K          8         102           0    12K      8   C
+audit_mac_label_zone        1024          0K        300K          0         300           0     4K      4   C
+knote.zone                   144       2352K       2592K      16725       18432       15833    12K     85   C
+kqueue.file.zone             256         20K       2048K         80        8192          59     4K     16   C
+kqueue.workq.zone            848        280K       6784K        338        8192         297    20K     24   C
+aiowq                        176          0K         16K          0          93           0    16K     93   C
+pipe.zone                    192         24K       1536K        128        8192          70    12K     64   C
+pipe.garbage.zone             24          0K        752K          0       32085           0     4K    170   C
+ksyn_wait_queue              264         64K       2112K        248        8192         107     8K     31   C
+ksyn_waitq_element            56          4K        448K         73        8192           3     4K     73   C
+ifnet                       2880         40K        180K         14          64          12    20K      7   C
+ifnet_filter                  96          8K          8K         85          85           1     8K     85   C
+ifnet_proto_hash              32          4K          4K        128         128          10     4K    128   C
+ifnet_proto                   88          8K         12K         93         139          10     8K     93   C
+ifnet_tcpstat                128          4K          4K         32          32          12     4K     32   C
+ifnet_udpstat                 80          4K          4K         51          51          12     4K     51   C
+if_llreach                   120          4K         16K         34         136           1     4K     34   C
+ifnet_fc_zone                 40          4K          4K        102         102           2     4K    102   C
+ifmultiaddr                   96          8K          8K         85          85          31     8K     85   C
+pfrulepl                    1040         32K       1040K         31        1024           9    32K     31   C
+pfsrctrpl                    152          0K        152K          0        1024           0    16K    107   C
+pfstatepl                    312          0K        312K          0        1024           0     4K     13   C
+pfstatekeypl                 176          0K        176K          0        1024           0    16K     93   C
+pfappstatepl                  32          0K         32K          0        1024           0     4K    128   C
+pfpooladdrpl                  88          0K         88K          0        1024           0     8K     93   C
+pfrktable                   1288          0K       1288K          0        1024           0    24K     19   C
+pfrkentry                    216          0K        216K          0        1024           0    20K     94   C
+pfrkentry2                   216          0K        216K          0        1024           0    20K     94   C
+pfiaddrpl                    120          0K        120K          0        1024           0     4K     34   C
+pfosfpen                     112         80K        112K        731        1024         696     8K     73   C
+pfosfp                        40         16K         40K        409        1024         407     4K    102   C
+pffrent                       48          0K         48K          0        1024           0     4K     85   C
+pffrag                        96          0K         96K          0        1024           0     8K     85   C
+pffrcache                     96          0K         96K          0        1024           0     8K     85   C
+pffrcent                      24          0K         24K          0        1024           0     4K    170   C
+pfstscr                       40          0K         40K          0        1024           0     4K    102   C
+classq_sfb                   328         20K         20K         62          62          12    20K     62   C
+classq_sfb_bins             3088         56K        100K         18          33          12    28K      9   C
+classq_sfb_fcl               768         12K         24K         16          32          12    12K     16   C
+flowq_zone                    72          0K       2304K          0       32768           0     8K    113   C
+pktsched_fq_if              3640          0K        116K          0          32           0    32K      9   C
+pktsched_tcq                  64          4K          4K         64          64           3     4K     64   C
+pktsched_tcq_cl              120          4K          4K         34          34          12     4K     34   C
+pktsched_qfq                  88          8K          8K         93          93           2     8K     93   C
+pktsched_qfq_cl              160          8K          8K         51          51          20     8K     51   C
+fadv_zone                     16          0K          4K          0         256           0     4K    256   C
+skywalk.memd                 984          0K         32K          0          33           0    28K     29   C
+skywalk.nx.ctl                88          8K          8K         93          93           2     8K     93   C
+skywalk.nx.bind               56          0K          4K          0          73           0     4K     73   C
+skywalk.nx.kern.prov         320         16K         20K         51          64           2    16K     51   C
+skywalk.nx                   136          0K         12K          0          90           0     4K     30   C
+skywalk.na.pseudo            528          0K         20K          0          38           0    16K     31   C
+skywalk.nx.kern.attr          88          0K          8K          0          93           0     8K     93   C
+skywalk.nx.kern.dom.prov     200          0K         12K          0          61           0    12K     61   C
+skywalk.nx.kern.ctl.desc      16          0K          4K          0         256           0     4K    256   C
+skywalk.na.upipe             560          0K         20K          0          36           0    16K     29   C
+skywalk.na.kpipe             528          0K         20K          0          38           0    16K     31   C
+skywalk.na.mon               560          0K         20K          0          36           0    16K     29   C
+skywalk.ch                   344          0K         44K          0         130           0    20K     59   C
+socache.zone                2296        192K     269064K         85      120000          28    16K      7   C
+sockaddr_list                 24          0K         24K          0        1024           0     4K    170   C
+sockaddr_entry                32          0K         32K          0        1024           0     4K    128   C
+in_multi                     216         20K         20K         94          94           4    20K     94   C
+ip_msource                    40          0K          4K          0         102           0     4K    102   C
+in_msource                    32          0K          4K          0         128           0     4K    128   C
+in_ifaddr                    224         16K         16K         73          73           2    16K     73   C
+ip_moptions                   72          8K          8K        113         113           3     8K    113   C
+llinfo_arp                   104          4K         28K         39         275           3     4K     39   C
+udpcb                        608         84K      47500K        141       80000          55    28K     47   C
+tcpcb                       1344          8K     157500K          6      120000           0     4K      3   C
+sack_hole.zone                32          0K       3752K          0      120064           0     4K    128   C
+tcp_reass_zone                40          0K         80K          0        2048           0     4K    102   C
+tcp_bwmeas_zone               32          0K          4K          0         128           0     4K    128   C
+tcp_cc_zone                   40          8K        784K        204       20070           5     4K    102   C
+tcp_rxt_seg_zone              24          0K        236K          0       10069           0     4K    170   C
+igmp_ifinfo                  160          8K         12K         51          76          12     8K     51   C
+ripzone                      608         28K       2432K         47        4096           1    28K     47   C
+in6_multi                    216         20K         20K         94          94          17    20K     94   C
+in6_multi_mship               24          4K          4K        170         170          27     4K    170   C
+ip6_msource                   56          0K          4K          0          73           0     4K     73   C
+in6_msource                   48          0K          4K          0          85           0     4K     85   C
+in6_ifaddr                   328         20K         24K         62          74           6    20K     62   C
+ip6_moptions                  64          4K          4K         64          64           3     4K     64   C
+llinfo_nd6                    80          4K         20K         51         256           5     4K     51   C
+nd6_dad                       96          0K          8K          0          85           0     8K     85   C
+nd6_prefix                   224         16K         16K         73          73           3    16K     73   C
+nd6_defrouter                120          4K          8K         34          68           1     4K     34   C
+nd6_pfxrouter                 24          0K          4K          0         170           0     4K    170   C
+nd6_prproxy_prelist           56          0K         16K          0         292           0     4K     73   C
+nd6_prproxy_solsrc            40          0K         12K          0         307           0     4K    102   C
+nd6_prproxy_soltgt            72          0K         20K          0         284           0     8K    113   C
+mld_ifinfo                   152         16K         16K        107         107          12    16K    107   C
+mptcb                        376          0K        376K          0        1024           0    20K     54   C
+mptsub                       176          0K        176K          0        1024           0    16K     93   C
+mptopt                        32          0K          4K          0         128           0     4K    128   C
+mptauth                       32          0K         32K          0        1024           0     4K    128   C
+mptkeys                       48          4K         12K         85         256          16     4K     85   C
+kerneventpcb                  56          4K       3584K         73       65536          20     4K     73   C
+unpzone                      200         60K       6400K        307       32768         244    12K     61   C
+rtentry                      384        192K      24576K        512       65536         484    12K     32   C
+fs-event-buf                  80        320K        320K       4096        4096           0     4K     51 X  
+dtrace.dtrace_probe_t        128      18892K      24911K     151136      199290      150742     4K     32   C
+os.reasons                    80          8K         92K        102        1177           0     4K     51   C
+bridge_rtnode                 64          0K         64K          0        1024           0     4K     64   C
+content_filter                40          0K          4K          0         102           0     4K    102   C
+cfil_info                    664          0K        664K          0        1024           0    24K     37   C
+packet_mangler               608          0K         28K          0          47           0    28K     47   C
+vnode.pager.structures        40       2048K       2976K      52428       76204       47750     4K    102   C
+compressor_pager              64       1452K       2119K      23232       33912       22516     4K     64   C
+compressor_segment          1024      11500K     128000K      11500      128000       10763     4K      4   C
+dtrace.fasttrap_tracepoi$     80      19580K      23354K     250624      298935      248924     4K     51   C
+dtrace.fasttrap_probe_t[$    112       8504K       9687K      77750       88573       76749     8K     73   C
+dtrace.fasttrap_probe_t[$    144       9264K      12455K      65877       88573       64947    12K     85   C
+dtrace.fasttrap_probe_t[$    176        560K        594K       3258        3456        3095    16K     93   C
+-------------------------------------------------------------------------------------------------------------
+                                                               kmod          vm                       cur
+wired memory                                                     id         tag                      size
+-------------------------------------------------------------------------------------------------------------
+VM_KERN_COUNT_LOPAGE                                                        261                    29596K
+VM_KERN_COUNT_RESERVED                                                      257                    74012K
+VM_KERN_COUNT_STOLEN                                                        260                     8760K
+VM_KERN_MEMORY_COMPRESSOR                                                    14                      112K
+VM_KERN_MEMORY_CPU                                                            9                      460K
+VM_KERN_MEMORY_DIAG                                                          18                       84K
+VM_KERN_MEMORY_FILE                                                          20                     6240K
+VM_KERN_MEMORY_IOKIT                                                          3                      212K
+VM_KERN_MEMORY_IPC                                                            7                       20K
+VM_KERN_MEMORY_KEXT                                                           6                    24080K
+VM_KERN_MEMORY_LIBKERN                                                        4                      288K
+VM_KERN_MEMORY_LOG                                                           19                       64K
+VM_KERN_MEMORY_LTABLE                                                        27                        8K
+VM_KERN_MEMORY_MBUF                                                          21                     4612K
+VM_KERN_MEMORY_MLOCK                                                         24                       48K
+VM_KERN_MEMORY_OSFMK                                                          1                     2612K
+VM_KERN_MEMORY_OSKEXT                                                         5                       24K
+VM_KERN_MEMORY_PHANTOM_CACHE                                                 16                     1024K
+VM_KERN_MEMORY_PMAP                                                          10                    48808K
+VM_KERN_MEMORY_PTE                                                           11                   247924K
+VM_KERN_MEMORY_SECURITY                                                      23                    21400K
+VM_KERN_MEMORY_STACK                                                          8                     2832K
+VM_KERN_MEMORY_WAITQ                                                         17                       96K
+audit_M_AUDITTEXT                                                            61                       12K
+bpfread_filtops                                                             109                     1024K
+bpfread_filtops                                                             108                     1024K
+com.apple.driver.AirPort.Brcm4360                               107          84                     1396K
+com.apple.driver.AppleACPIPlatform                               12          29                       12K
+com.apple.driver.AppleAHCIPort                                   55          45                        8K
+com.apple.driver.AppleCameraInterface                            92          82                     1408K
+com.apple.driver.AppleEFINVRAM                                   38          38                      156K
+com.apple.driver.AppleHDA                                       130          93                     2880K
+com.apple.driver.AppleHDAController                             113          86                      600K
+com.apple.driver.AppleHSSPIHIDDriver                             58          50                      144K
+com.apple.driver.AppleHSSPISupport                               48          41                        8K
+com.apple.driver.AppleHV                                        122         131                      148K
+com.apple.driver.AppleIntelFramebufferAzul                       88          88                     5976K
+com.apple.driver.AppleIntelHD5000Graphics                       132          87                       96K
+com.apple.driver.AppleIntelLpssGspi                              45          39                       68K
+com.apple.driver.AppleKeyStore                                   22          33                        4K
+com.apple.driver.AppleMultitouchDriver                           61          53                       28K
+com.apple.driver.AppleSMC                                        90          83                       12K
+com.apple.driver.CoreStorage                                     71          66                      324K
+com.apple.driver.DspFuncLib                                     129          95                      256K
+com.apple.driver.X86PlatformPlugin                               99          90                        8K
+com.apple.driver.corecapture                                    104          85                    17324K
+com.apple.driver.usb.AppleUSBXHCI                                42          55                      124K
+com.apple.filesystems.hfs.kext                                   65          68                    23528K
+com.apple.iokit.IO80211Family                                   106         103                       84K
+com.apple.iokit.IOAHCIBlockStorage                               56          47                     1036K
+com.apple.iokit.IOAHCIFamily                                     54          46                      140K
+com.apple.iokit.IOAcceleratorFamily2                             86          89                   221248K
+com.apple.iokit.IOAudioFamily                                   111          94                      404K
+com.apple.iokit.IOBluetoothFamily                               114          96                      392K
+com.apple.iokit.IOBluetoothSerialManager                        143         100                      160K
+com.apple.iokit.IOGraphicsFamily                                 85         104                    23888K
+com.apple.iokit.IOHIDFamily                                      33          51                      196K
+com.apple.iokit.IOPCIFamily                                      11          37                     3352K
+com.apple.iokit.IOReportFamily                                   14         105                       12K
+com.apple.iokit.IOSurface                                       131          97                       72K
+com.apple.security.sandbox                                       25          80                     1544K
+dtrace_predcache_id                                                         128                     6160K
+dtrace_predcache_id                                                          64                     3408K
+dtrace_predcache_id                                                         129                       72K
+fsevent_filtops                                                              78                      204K
+ipc_table_requests_size                                                      77                      380K
+org.virtualbox.kext.VBoxDrv                                     161         117                       80K
+sig_filtops                                                                  31                     2112K
+swapper_throttle                                                            120                       32K
+sysctl__kern_coalition_roles                                                 30                       64K
+sysctl__kern_ipc_mb_stat                                                     59                       64K
+sysctl__kern_ipc_mbstat                                                      57                       12K
+sysctl__kern_ipc_mbstat                                                      60                       60K
+sysctl__kern_ipc_mbstat                                                      58                       40K
+sysctl__net_inet_tcp_clear_tfocache                                          63                       24K
+sysctl__net_inet_tcp_clear_tfocache                                          62                       24K
+user_data_manager                                                            28                       72K
+zones                                                                                             416212K
+total                                                                                1183.04M of 1183.04M
+-------------------------------------------------------------------------------------------------------------
+                                                                                    largest
+maps                                                                       free        free          size
+-------------------------------------------------------------------------------------------------------------
+VM_KERN_COUNT_MANAGED                                                        0K          0K      4059968K
+VM_KERN_COUNT_MAP_KALLOC                                                103220K     102484K       131072K
+VM_KERN_COUNT_MAP_KERNEL                                             466367376K  465567576K    538968056K
+VM_KERN_COUNT_MAP_ZONE                                                 1199328K    1141536K      1572864K
+VM_KERN_COUNT_WIRED                                                          0K          0K      1211432K
+VM_KERN_COUNT_WIRED_MANAGED                                                  0K          0K      1099064K

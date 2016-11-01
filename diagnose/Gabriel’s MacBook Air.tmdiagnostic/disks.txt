@@ -1,0 +1,305 @@
+# /bin/ls -la /Volumes/
+total 8
+drwxr-xr-x@  3 root  wheel   102 Oct 29 20:45 .
+drwxr-xr-x  29 root  wheel  1054 Oct 29 18:35 ..
+lrwxr-xr-x   1 root  wheel     1 Oct 27 17:31 OS X Base System -> /
+
+
+
+# /bin/df -H
+Filesystem      Size   Used  Avail Capacity iused      ifree %iused  Mounted on
+/dev/disk1      117G    18G    99G    16%  512737 4294454542    0%   /
+devfs           188k   188k     0B   100%     638          0  100%   /dev
+map -hosts        0B     0B     0B   100%       0          0  100%   /net
+map auto_home     0B     0B     0B   100%       0          0  100%   /home
+
+
+
+# /sbin/mount
+/dev/disk1 on / (hfs, local, journaled)
+devfs on /dev (devfs, local, nobrowse)
+map -hosts on /net (autofs, nosuid, automounted, nobrowse)
+map auto_home on /home (autofs, automounted, nobrowse)
+
+
+
+# /usr/sbin/diskutil list
+/dev/disk0 (internal, physical):
+   #:                       TYPE NAME                    SIZE       IDENTIFIER
+   0:      GUID_partition_scheme                        *121.3 GB   disk0
+   1:                        EFI EFI                     209.7 MB   disk0s1
+   2:          Apple_CoreStorage OS X Base System        117.4 GB   disk0s2
+   3:                 Apple_Boot Recovery HD             650.0 MB   disk0s3
+
+/dev/disk1 (internal, virtual):
+   #:                       TYPE NAME                    SIZE       IDENTIFIER
+   0:                            OS X Base System       +117.0 GB   disk1
+                                 Logical Volume on disk0s2
+                                 785B9A67-04F5-4BBA-BFA0-E00EE35237D3
+                                 Unencrypted
+
+
+
+
+# /usr/sbin/diskutil cs list
+CoreStorage logical volume groups (1 found)
+|
++-- Logical Volume Group 685E4D6A-E770-4BB3-A25D-7B8CDCBF2AE1
+    =========================================================
+    Name:         OS X Base System
+    Status:       Online
+    Size:         117380923392 B (117.4 GB)
+    Free Space:   18923520 B (18.9 MB)
+    |
+    +-< Physical Volume 820FFD3B-BD7B-4329-AB0D-A878770E3191
+    |   ----------------------------------------------------
+    |   Index:    0
+    |   Disk:     disk0s2
+    |   Status:   Online
+    |   Size:     117380923392 B (117.4 GB)
+    |
+    +-> Logical Volume Family C36F5E31-205E-44FC-89E2-72214545E289
+        ----------------------------------------------------------
+        Encryption Type:         None
+        |
+        +-> Logical Volume 785B9A67-04F5-4BBA-BFA0-E00EE35237D3
+            ---------------------------------------------------
+            Disk:                  disk1
+            Status:                Online
+            Size (Total):          117009678336 B (117.0 GB)
+            Revertible:            Yes (no decryption required)
+            LV Name:               OS X Base System
+            Volume Name:           OS X Base System
+            Content Hint:          Apple_HFS
+
+
+
+# /usr/sbin/diskutil list | /usr/bin/awk '/disk/ {system("/usr/sbin/diskutil info "$NF); print "*********************"}'
+sh: -c: line 0: syntax error near unexpected token `)'
+sh: -c: line 0: `/usr/sbin/diskutil info physical):'
+*********************
+   Device Identifier:        disk0
+   Device Node:              /dev/disk0
+   Whole:                    Yes
+   Part of Whole:            disk0
+   Device / Media Name:      APPLE SSD SD0128F
+
+   Volume Name:              Not applicable (no file system)
+   Mounted:                  Not applicable (no file system)
+   File System:              None
+
+   Content (IOContent):      GUID_partition_scheme
+   OS Can Be Installed:      No
+   Media Type:               Generic
+   Protocol:                 PCI
+   SMART Status:             Verified
+
+   Disk Size:                121.3 GB (121332826112 Bytes) (exactly 236978176 512-Byte-Units)
+   Device Block Size:        512 Bytes
+
+   Read-Only Media:          No
+   Read-Only Volume:         Not applicable (no file system)
+
+   Device Location:          Internal
+   Removable Media:          Fixed
+
+   Solid State:              Yes
+   Virtual:                  No
+   OS 9 Drivers:             No
+   Low Level Format:         Not supported
+
+*********************
+   Device Identifier:        disk0s1
+   Device Node:              /dev/disk0s1
+   Whole:                    No
+   Part of Whole:            disk0
+
+   Volume Name:              EFI
+   Mounted:                  No
+
+   Partition Type:           EFI
+   File System Personality:  MS-DOS FAT32
+   Type (Bundle):            msdos
+   Name (User Visible):      MS-DOS (FAT32)
+
+   OS Can Be Installed:      No
+   Media Type:               Generic
+   Protocol:                 PCI
+   SMART Status:             Verified
+   Volume UUID:              0E239BC6-F960-3107-89CF-1C97F78BB46B
+   Disk / Partition UUID:    624DA999-965B-4656-8156-2DBC29CFD8C6
+
+   Disk Size:                209.7 MB (209715200 Bytes) (exactly 409600 512-Byte-Units)
+   Device Block Size:        512 Bytes
+
+   Volume Total Space:       0 B (0 Bytes) (exactly 0 512-Byte-Units)
+   Volume Available Space:   0 B (0 Bytes) (exactly 0 512-Byte-Units)
+
+   Read-Only Media:          No
+   Read-Only Volume:         Not applicable (not mounted)
+
+   Device Location:          Internal
+   Removable Media:          Fixed
+
+   Solid State:              Yes
+
+*********************
+   Device Identifier:        disk0s2
+   Device Node:              /dev/disk0s2
+   Whole:                    No
+   Part of Whole:            disk0
+
+   Volume Name:              Not applicable (no file system)
+   Mounted:                  Not applicable (no file system)
+   File System:              None
+
+   Partition Type:           Apple_CoreStorage
+   OS Can Be Installed:      No
+   Recovery Disk:            disk0s3
+   Media Type:               Generic
+   Protocol:                 PCI
+   SMART Status:             Verified
+   Disk / Partition UUID:    6735E197-EAB4-4E81-B710-99D158F2B5E3
+
+   Disk Size:                117.4 GB (117380923392 Bytes) (exactly 229259616 512-Byte-Units)
+   Device Block Size:        512 Bytes
+
+   Read-Only Media:          No
+   Read-Only Volume:         Not applicable (no file system)
+
+   Device Location:          Internal
+   Removable Media:          Fixed
+
+   Solid State:              Yes
+
+   This disk is a Core Storage Physical Volume (PV).  Core Storage Information:
+   PV UUID:                  820FFD3B-BD7B-4329-AB0D-A878770E3191
+   LVG UUID:                 685E4D6A-E770-4BB3-A25D-7B8CDCBF2AE1
+
+*********************
+   Device Identifier:        disk0s3
+   Device Node:              /dev/disk0s3
+   Whole:                    No
+   Part of Whole:            disk0
+
+   Volume Name:              Recovery HD
+   Mounted:                  No
+
+   Partition Type:           Apple_Boot
+   File System Personality:  Journaled HFS+
+   Type (Bundle):            hfs
+   Name (User Visible):      Mac OS Extended (Journaled)
+   Journal:                  Unknown (not mounted)
+   Owners:                   Disabled
+
+   OS Can Be Installed:      No
+   Media Type:               Generic
+   Protocol:                 PCI
+   SMART Status:             Verified
+   Volume UUID:              1B79ED51-D00B-3386-B568-31AEC7C21AC5
+   Disk / Partition UUID:    84F09F43-8DE1-45A7-A625-61B7B50D25CD
+
+   Disk Size:                650.0 MB (650006528 Bytes) (exactly 1269544 512-Byte-Units)
+   Device Block Size:        512 Bytes
+
+   Volume Total Space:       0 B (0 Bytes) (exactly 0 512-Byte-Units)
+   Volume Available Space:   0 B (0 Bytes) (exactly 0 512-Byte-Units)
+
+   Read-Only Media:          No
+   Read-Only Volume:         Not applicable (not mounted)
+
+   Device Location:          Internal
+   Removable Media:          Fixed
+
+   Solid State:              Yes
+
+*********************
+sh: -c: line 0: syntax error near unexpected token `)'
+sh: -c: line 0: `/usr/sbin/diskutil info virtual):'
+*********************
+   Device Identifier:        disk1
+   Device Node:              /dev/disk1
+   Whole:                    Yes
+   Part of Whole:            disk1
+   Device / Media Name:      APPLE SSD SD0128F
+
+   Volume Name:              OS X Base System
+   Mounted:                  Yes
+   Mount Point:              /
+
+   Content (IOContent):      Apple_HFS
+   File System Personality:  Journaled HFS+
+   Type (Bundle):            hfs
+   Name (User Visible):      Mac OS Extended (Journaled)
+   Journal:                  Journal size 16384 KB at offset 0x36d000
+   Owners:                   Enabled
+
+   OS Can Be Installed:      Yes
+   Recovery Disk:            disk0s3
+   Media Type:               Generic
+   Protocol:                 PCI
+   SMART Status:             Not Supported
+   Volume UUID:              5938FF7E-B957-37D8-96A1-F41B8D6336B3
+   Disk / Partition UUID:    785B9A67-04F5-4BBA-BFA0-E00EE35237D3
+
+   Disk Size:                117.0 GB (117009678336 Bytes) (exactly 228534528 512-Byte-Units)
+   Device Block Size:        512 Bytes
+
+   Volume Total Space:       117.0 GB (117009678336 Bytes) (exactly 228534528 512-Byte-Units)
+   Volume Used Space:        18.2 GB (18245713920 Bytes) (exactly 35636160 512-Byte-Units) (15.6%)
+   Volume Available Space:   98.8 GB (98763960320 Bytes) (exactly 192898360 512-Byte-Units) (84.4%)
+   Allocation Block Size:    4096 Bytes
+
+   Read-Only Media:          No
+   Read-Only Volume:         No
+
+   Device Location:          Internal
+   Removable Media:          Fixed
+
+   Solid State:              Yes
+   Virtual:                  Yes
+   OS 9 Drivers:             No
+   Low Level Format:         Not supported
+
+   This disk is a Core Storage Logical Volume (LV).  Core Storage Information:
+   LV UUID:                  785B9A67-04F5-4BBA-BFA0-E00EE35237D3
+   LVF UUID:                 C36F5E31-205E-44FC-89E2-72214545E289
+   LVG UUID:                 685E4D6A-E770-4BB3-A25D-7B8CDCBF2AE1
+   PV UUID (disk):           820FFD3B-BD7B-4329-AB0D-A878770E3191 (disk0s2)
+   Fusion Drive:             No
+   Encrypted:                No
+
+*********************
+   Device Identifier:        disk0s2
+   Device Node:              /dev/disk0s2
+   Whole:                    No
+   Part of Whole:            disk0
+
+   Volume Name:              Not applicable (no file system)
+   Mounted:                  Not applicable (no file system)
+   File System:              None
+
+   Partition Type:           Apple_CoreStorage
+   OS Can Be Installed:      No
+   Recovery Disk:            disk0s3
+   Media Type:               Generic
+   Protocol:                 PCI
+   SMART Status:             Verified
+   Disk / Partition UUID:    6735E197-EAB4-4E81-B710-99D158F2B5E3
+
+   Disk Size:                117.4 GB (117380923392 Bytes) (exactly 229259616 512-Byte-Units)
+   Device Block Size:        512 Bytes
+
+   Read-Only Media:          No
+   Read-Only Volume:         Not applicable (no file system)
+
+   Device Location:          Internal
+   Removable Media:          Fixed
+
+   Solid State:              Yes
+
+   This disk is a Core Storage Physical Volume (PV).  Core Storage Information:
+   PV UUID:                  820FFD3B-BD7B-4329-AB0D-A878770E3191
+   LVG UUID:                 685E4D6A-E770-4BB3-A25D-7B8CDCBF2AE1
+
+*********************

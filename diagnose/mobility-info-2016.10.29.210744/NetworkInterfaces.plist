@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Interfaces</key>
+	<array>
+		<dict>
+			<key>Active</key>
+			<true/>
+			<key>BSD Name</key>
+			<string>en0</string>
+			<key>IOBuiltin</key>
+			<true/>
+			<key>IOInterfaceNamePrefix</key>
+			<string>en</string>
+			<key>IOInterfaceType</key>
+			<integer>6</integer>
+			<key>IOInterfaceUnit</key>
+			<integer>0</integer>
+			<key>IOMACAddress</key>
+			<data>
+			XPk4jbcg
+			</data>
+			<key>IOPathMatch</key>
+			<string>IOService:/AppleACPIPlatformExpert/PCI0@0/AppleACPIPCI/RP03@1C,2/IOPP/ARPT@0/AirPort_Brcm4360/en0</string>
+			<key>SCNetworkInterfaceInfo</key>
+			<dict>
+				<key>UserDefinedName</key>
+				<string>Wi-Fi</string>
+			</dict>
+			<key>SCNetworkInterfaceType</key>
+			<string>IEEE80211</string>
+		</dict>
+		<dict>
+			<key>Active</key>
+			<true/>
+			<key>BSD Name</key>
+			<string>en1</string>
+			<key>IOBuiltin</key>
+			<true/>
+			<key>IOInterfaceNamePrefix</key>
+			<string>en</string>
+			<key>IOInterfaceType</key>
+			<integer>6</integer>
+			<key>IOInterfaceUnit</key>
+			<integer>1</integer>
+			<key>IOMACAddress</key>
+			<data>
+			MgARcQAA
+			</data>
+			<key>IOPathMatch</key>
+			<string>IOService:/AppleACPIPlatformExpert/PCI0@0/AppleACPIPCI/RP05@1C,4/IOPP/UPSB@0/IOPP/DSB0@0/IOPP/NHI0@0/AppleThunderboltHAL/AppleThunderboltNHIType2/IOThunderboltController/IOThunderboltLocalNode/AppleThunderboltIPService/AppleThunderboltIPPort/en1</string>
+			<key>SCNetworkInterfaceInfo</key>
+			<dict>
+				<key>UserDefinedName</key>
+				<string>Thunderbolt 1</string>
+			</dict>
+			<key>SCNetworkInterfaceType</key>
+			<string>Ethernet</string>
+		</dict>
+		<dict>
+			<key>Active</key>
+			<true/>
+			<key>BSD Name</key>
+			<string>en2</string>
+			<key>IOBuiltin</key>
+			<false/>
+			<key>IOInterfaceNamePrefix</key>
+			<string>en</string>
+			<key>IOInterfaceType</key>
+			<integer>6</integer>
+			<key>IOInterfaceUnit</key>
+			<integer>2</integer>
+			<key>IOMACAddress</key>
+			<data>
+			XPk4jbch
+			</data>
+			<key>IOPathMatch</key>
+			<string>IOService:/IOResources/IOUserEthernetResource/IOUserEthernetResourceUserClient/IOUserEthernetController/en2</string>
+			<key>SCNetworkInterfaceInfo</key>
+			<dict>
+				<key>UserDefinedName</key>
+				<string>Bluetooth PAN</string>
+			</dict>
+			<key>SCNetworkInterfaceType</key>
+			<string>Ethernet</string>
+		</dict>
+	</array>
+	<key>Model</key>
+	<string>MacBookAir6,2</string>
+</dict>
+</plist>

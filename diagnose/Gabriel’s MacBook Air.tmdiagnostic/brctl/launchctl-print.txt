@@ -1,0 +1,233 @@
+com.apple.bird = {
+	active count = 8
+	path = /System/Library/LaunchAgents/com.apple.bird.plist
+	state = running
+
+	program = /System/Library/PrivateFrameworks/CloudDocsDaemon.framework/Versions/A/Support/bird
+	arguments = {
+		/System/Library/PrivateFrameworks/CloudDocsDaemon.framework/Versions/A/Support/bird
+	}
+
+	inherited environment = {
+		SSH_AUTH_SOCK => /private/tmp/com.apple.launchd.AM9hNyHPkL/Listeners
+		Apple_PubSub_Socket_Render => /private/tmp/com.apple.launchd.lwwH46mJGm/Render
+	}
+
+	default environment = {
+		PATH => /usr/bin:/bin:/usr/sbin:/sbin
+	}
+
+	environment = {
+		XPC_SERVICE_NAME => com.apple.bird
+	}
+
+	domain = com.apple.xpc.launchd.user.domain.501.100025.Aqua
+	asid = 100025
+	minimum runtime = 10
+	exit timeout = 5
+	runs = 1
+	successive crashes = 0
+	excessive crashing = 0
+	pid = 501
+	immediate reason = ipc (mach)
+	forks = 0
+	execs = 1
+	trampolined = 1
+	started suspended = 0
+	proxy started suspended = 0
+	last exit code = (never exited)
+
+	event triggers = {
+		com.apple.bird.configuration-server-update => {
+			state = 0
+			service = com.apple.bird
+			stream = com.apple.xpc.activity.501
+			monitor = com.apple.UserEventAgent-Aqua
+			descriptor = {
+				"Repeating" => true
+				"_SequenceNumber" => 1
+				"GracePeriod" => 86400
+				"Interval" => 172800
+				"Delay" => 86400
+				"AllowBattery" => false
+				"Priority" => "Maintenance"
+			}
+		}
+		com.apple.bird.stage.gc => {
+			state = 0
+			service = com.apple.bird
+			stream = com.apple.xpc.activity.501
+			monitor = com.apple.UserEventAgent-Aqua
+			descriptor = {
+				"Repeating" => true
+				"_SequenceNumber" => 1
+				"GracePeriod" => 3600
+				"Interval" => 3600
+				"Delay" => 1800
+				"Priority" => "Maintenance"
+			}
+		}
+		com.apple.bird.sync => {
+			state = 0
+			service = com.apple.bird
+			stream = com.apple.xpc.activity.501
+			monitor = com.apple.UserEventAgent-Aqua
+			descriptor = {
+				"Repeating" => true
+				"_SequenceNumber" => 1
+				"GracePeriod" => 14400
+				"Interval" => 28800
+				"Delay" => 14400
+				"AllowBattery" => false
+				"Priority" => "Maintenance"
+			}
+		}
+		com.apple.bird.fsevents => {
+			state = 0
+			service = com.apple.bird
+			stream = com.apple.fsevents.matching.501
+			monitor = com.apple.UserEventAgent-Aqua
+			descriptor = {
+				"Path" => "~/Library/Mobile Documents"
+			}
+		}
+		com.apple.bird.apps.install => {
+			state = 0
+			service = com.apple.bird
+			stream = com.apple.distnoted.matching.501
+			monitor = com.apple.UserEventAgent-Aqua
+			descriptor = {
+				"Name" => "com.apple.LaunchServices.applicationRegistered"
+			}
+		}
+		com.apple.bird.apps.uninstall => {
+			state = 0
+			service = com.apple.bird
+			stream = com.apple.distnoted.matching.501
+			monitor = com.apple.UserEventAgent-Aqua
+			descriptor = {
+				"Name" => "com.apple.LaunchServices.applicationUnregistered"
+			}
+		}
+	}
+
+	endpoints = {
+		"com.apple.bird.token" = {
+			port = 0x7b707
+			active = 1
+			managed = 1
+			reset = 0
+			hide = 0
+		}
+		"com.apple.bird.push" = {
+			port = 0x79a07
+			active = 1
+			managed = 1
+			reset = 0
+			hide = 0
+		}
+		"com.apple.bird.cache-delete" = {
+			port = 0x79b07
+			active = 1
+			managed = 1
+			reset = 0
+			hide = 0
+		}
+		"com.apple.bird" = {
+			port = 0x7930b
+			active = 1
+			managed = 1
+			reset = 0
+			hide = 0
+		}
+	}
+
+	dynamic endpoints = {
+	}
+
+	pid-local endpoints = {
+	}
+
+	instance-specific endpoints = {
+	}
+
+	event channels = {
+		"com.apple.fsevents.matching" = {
+			port = 0x7920b
+			active = 1
+			managed = 1
+			reset = 0
+			hide = 0
+		}
+		"com.apple.distnoted.matching" = {
+			port = 0x79407
+			active = 1
+			managed = 1
+			reset = 0
+			hide = 0
+		}
+		"com.apple.xpc.activity" = {
+			port = 0x7b50b
+			active = 1
+			managed = 1
+			reset = 0
+			hide = 0
+		}
+	}
+
+	sockets = {
+	}
+
+	spawn type = adaptive
+	jetsam priority = 3
+	jetsam memory limit (active) = 100 MB
+	jetsam memory limit (inactive) = 100 MB
+	jetsamproperties category = daemon
+	cpumon = default
+
+	properties = {
+		partial import = 0
+		launchd bundle = 0
+		xpc bundle = 0
+		keepalive = 0
+		runatload = 0
+		dirty at shutdown = 0
+		low priority i/o = 0
+		low priority background i/o = 0
+		legacy timer behavior = 0
+		exception handler = 0
+		multiple instances = 0
+		supports transactions = 1
+		supports pressured exit = 1
+		enter kdp before kill = 0
+		wait for debugger = 0
+		app = 0
+		system app = 0
+		creates session = 0
+		inetd-compatible = 0
+		inetd listener = 0
+		abandon process group = 0
+		one-shot = 0
+		requires reap = 0
+		event monitor = 0
+		penalty box = 0
+		pended non-demand spawn = 0
+		role account = 0
+		launch only once = 0
+		system support = 0
+		app-like = 0
+		inferred program = 1
+		joins gui session = 0
+		joins host session = 0
+		parameterized sandbox = 0
+		resolve program = 0
+		abandon coalition = 0
+		extension = 0
+		nano allocator = 0
+		no initgroups = 0
+		start on fs mount = 0
+		endpoints initialized = 1
+		disallow all lookups = 0
+		system service = 1
+	}
+}

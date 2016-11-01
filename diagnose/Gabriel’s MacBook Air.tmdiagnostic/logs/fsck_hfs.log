@@ -1,0 +1,108 @@
+
+fsck_hfs started at Thu Oct 27 17:30:42 2016
+** /dev/rdisk1 (NO WRITE)
+** Root file system
+   Executing fsck_hfs (version hfs-366.1.1).
+fsck_hfs completed at Thu Oct 27 17:30:42 2016
+
+
+/dev/rdisk1: fsck_hfs started at Thu Oct 27 17:31:15 2016
+/dev/rdisk1: /dev/rdisk1: ERROR: volume / is mounted with write access. Re-run with (-l) to freeze volume.
+/dev/rdisk1: fsck_hfs completed at Thu Oct 27 17:31:15 2016
+
+
+/dev/rdisk0s3: fsck_hfs started at Thu Oct 27 17:31:15 2016
+/dev/rdisk0s3: /dev/rdisk0s3: ** /dev/rdisk0s3 (NO WRITE)
+/dev/rdisk0s3:    Executing fsck_hfs (version hfs-366.1.1).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk0s3: fsck_hfs completed at Thu Oct 27 17:31:15 2016
+
+
+/dev/rdisk2: fsck_hfs started at Thu Oct 27 17:31:31 2016
+/dev/rdisk2: /dev/rdisk2: ERROR: volume /private/var/setup is mounted with write access. Re-run with (-l) to freeze volume.
+/dev/rdisk2: fsck_hfs completed at Thu Oct 27 17:31:31 2016
+
+
+/dev/rdisk0s3: fsck_hfs started at Thu Oct 27 17:34:12 2016
+/dev/rdisk0s3: /dev/rdisk0s3: ** /dev/rdisk0s3 (NO WRITE)
+/dev/rdisk0s3:    Executing fsck_hfs (version hfs-366.1.1).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk0s3: fsck_hfs completed at Thu Oct 27 17:34:12 2016
+
+
+/dev/rdisk0s3: fsck_hfs started at Thu Oct 27 17:34:46 2016
+/dev/rdisk0s3: /dev/rdisk0s3: ** /dev/rdisk0s3 (NO WRITE)
+/dev/rdisk0s3:    Executing fsck_hfs (version hfs-366.1.1).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk0s3: fsck_hfs completed at Thu Oct 27 17:34:46 2016
+
+
+/dev/rdisk2s1: fsck_hfs started at Thu Oct 27 21:05:31 2016
+/dev/rdisk2s1: /dev/rdisk2s1: ** /dev/rdisk2s1 (NO WRITE)
+/dev/rdisk2s1:    Executing fsck_hfs (version hfs-366.1.1).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk2s1: fsck_hfs completed at Thu Oct 27 21:05:31 2016
+
+
+/dev/rdisk2s1: fsck_hfs started at Thu Oct 27 21:05:32 2016
+/dev/rdisk2s1: /dev/rdisk2s1: ** /dev/rdisk2s1 (NO WRITE)
+/dev/rdisk2s1:    Executing fsck_hfs (version hfs-366.1.1).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk2s1: fsck_hfs completed at Thu Oct 27 21:05:32 2016
+
+
+/dev/rdisk2s2: fsck_hfs started at Sat Oct 29 17:51:03 2016
+/dev/rdisk2s2: /dev/rdisk2s2: ** /dev/rdisk2s2 (NO WRITE)
+/dev/rdisk2s2:    Executing fsck_hfs (version hfs-366.1.1).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk2s2: fsck_hfs completed at Sat Oct 29 17:51:03 2016
+
+
+/dev/rdisk2s2: fsck_hfs started at Sat Oct 29 17:51:04 2016
+/dev/rdisk2s2: /dev/rdisk2s2: ** /dev/rdisk2s2 (NO WRITE)
+/dev/rdisk2s2:    Executing fsck_hfs (version hfs-366.1.1).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk2s2: fsck_hfs completed at Sat Oct 29 17:51:04 2016
+
+
+/dev/rdisk2s2: fsck_hfs started at Sat Oct 29 17:53:10 2016
+/dev/rdisk2s2: /dev/rdisk2s2: ** /dev/rdisk2s2 (NO WRITE)
+/dev/rdisk2s2:    Executing fsck_hfs (version hfs-366.1.1).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk2s2: fsck_hfs completed at Sat Oct 29 17:53:10 2016
+
+
+/dev/rdisk2s2: fsck_hfs started at Sat Oct 29 17:53:11 2016
+/dev/rdisk2s2: /dev/rdisk2s2: ** /dev/rdisk2s2 (NO WRITE)
+/dev/rdisk2s2:    Executing fsck_hfs (version hfs-366.1.1).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk2s2: fsck_hfs completed at Sat Oct 29 17:53:11 2016
+
+
+/dev/rdisk0s3: fsck_hfs started at Sat Oct 29 18:36:07 2016
+/dev/rdisk0s3: /dev/rdisk0s3: ** /dev/rdisk0s3 (NO WRITE)
+/dev/rdisk0s3:    Executing fsck_hfs (version hfs-366.1.1).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk0s3: fsck_hfs completed at Sat Oct 29 18:36:07 2016
+
+
+/dev/rdisk0s3: fsck_hfs started at Sat Oct 29 18:36:09 2016
+/dev/rdisk0s3: /dev/rdisk0s3: ** /dev/rdisk0s3 (NO WRITE)
+/dev/rdisk0s3:    Executing fsck_hfs (version hfs-366.1.1).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk0s3: fsck_hfs completed at Sat Oct 29 18:36:09 2016
+
+
+/dev/rdisk2s1: fsck_hfs started at Sat Oct 29 20:44:45 2016
+/dev/rdisk2s1: /dev/rdisk2s1: ** /dev/rdisk2s1 (NO WRITE)
+/dev/rdisk2s1:    Executing fsck_hfs (version hfs-366.1.1).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk2s1: fsck_hfs completed at Sat Oct 29 20:44:45 2016
+
+
+/dev/rdisk2s1: fsck_hfs started at Sat Oct 29 20:44:46 2016
+/dev/rdisk2s1: /dev/rdisk2s1: ** /dev/rdisk2s1 (NO WRITE)
+/dev/rdisk2s1:    Executing fsck_hfs (version hfs-366.1.1).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk2s1: fsck_hfs completed at Sat Oct 29 20:44:46 2016
+

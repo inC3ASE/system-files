@@ -1,0 +1,18 @@
+#
+# dig -t any -c any www.apple.com
+#
+
+; <<>> DiG 9.8.3-P1 <<>> +time=2 -t any -c any www.apple.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 21071
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;www.apple.com.			ANY	ANY
+
+;; Query time: 23 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8)
+;; WHEN: Sat Oct 29 21:07:44 2016
+;; MSG SIZE  rcvd: 31
+

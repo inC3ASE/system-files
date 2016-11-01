@@ -1,0 +1,194 @@
+Thu Oct 27 17:31:18.092 ***Starting Up***
+Thu Oct 27 17:31:29.554 <kernel> IO80211Controller::addSubscriptionForThisReporterFetchedOnTimer() Failed to addSubscription for group Interface p2p0 subgroup Data Packets driver 0x4939f1623826933d - data underrun
+Thu Oct 27 17:31:29.554 <kernel> IO80211InterfaceMonitor::configureSubscriptions() failed to add subscription
+Thu Oct 27 17:31:29.554 <kernel>  Creating all peerManager reporters
+Thu Oct 27 17:31:29.554 <airportd[44]> ERROR: UserEventAgent (22) is not entitled for com.apple.wifi.events, but allowing anyways for event type 1
+Thu Oct 27 17:31:29.554 <airportd[44]> airportdProcessDLILEvent: en0 attached (up)
+Thu Oct 27 17:31:29.563 <kernel> IO80211Interface::updateReport _peerManager is missing
+Thu Oct 27 17:31:29.563 <kernel> wl0: setAWDL_PEER_TRAFFIC_REGISTRATION: active 0, roam_off: 0, err 0 roam_start_set 0 forced_roam_set 0
+Thu Oct 27 17:31:30.478 <kernel> Setting BTCoex Profile: band:8
+Thu Oct 27 17:31:30.478 <kernel> Profile[0]: mode:7; desense:0; desense_level:0; chain_power_offset:<kernel> 0,<kernel> 0,<kernel> 0,<kernel> 0,<kernel> 
+Thu Oct 27 17:31:30.478 <kernel> Profile[1]: mode:7; desense:0; desense_level:0; chain_power_offset:<kernel> 0,<kernel> 0,<kernel> 0,<kernel> 0,<kernel> 
+Thu Oct 27 17:31:30.478 <kernel> Profile[2]: mode:7; desense:1; desense_level:3; chain_power_offset:<kernel> 0,<kernel> 0,<kernel> 0,<kernel> 0,<kernel> 
+Thu Oct 27 17:31:30.478 <kernel> Setting BTCoex Profile: band:2
+Thu Oct 27 17:31:30.478 <kernel> Profile[0]: mode:0; desense:0; desense_level:0; chain_power_offset:<kernel> 0,<kernel> 0,<kernel> 0,<kernel> 0,<kernel> 
+Thu Oct 27 17:31:30.478 <kernel> Setting BTCoex Config: enable_2G:1, profile_2g:0, enable_5G:1, profile_5G:0
+Thu Oct 27 17:31:34.871 <airportd[44]> ERROR: WirelessRadioManagerd (261) is not entitled for com.apple.wifi.events, but allowing anyways for event type 5
+Thu Oct 27 17:31:34.872 <airportd[44]> ERROR: WirelessRadioManagerd (261) is not entitled for com.apple.wifi.events, but allowing anyways for event type 6
+Thu Oct 27 17:31:37.444 <airportd[44]> ERROR: symptomsd (172) is not entitled for com.apple.wifi.events, but allowing anyways for event type 3
+Thu Oct 27 17:31:37.445 <airportd[44]> ERROR: symptomsd (172) is not entitled for com.apple.wifi.events, but allowing anyways for event type 6
+Thu Oct 27 17:31:37.659 <airportd[44]> ERROR: Setup Assistant (244) is not entitled for com.apple.wifi.events, but allowing anyways for event type 2
+Thu Oct 27 17:31:37.706 <airportd[44]> ERROR: systemmigrationd (298) is not entitled for com.apple.wifi.events, but allowing anyways for event type 2
+Thu Oct 27 17:31:37.707 <airportd[44]> ERROR: systemmigrationd (298) is not entitled for com.apple.wifi.events, but allowing anyways for event type 7
+Thu Oct 27 17:31:37.709 <airportd[44]> ERROR: systemmigrationd (298) is not entitled for com.apple.wifi.events, but allowing anyways for event type 1
+Thu Oct 27 17:31:50.680 <airportd[44]> WARNING: Setup Assistant (244) is not entitled for com.apple.wifi.associate, temporarily allowing request with background priority —— all entitlement requirements will be strictly enforced in a future release
+Thu Oct 27 17:31:50.836 <kernel> Unexpected payload found for message 9, dataLen 0
+Thu Oct 27 17:34:39.809 <airportd[44]> ERROR: Setup Assistant (244) is not entitled for com.apple.wifi.events, but allowing anyways for event type 2
+Thu Oct 27 17:34:39.810 <airportd[44]> ERROR: Setup Assistant (244) is not entitled for com.apple.wifi.events, but allowing anyways for event type 7
+Thu Oct 27 17:34:39.811 <airportd[44]> ERROR: Setup Assistant (244) is not entitled for com.apple.wifi.events, but allowing anyways for event type 1
+Thu Oct 27 17:34:56.371 <airportd[44]> ERROR: WiFiProxy (663) is not entitled for com.apple.wifi.events, but allowing anyways for event type 1
+Thu Oct 27 17:34:56.372 <airportd[44]> ERROR: WiFiProxy (663) is not entitled for com.apple.wifi.events, but allowing anyways for event type 7
+Thu Oct 27 17:34:56.373 <airportd[44]> ERROR: WiFiProxy (663) is not entitled for com.apple.wifi.events, but allowing anyways for event type 2
+Thu Oct 27 17:34:56.373 <airportd[44]> ERROR: WiFiProxy (663) is not entitled for com.apple.wifi.events, but allowing anyways for event type 3
+Thu Oct 27 17:34:56.374 <airportd[44]> ERROR: WiFiProxy (663) is not entitled for com.apple.wifi.events, but allowing anyways for event type 6
+Thu Oct 27 17:34:56.378 <airportd[44]> ERROR: WiFiProxy (663) is not entitled for com.apple.wifi.events, but allowing anyways for event type 5
+Thu Oct 27 17:34:56.379 <airportd[44]> ERROR: WiFiProxy (663) is not entitled for com.apple.wifi.events, but allowing anyways for event type 8
+Thu Oct 27 17:35:04.168 <airportd[44]> ERROR: WiFiAgent (621) is not entitled for com.apple.wifi.events, but allowing anyways for event type 1
+Thu Oct 27 17:35:06.699 <kernel> AWDL Sync Enabled 1, data path state[1]
+Thu Oct 27 17:35:13.386 <kernel> AWDL Sync Enabled 0, data path state[1]
+Thu Oct 27 17:40:39.262 <kernel> IO80211Interface::updateReport _peerManager is missing
+Thu Oct 27 17:40:39.286 <kernel> IO80211Interface::updateReport _peerManager is missing
+Thu Oct 27 17:41:46.183 <kernel> Setting BTCoex Config: enable_2G:1, profile_2g:0, enable_5G:1, profile_5G:0
+Thu Oct 27 17:42:18.259 <kernel> wl0: powerChange: *** BONJOUR/MDNS OFFLOADS ARE NOT RUNNING.
+Thu Oct 27 20:27:52.002 <kernel> wl0: leaveModulePoweredForOffloads: Wi-Fi will turn off.
+Thu Oct 27 20:27:52.002 <kernel> AirPort_Brcm43xx::syncPowerState: WWEN[disabled]
+Thu Oct 27 20:27:52.002 <kernel> AirPort_Brcm4360::getSSIDData(): Get failure: APPLE80211_IOC_SSID: 82
+Thu Oct 27 20:27:52.035 <airportd[44]> _handleLinkEvent: WiFi is not powered. Resetting state variables.
+Thu Oct 27 20:27:52.438 <kernel> IO80211Interface::updateReport _peerManager is missing
+Thu Oct 27 20:27:52.491 <kernel> Setting BTCoex Config: enable_2G:1, profile_2g:0, enable_5G:1, profile_5G:0
+Thu Oct 27 20:27:52.496 <kernel> Setting BTCoex Config: enable_2G:1, profile_2g:0, enable_5G:1, profile_5G:0
+Thu Oct 27 20:27:52.650 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[disable], in_fatal_err[0]
+Thu Oct 27 20:27:52.778 <airportd[44]> ERROR: WiFiProxy (663) is not entitled for com.apple.wifi.events, but allowing anyways for event type 1
+Thu Oct 27 20:27:52.778 <airportd[44]> ERROR: WiFiProxy (663) is not entitled for com.apple.wifi.events, but allowing anyways for event type 7
+Thu Oct 27 20:27:52.779 <airportd[44]> ERROR: WiFiProxy (663) is not entitled for com.apple.wifi.events, but allowing anyways for event type 2
+Thu Oct 27 20:27:52.780 <airportd[44]> ERROR: WiFiProxy (663) is not entitled for com.apple.wifi.events, but allowing anyways for event type 3
+Thu Oct 27 20:27:52.780 <airportd[44]> ERROR: WiFiProxy (663) is not entitled for com.apple.wifi.events, but allowing anyways for event type 6
+Thu Oct 27 20:27:52.785 <airportd[44]> ERROR: WiFiProxy (663) is not entitled for com.apple.wifi.events, but allowing anyways for event type 5
+Thu Oct 27 20:27:52.785 <airportd[44]> ERROR: WiFiProxy (663) is not entitled for com.apple.wifi.events, but allowing anyways for event type 8
+Thu Oct 27 20:28:14.790 <kernel> Unexpected payload found for message 9, dataLen 0
+Thu Oct 27 20:28:14.838 <kernel> Setting BTCoex Config: enable_2G:1, profile_2g:0, enable_5G:1, profile_5G:0
+Thu Oct 27 20:36:01.320 <kernel> IO80211Interface::updateReport _peerManager is missing
+Thu Oct 27 20:46:01.392 <kernel> IO80211Interface::updateReport _peerManager is missing
+Thu Oct 27 20:56:01.415 <kernel> IO80211Interface::updateReport _peerManager is missing
+Thu Oct 27 21:06:01.439 <kernel> IO80211Interface::updateReport _peerManager is missing
+Thu Oct 27 21:16:01.474 <kernel> IO80211Interface::updateReport _peerManager is missing
+Thu Oct 27 21:26:01.497 <kernel> IO80211Interface::updateReport _peerManager is missing
+Thu Oct 27 21:36:01.519 <kernel> IO80211Interface::updateReport _peerManager is missing
+Thu Oct 27 21:36:39.397 <kernel> Setting BTCoex Config: enable_2G:1, profile_2g:0, enable_5G:1, profile_5G:0
+Thu Oct 27 21:37:11.504 <kernel> wl0: powerChange: *** BONJOUR/MDNS OFFLOADS ARE NOT RUNNING.
+Thu Oct 27 22:41:52.010 <kernel> wl0: leaveModulePoweredForOffloads: Wi-Fi will turn off.
+Thu Oct 27 22:41:52.011 <kernel> AirPort_Brcm43xx::syncPowerState: WWEN[disabled]
+Thu Oct 27 22:41:52.011 <kernel> AirPort_Brcm4360::getSSIDData(): Get failure: APPLE80211_IOC_SSID: 82
+Thu Oct 27 22:41:52.589 <kernel> IO80211Interface::updateReport _peerManager is missing
+Thu Oct 27 22:41:52.615 <kernel> Setting BTCoex Config: enable_2G:1, profile_2g:0, enable_5G:1, profile_5G:0
+Thu Oct 27 22:41:52.634 <kernel> Setting BTCoex Config: enable_2G:1, profile_2g:0, enable_5G:1, profile_5G:0
+Thu Oct 27 22:41:52.665 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[disable], in_fatal_err[0]
+Thu Oct 27 22:41:52.955 <airportd[44]> ERROR: WiFiProxy (663) is not entitled for com.apple.wifi.events, but allowing anyways for event type 1
+Thu Oct 27 22:41:52.955 <airportd[44]> ERROR: WiFiProxy (663) is not entitled for com.apple.wifi.events, but allowing anyways for event type 7
+Thu Oct 27 22:41:52.956 <airportd[44]> ERROR: WiFiProxy (663) is not entitled for com.apple.wifi.events, but allowing anyways for event type 2
+Thu Oct 27 22:41:52.957 <airportd[44]> ERROR: WiFiProxy (663) is not entitled for com.apple.wifi.events, but allowing anyways for event type 3
+Thu Oct 27 22:41:52.957 <airportd[44]> ERROR: WiFiProxy (663) is not entitled for com.apple.wifi.events, but allowing anyways for event type 6
+Thu Oct 27 22:41:52.961 <airportd[44]> ERROR: WiFiProxy (663) is not entitled for com.apple.wifi.events, but allowing anyways for event type 5
+Thu Oct 27 22:41:52.962 <airportd[44]> ERROR: WiFiProxy (663) is not entitled for com.apple.wifi.events, but allowing anyways for event type 8
+Thu Oct 27 22:50:39.884 <kernel> IO80211Interface::updateReport _peerManager is missing
+Thu Oct 27 23:00:39.900 <kernel> IO80211Interface::updateReport _peerManager is missing
+Thu Oct 27 23:10:39.916 <kernel> IO80211Interface::updateReport _peerManager is missing
+Thu Oct 27 23:20:39.945 <kernel> IO80211Interface::updateReport _peerManager is missing
+Thu Oct 27 23:30:49.965 <kernel> IO80211Interface::updateReport _peerManager is missing
+Thu Oct 27 23:40:49.991 <kernel> IO80211Interface::updateReport _peerManager is missing
+Thu Oct 27 23:50:40.031 <kernel> IO80211Interface::updateReport _peerManager is missing
+Fri Oct 28 00:00:40.038 <kernel> IO80211Interface::updateReport _peerManager is missing
+Fri Oct 28 00:07:54.145 <airportd[44]> ERROR: systemmigrationd (3157) is not entitled for com.apple.wifi.events, but allowing anyways for event type 2
+Fri Oct 28 00:07:54.147 <airportd[44]> ERROR: systemmigrationd (3157) is not entitled for com.apple.wifi.events, but allowing anyways for event type 7
+Fri Oct 28 00:07:54.147 <airportd[44]> ERROR: systemmigrationd (3157) is not entitled for com.apple.wifi.events, but allowing anyways for event type 1
+Fri Oct 28 00:09:46.174 <kernel> Setting BTCoex Config: enable_2G:1, profile_2g:0, enable_5G:1, profile_5G:0
+Fri Oct 28 00:10:29.226 <kernel> wl0: powerChange: *** BONJOUR/MDNS OFFLOADS ARE NOT RUNNING.
+Fri Oct 28 03:10:32.004 <kernel> wl0: leaveModulePoweredForOffloads: Wi-Fi will turn off.
+Fri Oct 28 03:10:32.004 <kernel> AirPort_Brcm43xx::syncPowerState: WWEN[disabled]
+Fri Oct 28 03:10:32.436 <kernel> IO80211Interface::updateReport _peerManager is missing
+Fri Oct 28 03:10:32.441 <kernel> Setting BTCoex Config: enable_2G:1, profile_2g:0, enable_5G:1, profile_5G:0
+Fri Oct 28 03:10:32.499 <kernel> Setting BTCoex Config: enable_2G:1, profile_2g:0, enable_5G:1, profile_5G:0
+Fri Oct 28 03:10:32.643 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[disable], in_fatal_err[0]
+Fri Oct 28 03:10:33.211 <kernel> IO80211Interface::updateReport _peerManager is missing
+Fri Oct 28 03:10:40.762 <kernel> IO80211Interface::updateReport _peerManager is missing
+Fri Oct 28 03:10:46.897 <kernel> wl0: powerChange: *** BONJOUR/MDNS OFFLOADS ARE NOT RUNNING.
+Sat Oct 29 17:49:07.545 <kernel> wl0: leaveModulePoweredForOffloads: Wi-Fi will turn off.
+Sat Oct 29 17:49:07.549 <kernel> AirPort_Brcm43xx::syncPowerState: WWEN[disabled]
+Sat Oct 29 17:49:07.549 <kernel> IO80211Interface::updateReport _peerManager is missing
+Sat Oct 29 17:49:07.823 <kernel> Setting BTCoex Config: enable_2G:1, profile_2g:0, enable_5G:1, profile_5G:0
+Sat Oct 29 17:49:07.823 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[disable], in_fatal_err[0]
+Sat Oct 29 17:49:08.049 <kernel> Setting BTCoex Config: enable_2G:1, profile_2g:0, enable_5G:1, profile_5G:0
+Sat Oct 29 17:49:08.528 <kernel> Unexpected payload found for message 9, dataLen 0
+Sat Oct 29 17:49:08.988 <kernel> Setting BTCoex Config: enable_2G:1, profile_2g:0, enable_5G:1, profile_5G:0
+Sat Oct 29 17:49:10.252 <kernel> IO80211Interface::updateReport _peerManager is missing
+Sat Oct 29 17:49:33.182 <airportd[44]> ERROR: WiFiProxy (663) is not entitled for com.apple.wifi.events, but allowing anyways for event type 1
+Sat Oct 29 17:49:33.182 <airportd[44]> ERROR: WiFiProxy (663) is not entitled for com.apple.wifi.events, but allowing anyways for event type 7
+Sat Oct 29 17:49:33.183 <airportd[44]> ERROR: WiFiProxy (663) is not entitled for com.apple.wifi.events, but allowing anyways for event type 2
+Sat Oct 29 17:49:33.184 <airportd[44]> ERROR: WiFiProxy (663) is not entitled for com.apple.wifi.events, but allowing anyways for event type 3
+Sat Oct 29 17:49:33.185 <airportd[44]> ERROR: WiFiProxy (663) is not entitled for com.apple.wifi.events, but allowing anyways for event type 6
+Sat Oct 29 17:49:33.188 <airportd[44]> ERROR: WiFiProxy (663) is not entitled for com.apple.wifi.events, but allowing anyways for event type 5
+Sat Oct 29 17:49:33.189 <airportd[44]> ERROR: WiFiProxy (663) is not entitled for com.apple.wifi.events, but allowing anyways for event type 8
+Sat Oct 29 17:57:03.273 <kernel> wl0: powerChange: *** BONJOUR/MDNS OFFLOADS ARE NOT RUNNING.
+Sat Oct 29 17:58:54.003 <kernel> wl0: leaveModulePoweredForOffloads: Wi-Fi will turn off.
+Sat Oct 29 17:58:54.003 <kernel> AirPort_Brcm43xx::syncPowerState: WWEN[disabled]
+Sat Oct 29 17:58:54.003 <kernel> AirPort_Brcm4360::getSSIDData(): Get failure: APPLE80211_IOC_SSID: 82
+Sat Oct 29 17:58:54.031 <airportd[44]> _handleLinkEvent: WiFi is not powered. Resetting state variables.
+Sat Oct 29 17:58:54.436 <kernel> IO80211Interface::updateReport _peerManager is missing
+Sat Oct 29 17:58:54.490 <kernel> Setting BTCoex Config: enable_2G:1, profile_2g:0, enable_5G:1, profile_5G:0
+Sat Oct 29 17:58:54.496 <kernel> Setting BTCoex Config: enable_2G:1, profile_2g:0, enable_5G:1, profile_5G:0
+Sat Oct 29 17:58:54.693 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[disable], in_fatal_err[0]
+Sat Oct 29 17:58:54.903 <airportd[44]> ERROR: WiFiProxy (663) is not entitled for com.apple.wifi.events, but allowing anyways for event type 1
+Sat Oct 29 17:58:54.903 <airportd[44]> ERROR: WiFiProxy (663) is not entitled for com.apple.wifi.events, but allowing anyways for event type 7
+Sat Oct 29 17:58:54.904 <airportd[44]> ERROR: WiFiProxy (663) is not entitled for com.apple.wifi.events, but allowing anyways for event type 2
+Sat Oct 29 17:58:54.905 <airportd[44]> ERROR: WiFiProxy (663) is not entitled for com.apple.wifi.events, but allowing anyways for event type 3
+Sat Oct 29 17:58:54.906 <airportd[44]> ERROR: WiFiProxy (663) is not entitled for com.apple.wifi.events, but allowing anyways for event type 6
+Sat Oct 29 17:58:54.909 <airportd[44]> ERROR: WiFiProxy (663) is not entitled for com.apple.wifi.events, but allowing anyways for event type 5
+Sat Oct 29 17:58:54.910 <airportd[44]> ERROR: WiFiProxy (663) is not entitled for com.apple.wifi.events, but allowing anyways for event type 8
+Sat Oct 29 17:58:57.767 <kernel> Unexpected payload found for message 9, dataLen 0
+Sat Oct 29 18:00:39.272 <kernel> IO80211Interface::updateReport _peerManager is missing
+Sat Oct 29 18:10:00.310 <kernel> IO80211Interface::updateReport _peerManager is missing
+Sat Oct 29 18:10:35.227 <kernel> IO80211Interface::updateReport _peerManager is missing
+Sat Oct 29 18:20:45.247 <kernel> IO80211Interface::updateReport _peerManager is missing
+Sat Oct 29 18:30:35.260 <kernel> IO80211Interface::updateReport _peerManager is missing
+Sat Oct 29 18:40:45.258 <kernel> IO80211Interface::updateReport _peerManager is missing
+Sat Oct 29 18:50:35.276 <kernel> IO80211Interface::updateReport _peerManager is missing
+Sat Oct 29 18:50:58.537 <kernel> AirPort_Brcm4360::getSSIDData(): Get failure: APPLE80211_IOC_SSID: 6
+Sat Oct 29 18:50:58.538 <kernel> AirPort_Brcm43xx::syncPowerState: WWEN[disabled]
+Sat Oct 29 18:50:58.558 <airportd[44]> _handleLinkEvent: WiFi is not powered. Resetting state variables.
+Sat Oct 29 18:51:14.426 <airportd[44]> _configureScanOffloadParameters: Unable to configure scan offloading on en0 (Device power is off)
+Sat Oct 29 18:51:16.784 <kernel> wl0: powerChange: *** BONJOUR/MDNS OFFLOADS ARE NOT RUNNING.
+Sat Oct 29 19:19:10.001 <kernel> wl0: leaveModulePoweredForOffloads: Wi-Fi will turn off.
+Sat Oct 29 19:19:10.001 <kernel> AirPort_Brcm43xx::syncPowerState: WWEN[disabled]
+Sat Oct 29 19:19:10.007 <kernel> wl0: leaveModulePoweredForOffloads: Wi-Fi will turn off.
+Sat Oct 29 19:19:10.007 <kernel> AirPort_Brcm43xx::syncPowerState: WWEN[disabled]
+Sat Oct 29 19:19:10.655 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[disable], in_fatal_err[0]
+Sat Oct 29 19:19:11.167 <kernel> IO80211Interface::updateReport _peerManager is missing
+Sat Oct 29 19:19:11.206 <kernel> AirPort_Brcm43xx::syncPowerState: WWEN[disabled]
+Sat Oct 29 19:19:52.797 <airportd[44]> ERROR: WiFiProxy (663) is not entitled for com.apple.wifi.events, but allowing anyways for event type 1
+Sat Oct 29 19:19:52.797 <airportd[44]> ERROR: WiFiProxy (663) is not entitled for com.apple.wifi.events, but allowing anyways for event type 7
+Sat Oct 29 19:19:52.798 <airportd[44]> ERROR: WiFiProxy (663) is not entitled for com.apple.wifi.events, but allowing anyways for event type 2
+Sat Oct 29 19:19:52.799 <airportd[44]> ERROR: WiFiProxy (663) is not entitled for com.apple.wifi.events, but allowing anyways for event type 3
+Sat Oct 29 19:19:52.800 <airportd[44]> ERROR: WiFiProxy (663) is not entitled for com.apple.wifi.events, but allowing anyways for event type 6
+Sat Oct 29 19:19:52.804 <airportd[44]> ERROR: WiFiProxy (663) is not entitled for com.apple.wifi.events, but allowing anyways for event type 5
+Sat Oct 29 19:19:52.805 <airportd[44]> ERROR: WiFiProxy (663) is not entitled for com.apple.wifi.events, but allowing anyways for event type 8
+Sat Oct 29 19:21:08.615 <kernel> IO80211Interface::updateReport _peerManager is missing
+Sat Oct 29 19:21:09.082 <kernel> Unexpected payload found for message 9, dataLen 0
+Sat Oct 29 19:28:28.605 <kernel> IO80211Interface::updateReport _peerManager is missing
+Sat Oct 29 19:38:28.609 <kernel> IO80211Interface::updateReport _peerManager is missing
+Sat Oct 29 19:48:38.615 <kernel> IO80211Interface::updateReport _peerManager is missing
+Sat Oct 29 19:58:28.633 <kernel> IO80211Interface::updateReport _peerManager is missing
+Sat Oct 29 20:08:28.654 <kernel> IO80211Interface::updateReport _peerManager is missing
+Sat Oct 29 20:18:28.667 <kernel> IO80211Interface::updateReport _peerManager is missing
+Sat Oct 29 20:28:28.671 <kernel> IO80211Interface::updateReport _peerManager is missing
+Sat Oct 29 20:38:38.686 <kernel> IO80211Interface::updateReport _peerManager is missing
+Sat Oct 29 20:48:28.712 <kernel> IO80211Interface::updateReport _peerManager is missing
+Sat Oct 29 20:58:39.261 <kernel> IO80211Interface::updateReport _peerManager is missing
+Sat Oct 29 21:06:20.826 <kernel> IO80211Interface::updateReport _peerManager is missing
+Sat Oct 29 21:06:30.854 <kernel> IO80211Interface::updateReport _peerManager is missing
+Sat Oct 29 21:08:38.713 <kernel> IO80211Interface::updateReport _peerManager is missing
+Sat Oct 29 21:09:13.253 <kernel> IO80211Interface::updateReport _peerManager is missing
+Sat Oct 29 21:09:14.270 <kernel> IO80211Interface::updateReport _peerManager is missing
+Sat Oct 29 21:09:15.288 <kernel> IO80211Interface::updateReport _peerManager is missing
+Sat Oct 29 21:09:16.310 <kernel> IO80211Interface::updateReport _peerManager is missing
+Sat Oct 29 21:09:17.328 <kernel> IO80211Interface::updateReport _peerManager is missing
+Sat Oct 29 21:09:18.351 <kernel> IO80211Interface::updateReport _peerManager is missing
+Sat Oct 29 21:09:19.371 <kernel> IO80211Interface::updateReport _peerManager is missing
+Sat Oct 29 21:09:20.391 <kernel> IO80211Interface::updateReport _peerManager is missing
+Sat Oct 29 21:09:21.413 <kernel> IO80211Interface::updateReport _peerManager is missing
+Sat Oct 29 21:09:22.436 <kernel> IO80211Interface::updateReport _peerManager is missing
+Sat Oct 29 21:09:23.460 <kernel> IO80211Interface::updateReport _peerManager is missing
+Sat Oct 29 21:09:47.945 <airportd[44]> WARNING: sysdiagnose (15281) is not entitled for com.apple.wifi.temporary_log, temporarily allowing request with background priority —— all entitlement requirements will be strictly enforced in a future release
+Sat Oct 29 21:10:05.214 <kernel> IO80211Interface::updateReport _peerManager is missing
+Sat Oct 29 21:10:05.300 <kernel> IO80211Interface::updateReport _peerManager is missing
+Sat Oct 29 21:10:05.362 <kernel> IO80211Interface::updateReport _peerManager is missing
+Sat Oct 29 21:10:08.913 <kernel> IO80211Interface::updateReport _peerManager is missing

@@ -1,0 +1,29 @@
+=== Source Volumes Dictionary ===
+{
+    "/" =     (
+        "/"
+    );
+}
+
+=== Programmatically Excluded Paths ===
+(
+)
+
+=== User-excluded Paths ===
+(
+)
+
+=== Sticky Exclusions ===
+
+# /usr/bin/mdfind "com_apple_backup_excludeItem == com.apple.backupd"
+/Users/archopposition/Library/Suggestions
+/Users/archopposition/Library/LanguageModeling/en-dynamic.lm
+/Users/archopposition/Library/Passes/RemoteDevices.archive
+/Users/archopposition/Library/Containers/com.apple.cloudphotosd/Data/Library/Application Support/com.apple.cloudphotosd/services/com.apple.photo.icloud.sharedstreams/com.apple.photo.icloud.sharedstreams-10316862963.cloudphotoservicelibrary/database
+/Users/archopposition/Library/Passes/PaymentWebServiceContext.archive
+/Users/archopposition/Library/Passes/WebServiceTasks_v6.archive
+/Users/archopposition/Library/Passes/NotificationServiceTasks_v6.archive
+/Users/archopposition/Library/Passes/ScheduledActivities.archive
+/Users/archopposition/Library/Passes/passes23.sqlite
+/Users/archopposition/Library/Calendars/Calendar Cache
+/Users/Shared/adi

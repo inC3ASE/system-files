@@ -1,0 +1,74 @@
+#
+# scutil -d -v --nwi
+#
+Network information (generation 13967656114477)
+IPv4 network interface information
+     en0 : flags 0x1015 (IPv4,DNS,SIGNATURE)
+           reach 0x00000002 (Reachable)
+           Signature Hash: <data> 0x0a03d748b7b7ed43979e6787f5ad856af793ca16
+           generation 13967656114477
+
+   REACH : flags 0x00000002 (Reachable)
+
+IPv6 network interface information
+   No IPv6 states found
+
+   REACH : flags 0x00000000 (Not Reachable)
+
+Network interfaces: en0
+
+#
+# scutil --nwi lo0
+#
+No network information (for lo0)
+
+#
+# scutil --nwi gif0
+#
+No network information (for gif0)
+
+#
+# scutil --nwi stf0
+#
+No network information (for stf0)
+
+#
+# scutil --nwi en0
+#
+     en0 : flags 0x5 (IPv4,DNS)
+           reach 0x00000002 (Reachable)
+           Signature Hash: <data> 0x0a03d748b7b7ed43979e6787f5ad856af793ca16
+           generation 13967656114477
+
+#
+# scutil --nwi en1
+#
+No network information (for en1)
+
+#
+# scutil --nwi bridge0
+#
+No network information (for bridge0)
+
+#
+# scutil --nwi p2p0
+#
+No network information (for p2p0)
+
+#
+# scutil --nwi awdl0
+#
+No network information (for awdl0)
+
+#
+# scutil --nwi utun1
+#
+   utun1 : flags 0x2 (IPv6)
+           reach 0x00000002 (Reachable)
+           Signature Hash: <empty>
+           generation 195427509803
+
+#
+# scutil --nwi bond0
+#
+No network information (for bond0)

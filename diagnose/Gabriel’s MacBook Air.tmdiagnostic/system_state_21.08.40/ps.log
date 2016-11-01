@@ -1,0 +1,354 @@
+USER              PID  %CPU %MEM      VSZ    RSS   TT  STAT STARTED      TIME COMMAND
+root            15447  97.6  2.6  2577288 110708 s004  R     9:06PM   2:14.62 /usr/bin/footprint -v -a
+archopposition   4289   3.8  3.4  4064596 143916   ??  S     7:20PM  20:01.26 /Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container -greomni /Applications/Firefox.app/Contents/Resources/omni.ja -appomni /Applications/Firefox.app/Contents/Resources/browser/omni.ja -appdir /Applications/Firefox.app/Contents/Resources/browser 4286 gecko-crash-server-pipe.4286 org.mozilla.machname.238895782 tab
+root               63   1.9  0.2  2512964   9376   ??  Ss   Thu05PM   0:46.77 /usr/libexec/opendirectoryd
+_hidd              86   1.5  0.1  2473564   4768   ??  Ss   Thu05PM   7:48.15 /usr/libexec/hidd
+root               88   1.2  0.0  2471068   1908   ??  Ss   Thu05PM   0:25.84 /usr/sbin/notifyd
+root               40   0.9  0.5  2544552  21036   ??  Ss   Thu05PM   0:17.78 /usr/libexec/logd
+archopposition    592   0.8  2.3  2730076  97784   ??  S    Thu05PM   1:39.96 /System/Library/CoreServices/Finder.app/Contents/MacOS/Finder
+_coreaudiod       113   0.6  0.2  2499644   7192   ??  Ss   Thu05PM   3:23.93 /usr/sbin/coreaudiod
+_windowserver     120   0.5  0.8  3528508  34812   ??  Ss   Thu05PM  15:00.15 /System/Library/PrivateFrameworks/SkyLight.framework/Resources/WindowServer -daemon
+root                1   0.4  0.2  2493600   6688   ??  Ss   Thu05PM   0:52.84 /sbin/launchd
+archopposition  11074   0.1  8.8  4764664 369460   ??  S     8:46PM   1:21.62 /Applications/Docker.app/Contents/MacOS/com.docker.hyperkit -A -m 2G -c 2 -u -s 0:0,hostbridge -s 31,lpc -s 2:0,virtio-vpnkit,uuid=32a5ba27-437f-4c5b-8e39-453d3026e0f5,path=/Users/archopposition/Library/Containers/com.docker.docker/Data/s50,macfile=/Users/archopposition/Library/Containers/com.docker.docker/Data/com.docker.driver.amd64-linux/mac.0 -s 3,virtio-blk,file:///Users/archopposition/Library/Containers/com.docker.docker/Data/com.docker.driver.amd64-linux/Docker.qcow2,format=qcow -s 4,virtio-9p,path=/Users/archopposition/Library/Containers/com.docker.docker/Data/s40,tag=db -s 5,virtio-rnd -s 6,virtio-9p,path=/Users/archopposition/Library/Containers/com.docker.docker/Data/s51,tag=port -s 7,virtio-sock,guest_cid=3,path=/Users/archopposition/Library/Containers/com.docker.docker/Data,guest_forwards=2376;1525 -l com1,autopty=/Users/archopposition/Library/Containers/com.docker.docker/Data/com.docker.driver.amd64-linux/tty,log=/Users/archopposition/Library/Containers/com.docker.docker/Data/com.docker.driver.amd64-linux/console-ring -f kexec,/Applications/Docker.app/Contents/Resources/moby/vmlinuz64,/Applications/Docker.app/Contents/Resources/moby/initrd.img,earlyprintk=serial console=ttyS0 com.docker.driver="com.docker.driver.amd64-linux", com.docker.database="com.docker.driver.amd64-linux" ntp=gateway mobyplatform=mac -F /Users/archopposition/Library/Containers/com.docker.docker/Data/com.docker.driver.amd64-linux/hypervisor.pid
+archopposition    456   0.1  0.1  2498088   5268   ??  S    Thu05PM   0:03.90 /System/Library/PrivateFrameworks/CacheDelete.framework/deleted
+root               34   0.1  0.1  2495056   3248   ??  Ss   Thu05PM   0:03.12 /System/Library/CoreServices/powerd.bundle/powerd
+root               90   0.1  0.1  2470500   3640   ??  Ss   Thu05PM   0:08.09 /usr/sbin/cfprefsd daemon
+root               68   0.1  0.2  2497808   7572   ??  Ss   Thu05PM   0:09.88 /System/Library/CoreServices/launchservicesd
+root            15327   0.0  0.2  2462992   9380   ??  Ss    9:06PM   0:00.03 /usr/libexec/tailspind
+archopposition  15303   0.0  0.4  2481036  18420   ??  S     9:05PM   0:00.09 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+archopposition  15302   0.0  0.5  2483076  21948   ??  S     9:05PM   0:00.26 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+root            15281   0.0  0.3  2495140  11460 s004  S+    9:05PM   0:00.09 sysdiagnose
+root            15279   0.0  0.2  2461060   8040 s004  S+    9:05PM   0:00.03 /usr/bin/sudo sysdiagnose
+archopposition  15164   0.0  0.5  2486880  19700   ??  S     9:05PM   0:00.13 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+
+USER              PID  %CPU %MEM      VSZ    RSS   TT  STAT STARTED      TIME COMMAND
+archopposition  15163   0.0  0.4  2503280  15056   ??  S     9:05PM   0:00.15 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+archopposition  15135   0.0  0.1  2461044   2272 s004  S     9:05PM   0:00.06 -bash
+root            15134   0.0  0.2  2469468   9140 s004  Ss    9:05PM   0:00.02 login -pf archopposition
+archopposition  14404   0.0  0.5  2495620  20936   ??  S     8:59PM   0:00.13 /System/Library/PrivateFrameworks/AOSKit.framework/Versions/A/XPCServices/com.apple.iCloudHelper.xpc/Contents/MacOS/com.apple.iCloudHelper
+archopposition  13511   0.0  0.1  2461044   2420 s003  S     8:57PM   0:00.24 /bin/bash --login
+archopposition  13484   0.0  0.0  2452848   1888 s003  S     8:57PM   0:00.02 bash --login /Applications/Docker/Docker Quickstart Terminal.app/Contents/Resources/Scripts/start.sh
+archopposition  13478   0.0  0.1  2452852   2236 s003  S     8:57PM   0:00.02 -bash
+root            13477   0.0  0.2  2469468   9148 s003  Ss    8:57PM   0:00.04 login -pfl archopposition /bin/bash -c exec -la bash /bin/bash
+_spotlight      13347   0.0  0.5  2501824  21948   ??  S     8:56PM   0:00.21 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+_spotlight      13346   0.0  0.5  2501824  21948   ??  S     8:56PM   0:00.20 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+_spotlight      13345   0.0  0.4  2501408  17852   ??  S     8:56PM   0:00.10 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+_spotlight      11680   0.0  0.4  2501408  17888   ??  S     8:51PM   0:00.11 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+archopposition  11071   0.0  0.1 556636936   5284   ??  S     8:46PM   0:00.06 /Applications/Docker.app/Contents/MacOS/com.docker.driver.amd64-linux -db /Users/archopposition/Library/Containers/com.docker.docker/Data/s40 -osxfs-volume /Users/archopposition/Library/Containers/com.docker.docker/Data/s30 -slirp /Users/archopposition/Library/Containers/com.docker.docker/Data/s50 -vmnet /var/tmp/com.docker.vmnetd.socket -port /Users/archopposition/Library/Containers/com.docker.docker/Data/s51 -vsock /Users/archopposition/Library/Containers/com.docker.docker/Data -docker /Users/archopposition/Library/Containers/com.docker.docker/Data/s60 -addr fd:3 -debug
+archopposition  11070   0.0  0.1 556632028   4464   ??  S     8:46PM   0:00.07 /Applications/Docker.app/Contents/MacOS/com.docker.osx.hyperkit.linux
+archopposition  11069   0.0  0.3 556686096  11324   ??  Ss    8:46PM   0:00.65 com.docker.driver.amd64-linux -db /Users/archopposition/Library/Containers/com.docker.docker/Data/s40 -osxfs-volume /Users/archopposition/Library/Containers/com.docker.docker/Data/s30 -slirp /Users/archopposition/Library/Containers/com.docker.docker/Data/s50 -vmnet /var/tmp/com.docker.vmnetd.socket -port /Users/archopposition/Library/Containers/com.docker.docker/Data/s51 -vsock /Users/archopposition/Library/Containers/com.docker.docker/Data -docker /Users/archopposition/Library/Containers/com.docker.docker/Data/s60 -addr fd:3 -debug
+archopposition  11068   0.0  0.2 556636684   7012   ??  Ss    8:46PM   0:00.43 com.docker.osx.hyperkit.linux
+archopposition  11067   0.0  0.1  2513388   2760   ??  Ss    8:46PM   0:05.17 com.docker.slirp --db /Users/archopposition/Library/Containers/com.docker.docker/Data/s40 --ethernet fd:3 --port fd:4 --vsock-path /Users/archopposition/Library/Containers/com.docker.docker/Data/@connect --max-connections 900
+archopposition  11066   0.0  0.1  2476848   4608   ??  Ss    8:46PM   0:00.30 com.docker.osxfs --address fd:3 --connect /Users/archopposition/Library/Containers/com.docker.docker/Data/@connect --control fd:4 --volume-control fd:5 --database /Users/archopposition/Library/Containers/com.docker.docker/Data/s40
+archopposition  11065   0.0  0.1  2476384   4112   ??  Ss    8:46PM   0:01.25 com.docker.db --url fd:3 --git /Users/archopposition/Library/Containers/com.docker.docker/Data/database
+archopposition  11063   0.0  0.1 556623836   4472   ??  S     8:46PM   0:00.09 /Applications/Docker.app/Contents/MacOS/com.docker.osx.hyperkit.linux -watchdog fd:0
+archopposition  11061   0.0  0.2 556677672   6668   ??  S     8:46PM   0:00.08 /Applications/Docker.app/Contents/MacOS/com.docker.osx.hyperkit.linux -watchdog fd:0
+
+USER              PID  %CPU %MEM      VSZ    RSS   TT  STAT STARTED      TIME COMMAND
+archopposition  11059   0.0  0.2  2470256   6360   ??  S     8:46PM   0:00.02 /usr/libexec/loginitemregisterd
+root            11056   0.0  0.1  2452608   3620   ??  Ss    8:46PM   0:00.02 /Library/PrivilegedHelperTools/com.docker.vmnetd
+archopposition  11037   0.0  0.2  2498144   8380   ??  Ss    8:46PM   0:00.48 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+archopposition  11027   0.0  1.4  2641860  56724   ??  S     8:46PM   0:12.53 /Applications/Docker.app/Contents/MacOS/Docker -psn_0_1097996
+archopposition   9499   0.0  0.0  2461044      4 s001  S+    8:31PM   0:00.11 -bash
+root             9498   0.0  0.0  2469468    348 s001  Ss    8:31PM   0:00.04 login -pf archopposition
+archopposition   7065   0.0  0.2  2497476  10232   ??  S     8:12PM   0:00.44 /usr/libexec/secinitd
+archopposition   6345   0.0  0.2  3630892   6524   ??  Ss    8:09PM   0:01.32 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+archopposition   4434   0.0  0.0   878052   1524   ??  S     7:32PM   0:11.73 /Applications/TextWrangler.app/Contents/MacOS/TextWrangler -psn_0_1024250
+root             4371   0.0  0.2  2498560   6592   ??  Ss    7:28PM   0:08.07 /usr/libexec/syspolicyd
+archopposition   4370   0.0  0.2  2500556  10184   ??  Ss    7:28PM   0:00.40 /System/Library/PrivateFrameworks/XprotectFramework.framework/Versions/A/XPCServices/XprotectService.xpc/Contents/MacOS/XprotectService
+archopposition   4350   0.0  0.0  2461044   1108 s000  S     7:27PM   0:00.65 -bash
+root             4349   0.0  0.0  2469468    344 s000  Ss    7:27PM   0:00.04 login -pf archopposition
+_netbios         4299   0.0  0.1  2472264   2588   ??  SNs   7:21PM   0:00.10 /usr/sbin/netbiosd
+archopposition   4287   0.0  0.6  2547056  26496   ??  S     7:20PM   0:00.59 /System/Library/CoreServices/CoreServicesUIAgent.app/Contents/MacOS/CoreServicesUIAgent
+archopposition   4286   0.0  2.4  3805948  99316   ??  S     7:20PM  16:05.69 /Applications/Firefox.app/Contents/MacOS/firefox
+_softwareupdate  3979   0.0  0.0  2496960    780   ??  Ss    6:35PM   0:00.45 /System/Library/CoreServices/Software Update.app/Contents/Resources/softwareupdate_download_service
+archopposition   3896   0.0  0.0  2496884   1708   ??  Ss    6:34PM   0:00.12 /Library/Frameworks/iTunesLibrary.framework/Versions/A/XPCServices/com.apple.iTunesLibraryService.xpc/Contents/MacOS/com.apple.iTunesLibraryService
+archopposition   3869   0.0  0.0  2470744    808   ??  Ss    6:34PM   0:00.11 /System/Library/PrivateFrameworks/AssistantServices.framework/Versions/A/XPCServices/media-indexer.xpc/Contents/MacOS/media-indexer
+archopposition   3843   0.0  0.0  2496264   1668   ??  S     6:34PM   0:00.25 /System/Library/CoreServices/mapspushd
+root             3840   0.0  0.0  2453552    336   ??  SNs   6:34PM   0:00.01 /usr/libexec/periodic-wrapper daily
+
+USER              PID  %CPU %MEM      VSZ    RSS   TT  STAT STARTED      TIME COMMAND
+archopposition   3581   0.0  0.0  2454016      8   ??  S     6:07PM   0:00.04 /usr/bin/ssh-agent -l
+archopposition   3433   0.0  0.0  2496964    896   ??  S     5:53PM   0:00.07 /usr/libexec/SafariPlugInUpdateNotifier
+archopposition   3338   0.0  0.0  2497044    352   ??  S     5:51PM   0:00.07 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker -s mdworker-sizing -c MDSSizingWorker -m com.apple.mdworker.sizing
+archopposition   3289   0.0  0.0  2499488   1720   ??  Ss    5:50PM   0:00.68 /System/Library/PrivateFrameworks/SafariShared.framework/Versions/A/XPCServices/com.apple.Safari.SearchHelper.xpc/Contents/MacOS/com.apple.Safari.SearchHelper
+archopposition   3285   0.0  0.0  2496124    344   ??  Ss    5:50PM   0:00.07 /System/Library/PrivateFrameworks/SafariShared.framework/Versions/A/XPCServices/com.apple.Safari.ImageDecoder.xpc/Contents/MacOS/com.apple.Safari.ImageDecoder
+archopposition   3279   0.0  0.1  3564956   2332   ??  Ss    5:50PM   0:03.61 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.Networking.xpc/Contents/MacOS/com.apple.WebKit.Networking
+archopposition   3278   0.0  0.5  3707032  21472   ??  S     5:50PM   0:10.84 /Applications/Safari.app/Contents/MacOS/Safari
+archopposition   3265   0.0  0.0  2470480    776   ??  S     5:49PM   0:00.07 /System/Library/PrivateFrameworks/StorageManagement.framework/Resources/diskspaced
+archopposition   3264   0.0  0.1  2517188   2260   ??  S     5:49PM   0:00.36 /System/Library/CoreServices/EscrowSecurityAlert.app/Contents/MacOS/EscrowSecurityAlert
+root             3215   0.0  0.0  2469980    708   ??  Ss    5:49PM   0:00.03 /usr/sbin/aslmanager -s /var/log/eventmonitor
+root             3162   0.0  0.1  2495200   4036   ??  Ss   Fri12AM   0:00.69 /usr/libexec/taskgated -s
+archopposition   3155   0.0  0.0  2496388   1916   ??  S    Fri12AM   0:00.13 /System/Library/PrivateFrameworks/BookKit.framework/Versions/A/XPCServices/com.apple.BKAgentService.xpc/Contents/MacOS/com.apple.BKAgentService
+archopposition   3152   0.0  0.0  2495312    892   ??  S    Fri12AM   0:00.11 /Applications/iBooks.app/Contents/PlugIns/DiskSpaceEfficiency.appex/Contents/MacOS/DiskSpaceEfficiency
+root             2904   0.0  0.0  2469460    376   ??  S    Thu11PM   0:00.07 /usr/sbin/distnoted agent
+archopposition   2470   0.0  0.0  2495908    576   ??  S    Thu11PM   0:00.13 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdwrite
+archopposition   2261   0.0  0.1  2522364   3824   ??  S    Thu10PM   0:06.66 /System/Library/CoreServices/Siri.app/Contents/MacOS/Siri launchd
+root             2219   0.0  0.1  2496332   4868   ??  Ss   Thu10PM   0:00.93 /usr/libexec/amfid
+root             1835   0.0  0.0  2470336   1660   ??  Ss   Thu09PM   0:00.14 /usr/libexec/ApplicationFirewall/socketfilterfw
+root             1535   0.0  0.1  2540524   6072   ??  Ss   Thu09PM   0:05.15 /usr/sbin/spindump
+archopposition   1260   0.0  0.0  2445824      8   ??  Ss   Thu08PM   0:00.00 ssh-agent
+archopposition   1169   0.0  0.0  2498144    608   ??  Ss   Thu08PM   0:00.14 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+
+USER              PID  %CPU %MEM      VSZ    RSS   TT  STAT STARTED      TIME COMMAND
+archopposition   1168   0.0  0.0  2555156   1660   ??  S    Thu08PM   0:00.60 /System/Library/CoreServices/OSDUIHelper.app/Contents/MacOS/OSDUIHelper
+archopposition    965   0.0  0.0  2469948    584   ??  Ss   Thu08PM   0:00.03 /Applications/Preview.app/Contents/XPCServices/com.apple.Preview.TrustedBookmarksService.xpc/Contents/MacOS/com.apple.Preview.TrustedBookmarksService
+archopposition    964   0.0  0.0  2499076    596   ??  Ss   Thu08PM   0:00.38 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+archopposition    960   0.0  0.1  2859892   5724   ??  S    Thu08PM   0:32.57 /Applications/Preview.app/Contents/MacOS/Preview -psn_0_520319
+archopposition    921   0.0  0.0  2473660    592   ??  Ss   Thu08PM   0:00.10 /System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/XPCServices/com.apple.CommerceKit.TransactionService.xpc/Contents/MacOS/com.apple.CommerceKit.TransactionService
+archopposition    852   0.0  0.0  2497120    608   ??  Ss   Thu08PM   0:00.11 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+archopposition    851   0.0  0.0  2499620   1388   ??  Ss   Thu08PM   0:00.34 /System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/XPCServices/com.apple.CommerceKit.TransactionService.xpc/Contents/MacOS/com.apple.CommerceKit.TransactionService
+archopposition    850   0.0  1.5  2898460  62444   ??  S    Thu08PM   3:44.29 /Applications/Utilities/Terminal.app/Contents/MacOS/Terminal
+archopposition    848   0.0  0.0  2499520    588   ??  Ss   Thu08PM   0:00.08 /System/Library/PrivateFrameworks/SafariShared.framework/Versions/A/XPCServices/com.apple.Safari.History.xpc/Contents/MacOS/com.apple.Safari.History
+archopposition    840   0.0  0.0  2469976    588   ??  S    Thu08PM   0:00.09 /System/Library/Frameworks/MediaAccessibility.framework/Versions/A/XPCServices/com.apple.accessibility.mediaaccessibilityd.xpc/Contents/MacOS/com.apple.accessibility.mediaaccessibilityd
+archopposition    829   0.0  0.1  2577932   2128   ??  S    Thu08PM   0:00.85 /System/Library/Services/AppleSpell.service/Contents/MacOS/AppleSpell -psn_0_356439
+archopposition    824   0.0  0.0  2511176   2080   ??  S    Thu08PM   0:03.67 /System/Library/PrivateFrameworks/SafariSafeBrowsing.framework/com.apple.Safari.SafeBrowsing.Service
+archopposition    821   0.0  0.0  2495988   1088   ??  S    Thu08PM   0:07.78 /usr/libexec/SafariCloudHistoryPushAgent
+archopposition    812   0.0  0.0  2498964    584   ??  Ss   Thu08PM   0:00.15 /System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/XPCServices/com.apple.CommerceKit.TransactionService.xpc/Contents/MacOS/com.apple.CommerceKit.TransactionService
+archopposition    806   0.0  0.0  2469684    588   ??  S    Thu08PM   0:00.03 /System/Library/PrivateFrameworks/StoreXPCServices.framework/Versions/A/XPCServices/com.apple.appstore.PluginXPCService.xpc/Contents/MacOS/com.apple.appstore.PluginXPCService
+root              804   0.0  0.0  2494932    340   ??  Ss   Thu08PM   0:00.04 /System/Library/Frameworks/CoreMediaIO.framework/Versions/A/XPCServices/com.apple.cmio.registerassistantservice.xpc/Contents/MacOS/com.apple.cmio.registerassistantservice
+archopposition    802   0.0  0.1  2522124   3216   ??  S    Thu08PM   0:00.35 /System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/storeuid.app/Contents/MacOS/storeuid
+archopposition    788   0.0  0.0  2471068    600   ??  S    Thu08PM   0:00.05 /usr/libexec/USBAgent
+root              785   0.0  0.0  2461704    576   ??  Ss   Thu08PM   0:00.03 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+archopposition    779   0.0  0.0  2469632    956   ??  S    Thu08PM   0:00.12 /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/XPCServices/com.apple.hiservices-xpcservice.xpc/Contents/MacOS/com.apple.hiservices-xpcservice
+archopposition    776   0.0  0.0  2498144    608   ??  Ss   Thu08PM   0:00.14 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+
+USER              PID  %CPU %MEM      VSZ    RSS   TT  STAT STARTED      TIME COMMAND
+archopposition    765   0.0  0.0  2541660   1444   ??  S    Thu08PM   0:01.86 /System/Library/PrivateFrameworks/CoreSuggestions.framework/Versions/A/Support/suggestd
+root              754   0.0  0.0  2495740   1436   ??  Ss   Thu05PM   0:00.16 /usr/libexec/rtcreportingd
+_datadetectors    753   0.0  0.0  2481796    332   ??  Ss   Thu05PM   0:00.48 /usr/libexec/DataDetectorsSourceAccess
+root              742   0.0  0.0  2454476    332   ??  S    Thu05PM   0:01.86 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdflagwriter
+archopposition    734   0.0  0.1  2501164   2832   ??  S    Thu05PM   0:00.66 /usr/libexec/keyboardservicesd
+archopposition    717   0.0  0.0  2462668    308   ??  S    Thu05PM   0:00.12 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdflagwriter
+root              713   0.0  0.0  2495748    576   ??  Ss   Thu05PM   0:00.05 /System/Library/Frameworks/PreferencePanes.framework/Versions/A/XPCServices/cacheAssistant.xpc/Contents/MacOS/cacheAssistant
+root              696   0.0  0.0  2497308    592   ??  Ss   Thu05PM   0:00.21 /usr/libexec/wifivelocityd
+archopposition    695   0.0  0.0  2496804    692   ??  S    Thu05PM   0:00.73 /usr/libexec/WiFiVelocityAgent
+archopposition    694   0.0  0.0  2498144    604   ??  Ss   Thu05PM   0:00.18 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+archopposition    693   0.0  0.0  2495728    336   ??  S    Thu05PM   0:00.07 /System/Library/PrivateFrameworks/CharacterPicker.framework/Versions/A/XPCServices/com.apple.CharacterPicker.FileService.xpc/Contents/MacOS/com.apple.CharacterPicker.FileService
+archopposition    688   0.0  0.1  2520968   3204   ??  S    Thu05PM   0:00.35 /System/Library/PrivateFrameworks/CommerceKit.framework/Resources/LaterAgent.app/Contents/MacOS/LaterAgent
+root              687   0.0  0.0  2469648    344   ??  Ss   Thu05PM   0:00.09 /System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/storeinstalld
+archopposition    686   0.0  0.0  2469936    580   ??  S    Thu05PM   0:00.05 /System/Library/PrivateFrameworks/KerberosHelper/Helpers/DiskUnmountWatcher
+root              685   0.0  0.0  2470084    344   ??  Ss   Thu05PM   0:00.13 /System/Library/CoreServices/SubmitDiagInfo server-init
+archopposition    681   0.0  0.0  2496164    356   ??  S    Thu05PM   0:00.16 /System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/storelegacy
+archopposition    679   0.0  0.0  2470828    344   ??  S    Thu05PM   0:00.42 /System/Library/CoreServices/Software Update.app/Contents/Resources/softwareupdate_notify_agent
+archopposition    678   0.0  0.3  2706192  12628   ??  Ss   Thu05PM   0:14.03 /System/Library/Input Methods/EmojiFunctionRowIM.app/Contents/PlugIns/EmojiFunctionRowIM_Extension.appex/Contents/MacOS/EmojiFunctionRowIM_Extension
+archopposition    672   0.0  0.0  2471396   1592   ??  S    Thu05PM   0:00.10 /System/Library/Frameworks/CryptoTokenKit.framework/ctkd -tw
+archopposition    670   0.0  0.0  2497072    592   ??  Ss   Thu05PM   0:00.16 /System/Library/PrivateFrameworks/CloudDocsDaemon.framework/XPCServices/ContainerMetadataExtractor.xpc/Contents/MacOS/ContainerMetadataExtractor
+archopposition    669   0.0  0.0  2469704   2080   ??  S    Thu05PM   0:00.11 /System/Library/Frameworks/CryptoTokenKit.framework/ctkahp.bundle/Contents/MacOS/ctkahp
+
+USER              PID  %CPU %MEM      VSZ    RSS   TT  STAT STARTED      TIME COMMAND
+archopposition    668   0.0  0.1  2497224   4024   ??  S    Thu05PM   0:10.57 /System/Library/PrivateFrameworks/ViewBridge.framework/Versions/A/XPCServices/ViewBridgeAuxiliary.xpc/Contents/MacOS/ViewBridgeAuxiliary
+root              665   0.0  0.0  2496652   1500   ??  Ss   Thu05PM   1:05.79 /System/Library/PrivateFrameworks/AmbientDisplay.framework/Versions/A/XPCServices/com.apple.AmbientDisplayAgent.xpc/Contents/MacOS/com.apple.AmbientDisplayAgent
+archopposition    663   0.0  0.0  2495884   1128   ??  Ss   Thu05PM   0:00.81 /System/Library/PrivateFrameworks/CoreWLANKit.framework/Versions/A/XPCServices/WiFiProxy.xpc/Contents/MacOS/WiFiProxy
+archopposition    661   0.0  0.0  2473660    584   ??  Ss   Thu05PM   0:00.12 /System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/XPCServices/com.apple.CommerceKit.TransactionService.xpc/Contents/MacOS/com.apple.CommerceKit.TransactionService
+archopposition    655   0.0  0.0  2498144    608   ??  Ss   Thu05PM   0:00.18 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+archopposition    654   0.0  0.0  2498144    608   ??  Ss   Thu05PM   0:00.21 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+archopposition    650   0.0  0.1  2498348   3268   ??  S    Thu05PM   0:02.24 /System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/storeassetd
+archopposition    649   0.0  0.1  2516168   4944   ??  S    Thu05PM   0:03.88 /System/Library/PrivateFrameworks/CoreParsec.framework/parsecd
+archopposition    643   0.0  0.1  2638044   5384   ??  S    Thu05PM   0:02.98 /System/Library/CoreServices/Spotlight.app/Contents/MacOS/Spotlight
+archopposition    639   0.0  0.0  2495336    664   ??  S    Thu05PM   0:00.09 /System/Library/PrivateFrameworks/CallHistory.framework/Support/CallHistoryPluginHelper
+archopposition    638   0.0  0.0  2495472    588   ??  S    Thu05PM   0:00.19 /System/Library/Frameworks/LocalAuthentication.framework/Support/coreauthd
+root              632   0.0  0.0  2469696    344   ??  Ss   Thu05PM   0:00.06 /System/Library/Frameworks/CryptoTokenKit.framework/ctkahp.bundle/Contents/MacOS/ctkahp -d
+archopposition    629   0.0  0.0  2522472   2020   ??  Ss   Thu05PM   0:00.58 /System/Library/CoreServices/Dock.app/Contents/XPCServices/com.apple.dock.extra.xpc/Contents/MacOS/com.apple.dock.extra
+archopposition    628   0.0  0.0  2498144    612   ??  Ss   Thu05PM   0:00.22 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+archopposition    627   0.0  0.0  2498144    608   ??  Ss   Thu05PM   0:00.60 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+archopposition    624   0.0  0.0  2514732    620   ??  S    Thu05PM   0:01.08 /System/Library/PrivateFrameworks/MessagesKit.framework/Resources/soagent.app/Contents/MacOS/soagent
+archopposition    622   0.0  0.1  2496032   3092   ??  S    Thu05PM   0:00.99 /System/Library/CoreServices/diagnostics_agent
+archopposition    621   0.0  0.0  2517756   2004   ??  S    Thu05PM   0:00.34 /System/Library/CoreServices/WiFiAgent.app/Contents/MacOS/WiFiAgent
+archopposition    619   0.0  0.1  2521944   3532   ??  S    Thu05PM   0:00.53 /System/Library/PrivateFrameworks/Noticeboard.framework/Versions/A/Resources/nbagent.app/Contents/MacOS/nbagent
+archopposition    618   0.0  0.0  2496272    668   ??  S    Thu05PM   0:00.42 /System/Library/CoreServices/cloudpaird
+archopposition    617   0.0  0.1  2517228   2720   ??  S    Thu05PM   0:00.40 /System/Library/CoreServices/AirPlayUIAgent.app/Contents/MacOS/AirPlayUIAgent --launchd
+
+USER              PID  %CPU %MEM      VSZ    RSS   TT  STAT STARTED      TIME COMMAND
+archopposition    616   0.0  0.0  2495076    640   ??  S    Thu05PM   0:00.11 /System/Library/PrivateFrameworks/AskPermission.framework/Versions/A/Resources/askpermissiond
+archopposition    612   0.0  0.1  2621876   6268   ??  S    Thu05PM   0:01.50 /System/Library/CoreServices/iconservicesagent
+archopposition    611   0.0  0.0  2497140   1716   ??  S    Thu05PM   0:00.37 /System/Library/Image Capture/Support/icdd
+archopposition    608   0.0  0.1  2513744   2864   ??  S    Thu05PM   0:00.66 /System/Library/Frameworks/InputMethodKit.framework/Resources/imklaunchagent
+archopposition    607   0.0  0.1  2603812   3348   ??  S    Thu05PM   0:04.52 /System/Library/CoreServices/NotificationCenter.app/Contents/MacOS/NotificationCenter
+archopposition    604   0.0  0.0  2495060    620   ??  S    Thu05PM   0:00.15 /System/Library/CoreServices/SocialPushAgent.app/Contents/MacOS/SocialPushAgent
+archopposition    602   0.0  0.0  2471076   1368   ??  S    Thu05PM   0:00.12 /usr/libexec/spindump_agent
+archopposition    601   0.0  0.1  2517200   4380   ??  S    Thu05PM   0:00.34 /System/Library/CoreServices/FolderActionsDispatcher.app/Contents/MacOS/FolderActionsDispatcher
+archopposition    591   0.0  0.3  2585500  11504   ??  S    Thu05PM   0:07.46 /System/Library/CoreServices/SystemUIServer.app/Contents/MacOS/SystemUIServer
+archopposition    589   0.0  0.4  2653832  18632   ??  S    Thu05PM   0:55.86 /System/Library/CoreServices/Dock.app/Contents/MacOS/Dock
+archopposition    588   0.0  0.0  2495548    612   ??  Ss   Thu05PM   0:00.07 /System/Library/PrivateFrameworks/PhotoLibrary.framework/Versions/A/XPCServices/com.apple.PhotoIngestService.xpc/Contents/MacOS/com.apple.PhotoIngestService
+archopposition    584   0.0  0.0  2495404    348   ??  Ss   Thu05PM   0:00.10 /System/Library/PrivateFrameworks/PhotoLibraryPrivate.framework/Versions/A/Frameworks/PhotoLibraryServices.framework/Versions/A/XPCServices/com.apple.photomoments.xpc/Contents/MacOS/com.apple.photomoments
+archopposition    577   0.0  0.0  2496020    592   ??  S    Thu05PM   0:00.31 /System/Library/CoreServices/ScopedBookmarkAgent
+root              573   0.0  0.1  2472888   5144   ??  Ss   Thu05PM   0:01.79 /usr/sbin/filecoordinationd
+archopposition    570   0.0  0.0  2497324   1404   ??  S    Thu05PM   0:00.32 /System/Library/PrivateFrameworks/AssetCacheServices.framework/XPCServices/AssetCacheLocatorService.xpc/Contents/MacOS/AssetCacheLocatorService -a
+root              565   0.0  0.0  2496336   1412   ??  Ss   Thu05PM   0:00.25 /System/Library/PrivateFrameworks/AuthKit.framework/Versions/A/Support/akd
+archopposition    551   0.0  0.0  2476380    600   ??  S    Thu05PM   0:00.25 /System/Library/PrivateFrameworks/AssistantServices.framework/assistantd
+archopposition    547   0.0  0.0  2469560    640   ??  S    Thu05PM   0:00.16 /System/Library/PrivateFrameworks/CommunicationsFilter.framework/CMFSyncAgent.app/Contents/MacOS/CMFSyncAgent
+archopposition    531   0.0  0.1  2546576   4736   ??  S    Thu05PM   0:17.41 /System/Library/Frameworks/ApplicationServices.framework/Frameworks/ATS.framework/Support/fontd
+archopposition    527   0.0  0.0  2494884    648   ??  S    Thu05PM   0:00.09 /System/Library/PrivateFrameworks/ProtectedCloudStorage.framework/Helpers/ProtectedCloudKeySyncing
+archopposition    526   0.0  0.0  2498064   1496   ??  S    Thu05PM   0:01.00 /System/Library/CoreServices/AppleIDAuthAgent
+
+USER              PID  %CPU %MEM      VSZ    RSS   TT  STAT STARTED      TIME COMMAND
+archopposition    523   0.0  0.0  2535092    592   ??  S    Thu05PM   0:00.87 /System/Library/PrivateFrameworks/PhotoLibraryPrivate.framework/Versions/A/Support/photolibraryd
+archopposition    522   0.0  0.2  2498528   6380   ??  S    Thu05PM   0:02.12 /System/Library/PrivateFrameworks/GeoServices.framework/Versions/A/XPCServices/com.apple.geod.xpc/Contents/MacOS/com.apple.geod
+archopposition    520   0.0  0.0  2469576    356   ??  S    Thu05PM   0:00.09 /System/Library/PrivateFrameworks/CoreFollowUp.framework/Versions/A/Support/followupd
+archopposition    519   0.0  0.0  2495424    584   ??  S    Thu05PM   0:00.15 /System/Library/PrivateFrameworks/CoreCDP.framework/Versions/A/Resources/cdpd
+archopposition    518   0.0  0.0  2496124   2000   ??  S    Thu05PM   0:00.95 /System/Library/PrivateFrameworks/CloudServices.framework/Versions/A/XPCServices/com.apple.sbd.xpc/Contents/MacOS/com.apple.sbd
+archopposition    517   0.0  0.1  2495700   2444   ??  S    Thu05PM   0:00.66 /System/Library/PrivateFrameworks/CloudPhotoServices.framework/Versions/A/Frameworks/CloudPhotosConfigurationXPC.framework/Versions/A/XPCServices/com.apple.CloudPhotosConfiguration.xpc/Contents/MacOS/com.apple.CloudPhotosConfiguration
+archopposition    516   0.0  0.1  2496400   2764   ??  S    Thu05PM   0:00.37 /usr/libexec/swcd
+archopposition    515   0.0  0.1  2495668   3916   ??  S    Thu05PM   0:00.47 /System/Library/CoreServices/pbs
+archopposition    505   0.0  0.1  2495116   2432   ??  S    Thu05PM   0:00.29 /System/Library/PrivateFrameworks/QuickLookThumbnailing.framework/Support/com.apple.quicklook.ThumbnailsAgent
+archopposition    504   0.0  0.1  2494748   2400   ??  S    Thu05PM   0:00.33 /System/Library/PrivateFrameworks/GeoServices.framework/geodMachServiceBridge
+archopposition    502   0.0  0.1  3594700   3396   ??  S    Thu05PM   0:05.69 /System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/storedownloadd
+archopposition    501   0.0  0.2  2498456   6612   ??  S    Thu05PM   0:03.19 /System/Library/PrivateFrameworks/CloudDocsDaemon.framework/Versions/A/Support/bird
+archopposition    500   0.0  0.1  2535764   4396   ??  S    Thu05PM   0:01.57 /System/Library/CoreServices/cloudphotosd.app/Contents/MacOS/cloudphotosd
+archopposition    495   0.0  0.0  2496100   1348   ??  Ss   Thu05PM   0:00.30 /System/Library/PrivateFrameworks/IMFoundation.framework/XPCServices/IMRemoteURLConnectionAgent.xpc/Contents/MacOS/IMRemoteURLConnectionAgent
+archopposition    492   0.0  0.0  2497480   1432   ??  S    Thu05PM   0:00.51 /usr/libexec/fmfd
+archopposition    491   0.0  0.2  2514388   7028   ??  S    Thu05PM   0:14.46 /System/Library/PrivateFrameworks/CloudKitDaemon.framework/Support/cloudd
+archopposition    490   0.0  0.0  2496212   1556   ??  Ss   Thu05PM   0:00.45 /System/Library/PrivateFrameworks/IMFoundation.framework/XPCServices/IMRemoteURLConnectionAgent.xpc/Contents/MacOS/IMRemoteURLConnectionAgent
+archopposition    489   0.0  0.2  2506216   9352   ??  S    Thu05PM   0:02.52 /usr/libexec/sharingd
+archopposition    488   0.0  0.0  2469448    624   ??  S    Thu05PM   0:00.09 /System/Library/PrivateFrameworks/MediaRemote.framework/Support/mediaremoteagent
+archopposition    487   0.0  0.1  2497648   3796   ??  S    Thu05PM   0:01.19 /System/Library/PrivateFrameworks/UserActivity.framework/Agents/useractivityd
+archopposition    486   0.0  0.0  2499316    668   ??  S    Thu05PM   0:00.23 /System/Library/PrivateFrameworks/CallHistory.framework/Support/CallHistorySyncHelper
+
+USER              PID  %CPU %MEM      VSZ    RSS   TT  STAT STARTED      TIME COMMAND
+archopposition    485   0.0  0.2  2510680   8216   ??  S    Thu05PM   0:03.38 /System/Library/PrivateFrameworks/GameCenterFoundation.framework/Versions/A/gamed
+archopposition    484   0.0  0.1  2499192   2800   ??  S    Thu05PM   0:02.90 /System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/storeaccountd
+archopposition    482   0.0  0.1  2504496   2228   ??  Ss   Thu05PM   0:05.78 /System/Library/PrivateFrameworks/CalendarNotification.framework/Versions/A/XPCServices/CalNCService.xpc/Contents/MacOS/CalNCService
+archopposition    480   0.0  0.0  2495316    584   ??  S    Thu05PM   0:00.25 /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/DictionaryServices.framework/Versions/A/XPCServices/com.apple.DictionaryServiceHelper.xpc/Contents/MacOS/com.apple.DictionaryServiceHelper
+archopposition    479   0.0  0.1  2498616   2328   ??  S    Thu05PM   0:01.04 /System/Library/PrivateFrameworks/PassKitCore.framework/passd
+archopposition    475   0.0  0.0  2495124    952   ??  S    Thu05PM   0:01.37 /System/Library/PrivateFrameworks/ContactsAgent.framework/Executables/ContactsAgent
+archopposition    466   0.0  0.1  2496428   5744   ??  S    Thu05PM   0:01.06 /System/Library/CoreServices/sharedfilelistd
+archopposition    463   0.0  0.0  2486968   1652   ??  S    Thu05PM   0:00.28 /usr/libexec/pboard
+archopposition    459   0.0  0.1  2495416   4956   ??  S    Thu05PM   0:04.35 /usr/libexec/pkd
+archopposition    458   0.0  0.1  2498756   5652   ??  S    Thu05PM   0:08.73 /usr/libexec/nsurlstoraged
+archopposition    457   0.0  0.0  2506008   1476   ??  S    Thu05PM   0:02.86 /System/Library/PrivateFrameworks/AuthKit.framework/Versions/A/Support/akd
+archopposition    453   0.0  0.0  2502344    580   ??  S    Thu05PM   0:00.13 /System/Library/PrivateFrameworks/PhotoAnalysis.framework/Versions/A/Support/photoanalysisd
+archopposition    451   0.0  0.2  2514900   6628   ??  S    Thu05PM   0:13.54 /System/Library/PrivateFrameworks/CalendarAgent.framework/Executables/CalendarAgent
+archopposition    450   0.0  0.0  2497156    664   ??  S    Thu05PM   0:00.11 /usr/libexec/networkserviceproxy
+archopposition    448   0.0  0.0  2498024   1560   ??  S    Thu05PM   0:07.81 /usr/libexec/nsurlsessiond
+archopposition    447   0.0  0.0  2496976   1148   ??  S    Thu05PM   0:01.58 /usr/sbin/usernoted
+archopposition    445   0.0  0.0  2469776    632   ??  S    Thu05PM   0:00.10 /System/Library/Frameworks/Security.framework/Versions/A/Resources/IDSKeychainSyncingProxy.bundle/Contents/MacOS/IDSKeychainSyncingProxy
+archopposition    444   0.0  0.0  2495544    348   ??  S    Thu05PM   0:00.27 /System/Library/PrivateFrameworks/IMDPersistence.framework/XPCServices/IMDPersistenceAgent.xpc/Contents/MacOS/IMDPersistenceAgent
+archopposition    443   0.0  0.0  2469672   1468   ??  S    Thu05PM   0:00.20 /System/Library/Frameworks/Security.framework/Versions/A/Resources/CloudKeychainProxy.bundle/Contents/MacOS/CloudKeychainProxy
+archopposition    441   0.0  0.1  2469676   4252   ??  S    Thu05PM   0:00.99 /System/Library/Frameworks/AddressBook.framework/Executables/ContactsAccountsService
+archopposition    439   0.0  0.0  2498336    640   ??  S    Thu05PM   0:00.72 /System/Library/PrivateFrameworks/IMCore.framework/imagent.app/Contents/MacOS/imagent
+
+USER              PID  %CPU %MEM      VSZ    RSS   TT  STAT STARTED      TIME COMMAND
+archopposition    438   0.0  0.1  2507488   4824   ??  S    Thu05PM   0:02.57 /System/Library/PrivateFrameworks/IDS.framework/identityservicesd.app/Contents/MacOS/identityservicesd
+archopposition    437   0.0  0.1  2506320   3476   ??  S    Thu05PM   0:01.87 /System/Library/PrivateFrameworks/TelephonyUtilities.framework/callservicesd
+archopposition    436   0.0  0.1  2496816   5584   ??  S    Thu05PM   0:01.05 /System/Library/PrivateFrameworks/TCC.framework/Resources/tccd
+archopposition    435   0.0  0.1  2497252   4124   ??  S    Thu05PM   0:02.63 /usr/libexec/secd
+archopposition    434   0.0  0.2  2527952   7824   ??  S    Thu05PM   0:12.65 /System/Library/Frameworks/Accounts.framework/Versions/A/Support/accountsd
+archopposition    431   0.0  0.0  2499068    616   ??  S    Thu05PM   0:00.66 /usr/libexec/languageassetd --firstLogin
+archopposition    429   0.0  0.1  2501036   6032   ??  S    Thu05PM   0:19.57 /usr/libexec/trustd --agent
+archopposition    428   0.0  0.2  2501652   9616   ??  S    Thu05PM   0:10.99 /usr/libexec/lsd
+archopposition    427   0.0  0.1  2518380   4544   ??  S    Thu05PM   0:04.78 /System/Library/Frameworks/CoreTelephony.framework/Support/CommCenter -L
+archopposition    424   0.0  0.1  2469468   2492   ??  S    Thu05PM   0:06.46 /usr/sbin/distnoted agent
+archopposition    422   0.0  0.2  2497836   6544   ??  S    Thu05PM   0:03.15 /usr/libexec/UserEventAgent (Aqua)
+archopposition    399   0.0  0.2  2569464   6772   ??  Ss   Thu05PM   0:07.63 /System/Library/CoreServices/loginwindow.app/Contents/MacOS/loginwindow
+archopposition    398   0.0  0.1  2470064   4076   ??  S    Thu05PM   0:06.05 /usr/sbin/cfprefsd agent
+_spotlight        376   0.0  0.0  2498124    464   ??  S    Thu05PM   0:15.34 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker -s mdworker-sizing -c MDSSizingWorker -m com.apple.mdworker.sizing
+_spotlight        375   0.0  0.0  2469460    896   ??  S    Thu05PM   0:00.21 /usr/sbin/distnoted agent
+root              368   0.0  0.0  2470452    576   ??  Ss   Thu05PM   0:00.05 /System/Library/PrivateFrameworks/InstallerDiagnostics.framework/Versions/A/Resources/installerdiagd
+root              367   0.0  0.0  2501784    788   ??  Ss   Thu05PM   0:00.59 /System/Library/PrivateFrameworks/SoftwareUpdate.framework/Resources/suhelperd
+_softwareupdate   366   0.0  0.1  4010860   3408   ??  Ss   Thu05PM   2:19.94 /System/Library/CoreServices/Software Update.app/Contents/Resources/softwareupdated
+root              364   0.0  0.0  2496240    340   ??  Ss   Thu05PM   0:03.45 /System/Library/PrivateFrameworks/StreamingZip.framework/Versions/A/XPCServices/com.apple.StreamingUnzipService.xpc/Contents/MacOS/com.apple.StreamingUnzipService
+_assetcache       362   0.0  0.0  2497376   1304   ??  Ss   Thu05PM   0:00.87 /System/Library/PrivateFrameworks/AssetCacheServices.framework/XPCServices/AssetCacheLocatorService.xpc/Contents/MacOS/AssetCacheLocatorService -d
+root              348   0.0  0.0  2473040    980   ??  Ss   Thu05PM   0:02.07 /usr/sbin/ntpd -c /private/etc/ntp-restrict.conf -n -g -p /var/run/ntpd.pid -f /var/db/ntp.drift
+
+USER              PID  %CPU %MEM      VSZ    RSS   TT  STAT STARTED      TIME COMMAND
+_captiveagent     341   0.0  0.0  2497292   1276   ??  Ss   Thu05PM   0:00.47 /usr/libexec/captiveagent
+root              314   0.0  0.1  2499704   2580   ??  Ss   Thu05PM   0:01.16 /usr/sbin/systemsoundserverd
+root              309   0.0  0.1  2723236   2560   ??  Ss   Thu05PM   2:00.34 /System/Library/PrivateFrameworks/PackageKit.framework/Resources/system_installd
+root              303   0.0  0.2  2523452   8532   ??  Ss   Thu05PM   0:09.26 /System/Library/PrivateFrameworks/PackageKit.framework/Resources/installd
+root              302   0.0  0.1  2470444   2924   ??  Ss   Thu05PM   0:00.29 /System/Library/CoreServices/backupd.bundle/Contents/Resources/TMCacheDelete
+root              296   0.0  0.1  2496084   2996   ??  Ss   Thu05PM   0:00.11 /System/Library/PrivateFrameworks/TCC.framework/Resources/tccd system
+_nsurlstoraged    292   0.0  0.0  2470012    348   ??  Ss   Thu05PM   0:00.16 /usr/libexec/nsurlstoraged
+root              261   0.0  0.0  2496416    988   ??  Ss   Thu05PM   0:00.24 /usr/sbin/WirelessRadioManagerd
+root              257   0.0  0.0  2469684    336   ??  Ss   Thu05PM   0:00.03 /System/Library/PrivateFrameworks/FindMyMac.framework/Resources/FindMyMacd
+root              250   0.0  0.0  2498776   1488   ??  Ss   Thu05PM   0:00.55 /usr/libexec/findmydeviced
+root              237   0.0  0.0  2471164    336   ??  Ss   Thu05PM   0:00.14 /usr/libexec/securityd_service
+root              235   0.0  0.1  2495464   2944   ??  Ss   Thu05PM   0:00.14 /System/Library/Frameworks/LocalAuthentication.framework/Support/coreauthd
+root              225   0.0  0.0  2469696    588   ??  Ss   Thu05PM   0:00.05 corestoragehelperd
+root              222   0.0  0.0  2469984   1944   ??  Ss   Thu05PM   0:00.19 /System/Library/PrivateFrameworks/AccountPolicy.framework/XPCServices/com.apple.AccountPolicyHelper.xpc/Contents/MacOS/com.apple.AccountPolicyHelper
+_spotlight        199   0.0  0.1  2498300   3576   ??  S    Thu05PM   0:03.63 /usr/libexec/trustd --agent
+root              194   0.0  0.0  2469984   1776   ??  Ss   Thu05PM   0:01.80 sysmond
+root              192   0.0  0.2  2499396   7656   ??  Ss   Thu05PM   0:08.58 /System/Library/PrivateFrameworks/PerformanceAnalysis.framework/Versions/A/XPCServices/com.apple.PerformanceAnalysis.animationperfd.xpc/Contents/MacOS/com.apple.PerformanceAnalysis.animationperfd
+root              180   0.0  0.1  2471124   2380   ??  Ss   Thu05PM   0:00.59 /System/Library/Frameworks/Security.framework/Versions/A/XPCServices/com.apple.CodeSigningHelper.xpc/Contents/MacOS/com.apple.CodeSigningHelper
+root              175   0.0  0.0  2528948    792   ??  Ss   Thu05PM   0:00.27 /System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/CVMServer
+_networkd         172   0.0  0.2  2502068   8536   ??  Ss   Thu05PM   0:09.83 /usr/libexec/symptomsd
+root              168   0.0  0.0  2469396    344   ??  Ss   Thu05PM   0:00.05 /System/Library/CryptoTokenKit/com.apple.ifdreader.slotd/Contents/MacOS/com.apple.ifdreader
+
+USER              PID  %CPU %MEM      VSZ    RSS   TT  STAT STARTED      TIME COMMAND
+root              167   0.0  0.0  2461468    624   ??  Ss   Thu05PM   0:00.07 /usr/libexec/thermald
+root              166   0.0  0.0  2496272    348   ??  Ss   Thu05PM   0:00.21 /usr/libexec/usbd
+root              164   0.0  0.0  2469476    544   ??  Ss   Thu05PM   0:00.07 /usr/libexec/corestoraged
+root              163   0.0  0.1  2496408   5888   ??  Ss   Thu05PM   0:01.43 /usr/libexec/nehelper
+_nsurlsessiond    162   0.0  0.0  2498540   1456   ??  Ss   Thu05PM   0:04.65 /usr/libexec/nsurlsessiond --privileged
+root              160   0.0  0.0  2472048    616   ??  Ss   Thu05PM   0:00.16 /usr/sbin/systemstats --xpc
+root              157   0.0  0.5  3353640  20012   ??  Ss   Thu05PM   5:13.21 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mds_stores
+root              155   0.0  0.0  2469736    588   ??  Ss   Thu05PM   0:00.07 /usr/libexec/diagnosticd
+root              150   0.0  0.0  2445896    616   ??  Ss   Thu05PM   0:00.33 /usr/libexec/watchdogd
+root              149   0.0  0.1  2494744   2752   ??  Ss   Thu05PM   0:00.10 /System/Library/CoreServices/CrashReporterSupportHelper server-init
+root              146   0.0  0.0  2495848    540   ??  Ss   Thu05PM   0:01.34 /usr/sbin/mDNSResponderHelper
+root              145   0.0  0.0  2495948   1624   ??  Ss   Thu05PM   0:00.45 /System/Library/PrivateFrameworks/WirelessDiagnostics.framework/Support/awdd
+root              124   0.0  0.1  2471776   2352   ??  Ss   Thu05PM   0:04.69 /System/Library/PrivateFrameworks/CoreSymbolication.framework/coresymbolicationd
+_mdnsresponder    123   0.0  0.1  2498124   2344   ??  Ss   Thu05PM   0:10.02 /usr/sbin/mDNSResponder
+root              121   0.0  0.0  2539044    656   ??  Ss   Thu05PM   0:07.22 /usr/libexec/sandboxd
+root              117   0.0  0.0  2469980   2040   ??  Ss   Thu05PM   0:00.68 aslmanager
+root              115   0.0  0.0  2495864   1560   ??  Ss   Thu05PM   0:00.33 /System/Library/PrivateFrameworks/SystemAdministration.framework/XPCServices/writeconfig.xpc/Contents/MacOS/writeconfig
+root              114   0.0  0.2  2495712   6320   ??  Ss   Thu05PM   0:00.09 /usr/libexec/smd
+root              112   0.0  0.3  2505436  10792   ??  Ss   Thu05PM   0:15.21 /usr/libexec/lsd runAsRoot
+_ctkd             111   0.0  0.0  2471116    580   ??  Ss   Thu05PM   0:00.07 /System/Library/Frameworks/CryptoTokenKit.framework/ctkd -s
+root              110   0.0  0.0  2470176    592   ??  Ss   Thu05PM   0:00.06 /System/Library/Frameworks/PCSC.framework/Versions/A/XPCServices/com.apple.ctkpcscd.xpc/Contents/MacOS/com.apple.ctkpcscd
+
+USER              PID  %CPU %MEM      VSZ    RSS   TT  STAT STARTED      TIME COMMAND
+root              107   0.0  0.2  2500436   6324   ??  Ss   Thu05PM   0:17.06 /usr/libexec/trustd
+root              106   0.0  0.1  2499712   2548   ??  Ss   Thu05PM   0:00.46 /System/Library/CoreServices/sharedfilelistd --enable-legacy-services
+root            16496   0.0  0.1  2442400   2248 s003  R     9:09PM   0:00.01 /bin/ps auxh
+root               92   0.0  0.2  2511436   6372   ??  Ss   Thu05PM   0:02.36 /System/Library/Frameworks/Security.framework/Versions/A/XPCServices/authd.xpc/Contents/MacOS/authd
+_distnote          89   0.0  0.0  2469460   1012   ??  Ss   Thu05PM   0:01.34 /usr/sbin/distnoted daemon
+root               87   0.0  0.0  2496756   1556   ??  Ss   Thu05PM   0:00.52 /usr/libexec/AirPlayXPCHelper
+root               84   0.0  0.0  2461516    620   ??  Ss   Thu05PM   0:00.02 /usr/sbin/KernelEventAgent
+root               83   0.0  0.0  2469488    352   ??  Ss   Thu05PM   0:00.09 /System/Library/CoreServices/logind
+root               81   0.0  0.1  2502428   3692   ??  Ss   Thu05PM   0:00.54 /System/Library/PrivateFrameworks/GenerationalStorage.framework/Versions/A/Support/revisiond
+root               77   0.0  0.0  2469936    528   ??  Ss   Thu05PM   0:00.07 autofsd
+root               76   0.0  0.0  2497748   1196   ??  Ss   Thu05PM   0:01.38 /usr/sbin/blued
+root               74   0.0  0.1  2499880   4108   ??  Ss   Thu05PM   0:02.73 /usr/libexec/DuetHeuristic-BM
+_locationd         72   0.0  0.1  2501164   4108   ??  Ss   Thu05PM   0:02.77 /usr/libexec/locationd
+root               70   0.0  0.1  2498332   4228   ??  Ss   Thu05PM   0:11.57 /usr/sbin/securityd -i
+_usbmuxd           69   0.0  0.0  2470080    724   ??  Ss   Thu05PM   0:00.26 /System/Library/PrivateFrameworks/MobileDevice.framework/Versions/A/Resources/usbmuxd -launchd
+root               67   0.0  0.0  2496148    340   ??  Ss   Thu05PM   0:00.11 /System/Library/PrivateFrameworks/Noticeboard.framework/Versions/A/Resources/nbstated
+root               66   0.0  0.1  2503828   4668   ??  Ss   Thu05PM   0:04.72 /System/Library/PrivateFrameworks/ApplePushService.framework/apsd
+root               64   0.0  0.1  2496208   2844   ??  Ss   Thu05PM   0:00.37 /usr/sbin/wirelessproxd
+root               61   0.0  0.0  2469164   1100   ??  Ss   Thu05PM   0:15.90 /System/Library/CoreServices/ionodecache -k /var/db/ionodecache.json
+root               57   0.0  0.2  2503448   7408   ??  Ss   Thu05PM   0:04.78 /usr/libexec/coreduetd
+root               55   0.0  0.1  2494856   2600   ??  Ss   Thu05PM   0:01.76 /usr/libexec/diskarbitrationd
+
+USER              PID  %CPU %MEM      VSZ    RSS   TT  STAT STARTED      TIME COMMAND
+root               53   0.0  0.0  2518208    576   ??  Ss   Thu05PM   0:00.24 /System/Library/CoreServices/iconservicesagent
+_iconservices      52   0.0  0.1  2496436   2148   ??  Ss   Thu05PM   0:00.51 /System/Library/CoreServices/iconservicesd
+root               47   0.0  0.4  2637448  15552   ??  Ss   Thu05PM   5:38.83 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Support/mds
+root               46   0.0  0.1  2476820   2404   ??  SNs  Thu05PM   0:00.54 /usr/libexec/warmd
+root               44   0.0  0.2  2503204   8712   ??  Ss   Thu05PM   0:18.24 /usr/libexec/airportd
+root               35   0.0  0.1  2503536   3644   ??  Ss   Thu05PM   0:06.95 /usr/libexec/mobileassetd
+root               33   0.0  0.2  2525888   7176   ??  Ss   Thu05PM   0:04.98 /usr/libexec/configd
+_appleevents       32   0.0  0.1  2497132   3728   ??  Ss   Thu05PM   0:01.12 /System/Library/CoreServices/appleeventsd --server
+root               29   0.0  0.0  2496464   1412   ??  Ss   Thu05PM   0:00.38 /System/Library/PrivateFrameworks/MediaRemote.framework/Support/mediaremoted
+root               27   0.0  0.1  2485408   3636   ??  Ss   Thu05PM   0:21.74 /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/FSEvents.framework/Versions/A/Support/fseventsd
+root               26   0.0  0.1  2522112   6112   ??  Ss   Thu05PM   0:17.48 /usr/libexec/kextd
+root               25   0.0  0.0  2470440    872   ??  Ss   Thu05PM   0:01.20 /System/Library/PrivateFrameworks/Uninstall.framework/Resources/uninstalld
+root               23   0.0  0.0  2472688   1108   ??  Ss   Thu05PM   0:05.07 /usr/sbin/syslogd
+root               22   0.0  0.2  2501444   7536   ??  Ss   Thu05PM   0:06.95 /usr/libexec/UserEventAgent (System)
+root              104   0.0  0.1  2506288   3848   ??  Ss   Thu05PM   0:01.65 /System/Library/CoreServices/coreservicesd
+archopposition  16494   0.0  0.2 556630264   6464   ??  S     9:08PM   0:00.02 /Applications/Docker.app/Contents/MacOS/com.docker.frontend {"action":"vmstateevent","args":{"vmstate":"running"}}
+archopposition  16493   0.0  0.2 556631288   7348   ??  S     9:08PM   0:00.02 /Applications/Docker.app/Contents/MacOS/com.docker.frontend {"action":"vmstateevent","args":{"vmstate":"running"}}
+root            16453   0.0  0.8  2500588  33844 s003  S+    9:08PM   0:00.39 tmdiagnose
+root            16452   0.0  0.2  2461060   8088 s003  S+    9:08PM   0:00.02 sudo tmdiagnose
+root            16394   0.0  0.0  2463140   2088 s000  S+    9:08PM   0:00.04 tcpdump -i any -C 50 -s0 -W 10 -w /Users/archopposition/Desktop/smbdiagnose/smbtcpfile.pcap port 445
+root            16393   0.0  0.2  2461060   8148 s000  S+    9:08PM   0:00.02 sudo tcpdump -i any -C 50 -s0 -W 10 -w /Users/archopposition/Desktop/smbdiagnose/smbtcpfile.pcap port 445
+
+USER              PID  %CPU %MEM      VSZ    RSS   TT  STAT STARTED      TIME COMMAND
+root            16387   0.0  0.2  2478124   8044   ??  Ss    9:08PM   0:00.03 /usr/libexec/rpcsvchost -launchd netlogon.bundle
+root            16386   0.0  0.3  2472164  11364   ??  Ss    9:08PM   0:00.05 /System/Library/PrivateFrameworks/Heimdal.framework/Helpers/digest-service
+archopposition  16379   0.0  0.1  2444660   2164 s000  S+    9:08PM   0:00.01 /bin/sh /usr/sbin/smbdiagnose
+root            16158   0.0  0.2  2470248   6776   ??  Ss    9:07PM   0:00.02 /System/Library/Frameworks/GSS.framework/Helpers/com.apple.GSSCred
+archopposition  15450   0.0  0.8  2514868  33432   ??  Ss    9:06PM   0:01.52 /System/Library/Frameworks/QuickLook.framework/Versions/A/Resources/quicklookd.app/Contents/XPCServices/QuickLookSatellite.xpc/Contents/MacOS/QuickLookSatellite
+root            15399   0.0  0.2  2495072  10112   ??  Ss    9:06PM   0:00.33 /usr/sbin/ocspd
+root            15398   0.0  0.2  2469684   6756   ??  Ss    9:06PM   0:00.05 /System/Library/Frameworks/AudioVideoBridging.framework/Versions/A/XPCServices/com.apple.avbloader.xpc/Contents/MacOS/com.apple.avbloader
+archopposition  15360   0.0  0.6  3013336  26328   ??  S     9:06PM   0:00.27 /System/Library/Frameworks/QuickLook.framework/Resources/quicklookd.app/Contents/MacOS/quicklookd

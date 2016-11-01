@@ -1,0 +1,6 @@
+#
+# arp -n -a
+#
+? (172.31.98.1) at 84:d4:7e:cb:c3:54 on en0 ifscope [ethernet]
+? (172.31.99.255) at (incomplete) on en0 ifscope [ethernet]
+? (224.0.0.251) at 1:0:5e:0:0:fb on en0 ifscope permanent [ethernet]

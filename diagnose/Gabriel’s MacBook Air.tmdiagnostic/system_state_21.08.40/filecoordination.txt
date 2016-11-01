@@ -1,0 +1,80 @@
+Server Information:
+
+<NSFileAccessNode 0x7fcf94c0b340> parent: 0x0, name: "/"
+children:
+    mobile documents
+        <NSFileAccessNode 0x7fcf94c1b240> parent: 0x7fcf94c22ef0, name: "Mobile Documents"
+        provider:
+            <NSFileProviderProxy 0x7fcf94c1f8b0> client: bird (501), reactor ID: com.apple.bird
+                location: 0x7fcf94c1b240
+        progress subscribers:
+            <NSProgressSubscriberProxy 0x7fcf94f024c0> forwarder: <_NSXPCDistantObject: 0x7fcf94c2eb20>, subscriber ID: 3943C7BD-CD19-498E-AB90-8B12F28599A5
+                location: 0x7fcf94c1b240
+        children:
+            dictionaries
+                <NSFileAccessNode 0x7fcf94e05530> parent: 0x7fcf94e05440, name: "Dictionaries"
+                presenters:
+                    <NSFilePresenterProxy 0x7fcf94e02ae0> client: keyboardservicesd (734), reactor ID: A3EBD0CF-38D5-4ED7-9A16-B05F0768798C
+                        location: 0x7fcf94e05530
+                children:
+                    metadata.store
+                        <NSFileAccessNode 0x7fcf94f06520> parent: 0x7fcf94f063e0, name: "metadata.store"
+                        presenters:
+                            <NSFilePresenterProxy 0x7fcf94f05ca0> client: keyboardservicesd (734), reactor ID: 7B7B01FD-0795-43DC-A26A-5E53179EFD3C
+                                location: 0x7fcf94f06520
+                    6d324dc0-31b4-436d-93be-a8984b42de7b.cid
+                        <NSFileAccessNode 0x7fcf94e07990> parent: 0x7fcf94f063e0, name: "6D324DC0-31B4-436D-93BE-A8984B42DE7B.cid"
+                        presenters:
+                            <NSFilePresenterProxy 0x7fcf94c333c0> client: keyboardservicesd (734), reactor ID: 0F1EB195-CB9D-494F-B087-03C7EECDED71
+                                location: 0x7fcf94e07990
+    container
+        <NSFileAccessNode 0x7fcf94c2e3d0> parent: 0x7fcf94c2e2b0, name: "container"
+        presenters:
+            <NSFilePresenterProxy 0x7fcf94c2d8e0> client: keyboardservicesd (734), reactor ID: 0D240D31-A6C9-4CE2-AB84-A51C1BE7E741
+                location: 0x7fcf94c2e3d0
+    userdictionary.db
+        <NSFileAccessNode 0x7fcf94c2f140> parent: 0x7fcf94c2d7f0, name: "UserDictionary.db"
+        presenters:
+            <NSFilePresenterProxy 0x7fcf94c2c9d0> client: keyboardservicesd (734), reactor ID: 20DD0706-2290-44F4-8B03-603595F590F5
+                location: 0x7fcf94c2f140
+    501
+        <NSFileAccessNode 0x7fcf94e002e0> parent: 0x7fcf94e001d0, name: "501"
+        provider:
+            <NSFileProviderProxy 0x7fcf94c20f80> client: bird (501), reactor ID: com.apple.bird.versions
+                location: 0x7fcf94e002e0
+    coreservicesuiagent.app
+        <NSFileAccessNode 0x7fcf94e00a00> parent: 0x7fcf94e03c10, name: "CoreServicesUIAgent.app"
+        presenters:
+            <NSFilePresenterProxy 0x7fcf94d0c780> client: CoreServicesUIAgent (4287), reactor ID: 71CD0DF6-C934-4C74-BEA6-4E2B2F3E6973
+                location: 0x7fcf94e00a00
+    safari.app
+        <NSFileAccessNode 0x7fcf94d0b0f0> parent: 0x7fcf94e09b20, name: "Safari.app"
+        presenters:
+            <NSFilePresenterProxy 0x7fcf94d064d0> client: Safari (3278), reactor ID: 34248241-A8E4-4A71-A34E-C716B9FE7E8F
+                location: 0x7fcf94d0b0f0
+    preview.app
+        <NSFileAccessNode 0x7fcf94d0aba0> parent: 0x7fcf94e09b20, name: "Preview.app"
+        presenters:
+            <NSFilePresenterProxy 0x7fcf94d08480> client: Preview (960), reactor ID: 5863FAB4-3942-40D3-A100-1ABAC5BB80D3
+                location: 0x7fcf94d0aba0
+
+Application Information:
+
+tmdiagnose (16453):
+Nothing
+
+keyboardservicesd (734):
+Nothing
+
+CoreServicesUIAgent (4287):
+Nothing
+
+Safari (3278):
+Nothing
+
+Preview (960):
+Nothing
+
+bird (501):
+Nothing
+

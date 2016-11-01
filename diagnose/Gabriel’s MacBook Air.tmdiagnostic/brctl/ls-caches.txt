@@ -1,0 +1,977 @@
+/Users/archopposition/Library/Caches/CloudKit:
+total 3040
+443034 drwxr-xr-x  16 archopposition  staff      544 Oct 27 20:29:24 2016 .
+442065 drwx------+ 55 archopposition  staff     1870 Oct 29 21:09:23 2016 ..
+ 0: group:everyone deny delete
+443045 -rw-r--r--   1 archopposition  staff     4096 Oct 27 17:33:57 2016 CloudKitMetadata
+443048 -rw-r--r--   1 archopposition  staff    32768 Oct 29 20:03:11 2016 CloudKitMetadata-shm
+443047 -rw-r--r--   1 archopposition  staff  1388472 Oct 29 19:23:41 2016 CloudKitMetadata-wal
+443051 -rw-r--r--   1 archopposition  staff     4096 Oct 27 17:33:57 2016 CloudKitOperationInfo
+443054 -rw-r--r--   1 archopposition  staff    32768 Oct 27 17:33:57 2016 CloudKitOperationInfo-shm
+443053 -rw-r--r--   1 archopposition  staff    90672 Oct 27 17:34:12 2016 CloudKitOperationInfo-wal
+452637 drwxr-xr-x   3 archopposition  staff      102 Oct 27 20:29:24 2016 com.apple.Safari
+444730 drwxr-xr-x   4 archopposition  staff      136 Oct 27 17:34:06 2016 com.apple.accountsd
+446815 drwxr-xr-x  16 archopposition  staff      544 Oct 27 17:34:58 2016 com.apple.bird
+443072 drwxr-xr-x   3 archopposition  staff      102 Oct 27 17:33:57 2016 com.apple.callhistory.sync-helper
+449135 drwxr-xr-x   3 archopposition  staff      102 Oct 27 17:35:03 2016 com.apple.cloudpaird
+443093 drwxr-xr-x   3 archopposition  staff      102 Oct 27 17:33:57 2016 com.apple.gamed
+450119 drwxr-xr-x   3 archopposition  staff      102 Oct 27 17:35:31 2016 com.apple.textinput.KeyboardServices
+443036 drwxr-xr-x   2 archopposition  staff       68 Oct 27 17:33:56 2016 tmp
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.Safari:
+total 0
+452637 drwxr-xr-x   3 archopposition  staff  102 Oct 27 20:29:24 2016 .
+443034 drwxr-xr-x  16 archopposition  staff  544 Oct 27 20:29:24 2016 ..
+452638 drwxr-xr-x   6 archopposition  staff  204 Oct 27 20:29:28 2016 6f95fd8e1f6c500d45050ef211612410ee8c4054
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.Safari/6f95fd8e1f6c500d45050ef211612410ee8c4054:
+total 0
+452638 drwxr-xr-x  6 archopposition  staff  204 Oct 27 20:29:28 2016 .
+452637 drwxr-xr-x  3 archopposition  staff  102 Oct 27 20:29:24 2016 ..
+452640 drwxr-xr-x  2 archopposition  staff   68 Oct 27 20:29:24 2016 Assets
+452641 drwxr-xr-x  2 archopposition  staff   68 Oct 27 20:29:24 2016 AssetsDb
+452682 drwxr-xr-x  8 archopposition  staff  272 Oct 27 20:29:30 2016 Records
+452639 drwxr-xr-x  2 archopposition  staff   68 Oct 27 20:29:24 2016 StagingAssets
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.Safari/6f95fd8e1f6c500d45050ef211612410ee8c4054/Assets:
+total 0
+452640 drwxr-xr-x  2 archopposition  staff   68 Oct 27 20:29:24 2016 .
+452638 drwxr-xr-x  6 archopposition  staff  204 Oct 27 20:29:28 2016 ..
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.Safari/6f95fd8e1f6c500d45050ef211612410ee8c4054/AssetsDb:
+total 0
+452641 drwxr-xr-x  2 archopposition  staff   68 Oct 27 20:29:24 2016 .
+452638 drwxr-xr-x  6 archopposition  staff  204 Oct 27 20:29:28 2016 ..
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.Safari/6f95fd8e1f6c500d45050ef211612410ee8c4054/Records:
+total 416
+452682 drwxr-xr-x  8 archopposition  staff    272 Oct 27 20:29:30 2016 .
+452638 drwxr-xr-x  6 archopposition  staff    204 Oct 27 20:29:28 2016 ..
+452755 -rw-r--r--  1 archopposition  staff  28672 Oct 29 20:11:14 2016 Records.db
+452758 -rw-r--r--  1 archopposition  staff  32768 Oct 29 20:14:11 2016 Records.db-shm
+452757 -rw-r--r--  1 archopposition  staff      0 Oct 29 20:11:14 2016 Records.db-wal
+452683 -rw-r--r--  1 archopposition  staff  40960 Oct 28 00:09:10 2016 pcs.db
+452687 -rw-r--r--  1 archopposition  staff  32768 Oct 29 20:14:11 2016 pcs.db-shm
+452686 -rw-r--r--  1 archopposition  staff  74192 Oct 29 20:11:11 2016 pcs.db-wal
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.Safari/6f95fd8e1f6c500d45050ef211612410ee8c4054/StagingAssets:
+total 0
+452639 drwxr-xr-x  2 archopposition  staff   68 Oct 27 20:29:24 2016 .
+452638 drwxr-xr-x  6 archopposition  staff  204 Oct 27 20:29:28 2016 ..
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.accountsd:
+total 0
+444730 drwxr-xr-x   4 archopposition  staff  136 Oct 27 17:34:06 2016 .
+443034 drwxr-xr-x  16 archopposition  staff  544 Oct 27 20:29:24 2016 ..
+444771 drwxr-xr-x   3 archopposition  staff  102 Oct 27 17:34:06 2016 com.apple.Notes
+444731 drwxr-xr-x   6 archopposition  staff  204 Oct 27 17:34:09 2016 fc64d75fb653dc4dce50e205493fefe703d88c9c
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.accountsd/com.apple.Notes:
+total 0
+444771 drwxr-xr-x  3 archopposition  staff  102 Oct 27 17:34:06 2016 .
+444730 drwxr-xr-x  4 archopposition  staff  136 Oct 27 17:34:06 2016 ..
+444772 drwxr-xr-x  6 archopposition  staff  204 Oct 27 17:34:09 2016 2e7233f95ffef286728e7e6131aa9255a8283a30
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.accountsd/com.apple.Notes/2e7233f95ffef286728e7e6131aa9255a8283a30:
+total 0
+444772 drwxr-xr-x  6 archopposition  staff  204 Oct 27 17:34:09 2016 .
+444771 drwxr-xr-x  3 archopposition  staff  102 Oct 27 17:34:06 2016 ..
+444774 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:34:06 2016 Assets
+444775 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:34:06 2016 AssetsDb
+445351 drwxr-xr-x  8 archopposition  staff  272 Oct 27 17:34:52 2016 Records
+444773 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:34:06 2016 StagingAssets
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.accountsd/com.apple.Notes/2e7233f95ffef286728e7e6131aa9255a8283a30/Assets:
+total 0
+444774 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:34:06 2016 .
+444772 drwxr-xr-x  6 archopposition  staff  204 Oct 27 17:34:09 2016 ..
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.accountsd/com.apple.Notes/2e7233f95ffef286728e7e6131aa9255a8283a30/AssetsDb:
+total 0
+444775 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:34:06 2016 .
+444772 drwxr-xr-x  6 archopposition  staff  204 Oct 27 17:34:09 2016 ..
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.accountsd/com.apple.Notes/2e7233f95ffef286728e7e6131aa9255a8283a30/Records:
+total 224
+445351 drwxr-xr-x  8 archopposition  staff    272 Oct 27 17:34:52 2016 .
+444772 drwxr-xr-x  6 archopposition  staff    204 Oct 27 17:34:09 2016 ..
+447504 -rw-r--r--  1 archopposition  staff  28672 Oct 29 18:34:20 2016 Records.db
+447507 -rw-r--r--  1 archopposition  staff  32768 Oct 29 18:34:20 2016 Records.db-shm
+447506 -rw-r--r--  1 archopposition  staff      0 Oct 29 18:34:20 2016 Records.db-wal
+445352 -rw-r--r--  1 archopposition  staff  20480 Oct 27 17:34:57 2016 pcs.db
+445361 -rw-r--r--  1 archopposition  staff  32768 Oct 27 17:37:01 2016 pcs.db-shm
+445360 -rw-r--r--  1 archopposition  staff      0 Oct 27 17:34:57 2016 pcs.db-wal
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.accountsd/com.apple.Notes/2e7233f95ffef286728e7e6131aa9255a8283a30/StagingAssets:
+total 0
+444773 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:34:06 2016 .
+444772 drwxr-xr-x  6 archopposition  staff  204 Oct 27 17:34:09 2016 ..
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.accountsd/fc64d75fb653dc4dce50e205493fefe703d88c9c:
+total 0
+444731 drwxr-xr-x  6 archopposition  staff  204 Oct 27 17:34:09 2016 .
+444730 drwxr-xr-x  4 archopposition  staff  136 Oct 27 17:34:06 2016 ..
+444733 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:34:06 2016 Assets
+444734 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:34:06 2016 AssetsDb
+445350 drwxr-xr-x  5 archopposition  staff  170 Oct 27 17:34:09 2016 Records
+444732 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:34:06 2016 StagingAssets
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.accountsd/fc64d75fb653dc4dce50e205493fefe703d88c9c/Assets:
+total 0
+444733 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:34:06 2016 .
+444731 drwxr-xr-x  6 archopposition  staff  204 Oct 27 17:34:09 2016 ..
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.accountsd/fc64d75fb653dc4dce50e205493fefe703d88c9c/AssetsDb:
+total 0
+444734 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:34:06 2016 .
+444731 drwxr-xr-x  6 archopposition  staff  204 Oct 27 17:34:09 2016 ..
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.accountsd/fc64d75fb653dc4dce50e205493fefe703d88c9c/Records:
+total 200
+445350 drwxr-xr-x  5 archopposition  staff    170 Oct 27 17:34:09 2016 .
+444731 drwxr-xr-x  6 archopposition  staff    204 Oct 27 17:34:09 2016 ..
+445353 -rw-r--r--  1 archopposition  staff   4096 Oct 27 17:34:09 2016 pcs.db
+445359 -rw-r--r--  1 archopposition  staff  32768 Oct 27 17:34:09 2016 pcs.db-shm
+445358 -rw-r--r--  1 archopposition  staff  61832 Oct 27 17:34:12 2016 pcs.db-wal
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.accountsd/fc64d75fb653dc4dce50e205493fefe703d88c9c/StagingAssets:
+total 0
+444732 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:34:06 2016 .
+444731 drwxr-xr-x  6 archopposition  staff  204 Oct 27 17:34:09 2016 ..
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.bird:
+total 0
+446815 drwxr-xr-x  16 archopposition  staff  544 Oct 27 17:34:58 2016 .
+443034 drwxr-xr-x  16 archopposition  staff  544 Oct 27 20:29:24 2016 ..
+448656 drwxr-xr-x   3 archopposition  staff  102 Oct 27 17:34:58 2016 com.apple.Automator
+447327 drwxr-xr-x   3 archopposition  staff  102 Oct 27 17:34:51 2016 com.apple.CloudDocs
+446816 drwxr-xr-x   3 archopposition  staff  102 Oct 27 17:34:48 2016 com.apple.CloudDocs.container-metadata
+447320 drwxr-xr-x   3 archopposition  staff  102 Oct 27 17:34:51 2016 com.apple.CloudDocs.health
+448669 drwxr-xr-x   3 archopposition  staff  102 Oct 27 17:34:58 2016 com.apple.Preview
+448427 drwxr-xr-x   3 archopposition  staff  102 Oct 27 17:34:57 2016 com.apple.QuickTimePlayerX
+448679 drwxr-xr-x   3 archopposition  staff  102 Oct 27 17:34:58 2016 com.apple.ScriptEditor2
+447332 drwxr-xr-x   3 archopposition  staff  102 Oct 27 17:34:51 2016 com.apple.SharedDocs
+448674 drwxr-xr-x   3 archopposition  staff  102 Oct 27 17:34:58 2016 com.apple.TextEdit
+448541 drwxr-xr-x   3 archopposition  staff  102 Oct 27 17:34:58 2016 com.apple.TextInput
+448546 drwxr-xr-x   3 archopposition  staff  102 Oct 27 17:34:58 2016 com.apple.mail
+448522 drwxr-xr-x   3 archopposition  staff  102 Oct 27 17:34:58 2016 iCloud.com.apple.iBooks
+448444 drwxr-xr-x   3 archopposition  staff  102 Oct 27 17:34:57 2016 iCloud.com.apple.iBooks.iTunesU
+448536 drwxr-xr-x   3 archopposition  staff  102 Oct 27 17:34:58 2016 iCloud.com.apple.ncplugin.weather
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.bird/com.apple.Automator:
+total 0
+448656 drwxr-xr-x   3 archopposition  staff  102 Oct 27 17:34:58 2016 .
+446815 drwxr-xr-x  16 archopposition  staff  544 Oct 27 17:34:58 2016 ..
+448657 drwxr-xr-x   6 archopposition  staff  204 Oct 27 17:35:09 2016 1fb766e482ebdcbc98b8b9523ee5922afb5d393a
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.bird/com.apple.Automator/1fb766e482ebdcbc98b8b9523ee5922afb5d393a:
+total 0
+448657 drwxr-xr-x  6 archopposition  staff  204 Oct 27 17:35:09 2016 .
+448656 drwxr-xr-x  3 archopposition  staff  102 Oct 27 17:34:58 2016 ..
+448659 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:34:58 2016 Assets
+448660 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:34:58 2016 AssetsDb
+449551 drwxr-xr-x  8 archopposition  staff  272 Oct 27 17:35:09 2016 Records
+448658 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:34:58 2016 StagingAssets
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.bird/com.apple.Automator/1fb766e482ebdcbc98b8b9523ee5922afb5d393a/Assets:
+total 0
+448659 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:34:58 2016 .
+448657 drwxr-xr-x  6 archopposition  staff  204 Oct 27 17:35:09 2016 ..
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.bird/com.apple.Automator/1fb766e482ebdcbc98b8b9523ee5922afb5d393a/AssetsDb:
+total 0
+448660 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:34:58 2016 .
+448657 drwxr-xr-x  6 archopposition  staff  204 Oct 27 17:35:09 2016 ..
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.bird/com.apple.Automator/1fb766e482ebdcbc98b8b9523ee5922afb5d393a/Records:
+total 360
+449551 drwxr-xr-x  8 archopposition  staff    272 Oct 27 17:35:09 2016 .
+448657 drwxr-xr-x  6 archopposition  staff    204 Oct 27 17:35:09 2016 ..
+449552 -rw-r--r--  1 archopposition  staff  28672 Oct 29 18:34:21 2016 Records.db
+449555 -rw-r--r--  1 archopposition  staff  32768 Oct 29 18:34:21 2016 Records.db-shm
+449554 -rw-r--r--  1 archopposition  staff      0 Oct 29 18:34:21 2016 Records.db-wal
+449564 -rw-r--r--  1 archopposition  staff   4096 Oct 27 17:35:09 2016 pcs.db
+449568 -rw-r--r--  1 archopposition  staff  32768 Oct 27 17:35:09 2016 pcs.db-shm
+449567 -rw-r--r--  1 archopposition  staff  82432 Oct 27 17:35:12 2016 pcs.db-wal
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.bird/com.apple.Automator/1fb766e482ebdcbc98b8b9523ee5922afb5d393a/StagingAssets:
+total 0
+448658 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:34:58 2016 .
+448657 drwxr-xr-x  6 archopposition  staff  204 Oct 27 17:35:09 2016 ..
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.bird/com.apple.CloudDocs:
+total 0
+447327 drwxr-xr-x   3 archopposition  staff  102 Oct 27 17:34:51 2016 .
+446815 drwxr-xr-x  16 archopposition  staff  544 Oct 27 17:34:58 2016 ..
+447328 drwxr-xr-x   6 archopposition  staff  204 Oct 27 17:34:59 2016 9fadf220be21a0ed291ebfea5f836e034473cd93
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.bird/com.apple.CloudDocs/9fadf220be21a0ed291ebfea5f836e034473cd93:
+total 0
+447328 drwxr-xr-x  6 archopposition  staff  204 Oct 27 17:34:59 2016 .
+447327 drwxr-xr-x  3 archopposition  staff  102 Oct 27 17:34:51 2016 ..
+447330 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:34:51 2016 Assets
+447331 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:34:51 2016 AssetsDb
+448758 drwxr-xr-x  8 archopposition  staff  272 Oct 27 17:34:59 2016 Records
+447329 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:34:51 2016 StagingAssets
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.bird/com.apple.CloudDocs/9fadf220be21a0ed291ebfea5f836e034473cd93/Assets:
+total 0
+447330 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:34:51 2016 .
+447328 drwxr-xr-x  6 archopposition  staff  204 Oct 27 17:34:59 2016 ..
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.bird/com.apple.CloudDocs/9fadf220be21a0ed291ebfea5f836e034473cd93/AssetsDb:
+total 0
+447331 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:34:51 2016 .
+447328 drwxr-xr-x  6 archopposition  staff  204 Oct 27 17:34:59 2016 ..
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.bird/com.apple.CloudDocs/9fadf220be21a0ed291ebfea5f836e034473cd93/Records:
+total 304
+448758 drwxr-xr-x  8 archopposition  staff    272 Oct 27 17:34:59 2016 .
+447328 drwxr-xr-x  6 archopposition  staff    204 Oct 27 17:34:59 2016 ..
+448759 -rw-r--r--  1 archopposition  staff  28672 Oct 29 18:34:21 2016 Records.db
+448762 -rw-r--r--  1 archopposition  staff  32768 Oct 29 18:34:21 2016 Records.db-shm
+448761 -rw-r--r--  1 archopposition  staff      0 Oct 29 18:34:21 2016 Records.db-wal
+448763 -rw-r--r--  1 archopposition  staff   4096 Oct 27 17:34:59 2016 pcs.db
+448767 -rw-r--r--  1 archopposition  staff  32768 Oct 27 17:34:59 2016 pcs.db-shm
+448766 -rw-r--r--  1 archopposition  staff  53592 Oct 27 17:35:12 2016 pcs.db-wal
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.bird/com.apple.CloudDocs/9fadf220be21a0ed291ebfea5f836e034473cd93/StagingAssets:
+total 0
+447329 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:34:51 2016 .
+447328 drwxr-xr-x  6 archopposition  staff  204 Oct 27 17:34:59 2016 ..
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.bird/com.apple.CloudDocs.container-metadata:
+total 0
+446816 drwxr-xr-x   3 archopposition  staff  102 Oct 27 17:34:48 2016 .
+446815 drwxr-xr-x  16 archopposition  staff  544 Oct 27 17:34:58 2016 ..
+446817 drwxr-xr-x   7 archopposition  staff  238 Oct 27 17:34:59 2016 f4e2b8c76fcf9282b073e083e9f7759e4f66b73e
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.bird/com.apple.CloudDocs.container-metadata/f4e2b8c76fcf9282b073e083e9f7759e4f66b73e:
+total 0
+446817 drwxr-xr-x  7 archopposition  staff  238 Oct 27 17:34:59 2016 .
+446816 drwxr-xr-x  3 archopposition  staff  102 Oct 27 17:34:48 2016 ..
+446819 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:35:02 2016 Assets
+446820 drwxr-xr-x  5 archopposition  staff  170 Oct 27 17:34:59 2016 AssetsDb
+448741 drwxr-xr-x  3 archopposition  staff  102 Oct 27 17:35:02 2016 MMCS
+448433 drwxr-xr-x  8 archopposition  staff  272 Oct 27 17:34:57 2016 Records
+446818 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:34:48 2016 StagingAssets
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.bird/com.apple.CloudDocs.container-metadata/f4e2b8c76fcf9282b073e083e9f7759e4f66b73e/Assets:
+total 0
+446819 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:35:02 2016 .
+446817 drwxr-xr-x  7 archopposition  staff  238 Oct 27 17:34:59 2016 ..
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.bird/com.apple.CloudDocs.container-metadata/f4e2b8c76fcf9282b073e083e9f7759e4f66b73e/AssetsDb:
+total 160
+446820 drwxr-xr-x  5 archopposition  staff    170 Oct 27 17:34:59 2016 .
+446817 drwxr-xr-x  7 archopposition  staff    238 Oct 27 17:34:59 2016 ..
+448735 -rw-r--r--  1 archopposition  staff  49152 Oct 29 20:33:31 2016 Assets.db
+448739 -rw-r--r--  1 archopposition  staff  32768 Oct 29 20:33:21 2016 Assets.db-shm
+448738 -rw-r--r--  1 archopposition  staff      0 Oct 29 20:33:31 2016 Assets.db-wal
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.bird/com.apple.CloudDocs.container-metadata/f4e2b8c76fcf9282b073e083e9f7759e4f66b73e/MMCS:
+total 0
+448741 drwxr-xr-x  3 archopposition  staff  102 Oct 27 17:35:02 2016 .
+446817 drwxr-xr-x  7 archopposition  staff  238 Oct 27 17:34:59 2016 ..
+448742 drwx------  4 archopposition  staff  136 Oct 27 17:34:59 2016 .cs
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.bird/com.apple.CloudDocs.container-metadata/f4e2b8c76fcf9282b073e083e9f7759e4f66b73e/MMCS/.cs:
+total 320
+448742 drwx------  4 archopposition  staff     136 Oct 27 17:34:59 2016 .
+448741 drwxr-xr-x  3 archopposition  staff     102 Oct 27 17:35:02 2016 ..
+448743 -rw-r--r--  1 archopposition  staff    4096 Oct 27 17:34:59 2016 ChunkStoreDatabase
+448745 -rw-r--r--  1 archopposition  staff  156592 Oct 29 18:05:48 2016 ChunkStoreDatabase-wal
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.bird/com.apple.CloudDocs.container-metadata/f4e2b8c76fcf9282b073e083e9f7759e4f66b73e/Records:
+total 1096
+448433 drwxr-xr-x  8 archopposition  staff     272 Oct 27 17:34:57 2016 .
+446817 drwxr-xr-x  7 archopposition  staff     238 Oct 27 17:34:59 2016 ..
+448435 -rw-r--r--  1 archopposition  staff   28672 Oct 29 20:44:58 2016 Records.db
+448439 -rw-r--r--  1 archopposition  staff   32768 Oct 29 20:44:48 2016 Records.db-shm
+448438 -rw-r--r--  1 archopposition  staff       0 Oct 29 20:44:58 2016 Records.db-wal
+448442 -rw-r--r--  1 archopposition  staff    4096 Oct 27 17:34:57 2016 pcs.db
+448451 -rw-r--r--  1 archopposition  staff   32768 Oct 29 20:45:41 2016 pcs.db-shm
+448450 -rw-r--r--  1 archopposition  staff  461472 Oct 29 20:44:54 2016 pcs.db-wal
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.bird/com.apple.CloudDocs.container-metadata/f4e2b8c76fcf9282b073e083e9f7759e4f66b73e/StagingAssets:
+total 0
+446818 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:34:48 2016 .
+446817 drwxr-xr-x  7 archopposition  staff  238 Oct 27 17:34:59 2016 ..
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.bird/com.apple.CloudDocs.health:
+total 0
+447320 drwxr-xr-x   3 archopposition  staff  102 Oct 27 17:34:51 2016 .
+446815 drwxr-xr-x  16 archopposition  staff  544 Oct 27 17:34:58 2016 ..
+447321 drwxr-xr-x   6 archopposition  staff  204 Oct 27 17:35:00 2016 e78eed5bc943154ff96e1c4a02c4ad72b67cd93e
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.bird/com.apple.CloudDocs.health/e78eed5bc943154ff96e1c4a02c4ad72b67cd93e:
+total 0
+447321 drwxr-xr-x  6 archopposition  staff  204 Oct 27 17:35:00 2016 .
+447320 drwxr-xr-x  3 archopposition  staff  102 Oct 27 17:34:51 2016 ..
+447323 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:34:51 2016 Assets
+447325 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:34:51 2016 AssetsDb
+448871 drwxr-xr-x  8 archopposition  staff  272 Oct 27 17:35:00 2016 Records
+447322 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:34:51 2016 StagingAssets
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.bird/com.apple.CloudDocs.health/e78eed5bc943154ff96e1c4a02c4ad72b67cd93e/Assets:
+total 0
+447323 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:34:51 2016 .
+447321 drwxr-xr-x  6 archopposition  staff  204 Oct 27 17:35:00 2016 ..
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.bird/com.apple.CloudDocs.health/e78eed5bc943154ff96e1c4a02c4ad72b67cd93e/AssetsDb:
+total 0
+447325 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:34:51 2016 .
+447321 drwxr-xr-x  6 archopposition  staff  204 Oct 27 17:35:00 2016 ..
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.bird/com.apple.CloudDocs.health/e78eed5bc943154ff96e1c4a02c4ad72b67cd93e/Records:
+total 248
+448871 drwxr-xr-x  8 archopposition  staff    272 Oct 27 17:35:00 2016 .
+447321 drwxr-xr-x  6 archopposition  staff    204 Oct 27 17:35:00 2016 ..
+448872 -rw-r--r--  1 archopposition  staff  28672 Oct 29 18:34:19 2016 Records.db
+448875 -rw-r--r--  1 archopposition  staff  32768 Oct 29 18:34:19 2016 Records.db-shm
+448874 -rw-r--r--  1 archopposition  staff      0 Oct 29 18:34:19 2016 Records.db-wal
+448876 -rw-r--r--  1 archopposition  staff   4096 Oct 27 17:35:00 2016 pcs.db
+448880 -rw-r--r--  1 archopposition  staff  32768 Oct 27 17:35:00 2016 pcs.db-shm
+448879 -rw-r--r--  1 archopposition  staff  24752 Oct 27 17:35:00 2016 pcs.db-wal
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.bird/com.apple.CloudDocs.health/e78eed5bc943154ff96e1c4a02c4ad72b67cd93e/StagingAssets:
+total 0
+447322 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:34:51 2016 .
+447321 drwxr-xr-x  6 archopposition  staff  204 Oct 27 17:35:00 2016 ..
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.bird/com.apple.Preview:
+total 0
+448669 drwxr-xr-x   3 archopposition  staff  102 Oct 27 17:34:58 2016 .
+446815 drwxr-xr-x  16 archopposition  staff  544 Oct 27 17:34:58 2016 ..
+448670 drwxr-xr-x   6 archopposition  staff  204 Oct 27 17:35:09 2016 470f34f7eaf3db1cc8e81dc2799cf5ad1b38f5c8
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.bird/com.apple.Preview/470f34f7eaf3db1cc8e81dc2799cf5ad1b38f5c8:
+total 0
+448670 drwxr-xr-x  6 archopposition  staff  204 Oct 27 17:35:09 2016 .
+448669 drwxr-xr-x  3 archopposition  staff  102 Oct 27 17:34:58 2016 ..
+448672 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:34:58 2016 Assets
+448673 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:34:58 2016 AssetsDb
+449578 drwxr-xr-x  8 archopposition  staff  272 Oct 27 17:35:09 2016 Records
+448671 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:34:58 2016 StagingAssets
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.bird/com.apple.Preview/470f34f7eaf3db1cc8e81dc2799cf5ad1b38f5c8/Assets:
+total 0
+448672 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:34:58 2016 .
+448670 drwxr-xr-x  6 archopposition  staff  204 Oct 27 17:35:09 2016 ..
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.bird/com.apple.Preview/470f34f7eaf3db1cc8e81dc2799cf5ad1b38f5c8/AssetsDb:
+total 0
+448673 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:34:58 2016 .
+448670 drwxr-xr-x  6 archopposition  staff  204 Oct 27 17:35:09 2016 ..
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.bird/com.apple.Preview/470f34f7eaf3db1cc8e81dc2799cf5ad1b38f5c8/Records:
+total 360
+449578 drwxr-xr-x  8 archopposition  staff    272 Oct 27 17:35:09 2016 .
+448670 drwxr-xr-x  6 archopposition  staff    204 Oct 27 17:35:09 2016 ..
+449579 -rw-r--r--  1 archopposition  staff  28672 Oct 29 18:34:21 2016 Records.db
+449582 -rw-r--r--  1 archopposition  staff  32768 Oct 29 18:34:21 2016 Records.db-shm
+449581 -rw-r--r--  1 archopposition  staff      0 Oct 29 18:34:21 2016 Records.db-wal
+449588 -rw-r--r--  1 archopposition  staff   4096 Oct 27 17:35:09 2016 pcs.db
+449592 -rw-r--r--  1 archopposition  staff  32768 Oct 27 17:35:09 2016 pcs.db-shm
+449591 -rw-r--r--  1 archopposition  staff  82432 Oct 27 17:35:12 2016 pcs.db-wal
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.bird/com.apple.Preview/470f34f7eaf3db1cc8e81dc2799cf5ad1b38f5c8/StagingAssets:
+total 0
+448671 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:34:58 2016 .
+448670 drwxr-xr-x  6 archopposition  staff  204 Oct 27 17:35:09 2016 ..
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.bird/com.apple.QuickTimePlayerX:
+total 0
+448427 drwxr-xr-x   3 archopposition  staff  102 Oct 27 17:34:57 2016 .
+446815 drwxr-xr-x  16 archopposition  staff  544 Oct 27 17:34:58 2016 ..
+448428 drwxr-xr-x   6 archopposition  staff  204 Oct 27 17:35:04 2016 be1c3264667cbdec4d2b7bf0babfee45f48ffe99
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.bird/com.apple.QuickTimePlayerX/be1c3264667cbdec4d2b7bf0babfee45f48ffe99:
+total 0
+448428 drwxr-xr-x  6 archopposition  staff  204 Oct 27 17:35:04 2016 .
+448427 drwxr-xr-x  3 archopposition  staff  102 Oct 27 17:34:57 2016 ..
+448430 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:34:57 2016 Assets
+448431 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:34:57 2016 AssetsDb
+449233 drwxr-xr-x  8 archopposition  staff  272 Oct 27 17:35:05 2016 Records
+448429 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:34:57 2016 StagingAssets
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.bird/com.apple.QuickTimePlayerX/be1c3264667cbdec4d2b7bf0babfee45f48ffe99/Assets:
+total 0
+448430 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:34:57 2016 .
+448428 drwxr-xr-x  6 archopposition  staff  204 Oct 27 17:35:04 2016 ..
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.bird/com.apple.QuickTimePlayerX/be1c3264667cbdec4d2b7bf0babfee45f48ffe99/AssetsDb:
+total 0
+448431 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:34:57 2016 .
+448428 drwxr-xr-x  6 archopposition  staff  204 Oct 27 17:35:04 2016 ..
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.bird/com.apple.QuickTimePlayerX/be1c3264667cbdec4d2b7bf0babfee45f48ffe99/Records:
+total 360
+449233 drwxr-xr-x  8 archopposition  staff    272 Oct 27 17:35:05 2016 .
+448428 drwxr-xr-x  6 archopposition  staff    204 Oct 27 17:35:04 2016 ..
+449234 -rw-r--r--  1 archopposition  staff  28672 Oct 29 18:34:19 2016 Records.db
+449237 -rw-r--r--  1 archopposition  staff  32768 Oct 29 18:34:18 2016 Records.db-shm
+449236 -rw-r--r--  1 archopposition  staff      0 Oct 29 18:34:19 2016 Records.db-wal
+449267 -rw-r--r--  1 archopposition  staff   4096 Oct 27 17:35:05 2016 pcs.db
+449283 -rw-r--r--  1 archopposition  staff  32768 Oct 27 17:35:05 2016 pcs.db-shm
+449282 -rw-r--r--  1 archopposition  staff  82432 Oct 27 17:35:12 2016 pcs.db-wal
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.bird/com.apple.QuickTimePlayerX/be1c3264667cbdec4d2b7bf0babfee45f48ffe99/StagingAssets:
+total 0
+448429 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:34:57 2016 .
+448428 drwxr-xr-x  6 archopposition  staff  204 Oct 27 17:35:04 2016 ..
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.bird/com.apple.ScriptEditor2:
+total 0
+448679 drwxr-xr-x   3 archopposition  staff  102 Oct 27 17:34:58 2016 .
+446815 drwxr-xr-x  16 archopposition  staff  544 Oct 27 17:34:58 2016 ..
+448680 drwxr-xr-x   6 archopposition  staff  204 Oct 27 17:35:09 2016 52ce50303f9ae183b87e418712d2f42672dade01
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.bird/com.apple.ScriptEditor2/52ce50303f9ae183b87e418712d2f42672dade01:
+total 0
+448680 drwxr-xr-x  6 archopposition  staff  204 Oct 27 17:35:09 2016 .
+448679 drwxr-xr-x  3 archopposition  staff  102 Oct 27 17:34:58 2016 ..
+448682 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:34:58 2016 Assets
+448683 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:34:58 2016 AssetsDb
+449546 drwxr-xr-x  8 archopposition  staff  272 Oct 27 17:35:09 2016 Records
+448681 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:34:58 2016 StagingAssets
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.bird/com.apple.ScriptEditor2/52ce50303f9ae183b87e418712d2f42672dade01/Assets:
+total 0
+448682 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:34:58 2016 .
+448680 drwxr-xr-x  6 archopposition  staff  204 Oct 27 17:35:09 2016 ..
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.bird/com.apple.ScriptEditor2/52ce50303f9ae183b87e418712d2f42672dade01/AssetsDb:
+total 0
+448683 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:34:58 2016 .
+448680 drwxr-xr-x  6 archopposition  staff  204 Oct 27 17:35:09 2016 ..
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.bird/com.apple.ScriptEditor2/52ce50303f9ae183b87e418712d2f42672dade01/Records:
+total 360
+449546 drwxr-xr-x  8 archopposition  staff    272 Oct 27 17:35:09 2016 .
+448680 drwxr-xr-x  6 archopposition  staff    204 Oct 27 17:35:09 2016 ..
+449547 -rw-r--r--  1 archopposition  staff  28672 Oct 29 18:34:21 2016 Records.db
+449550 -rw-r--r--  1 archopposition  staff  32768 Oct 29 18:34:21 2016 Records.db-shm
+449549 -rw-r--r--  1 archopposition  staff      0 Oct 29 18:34:21 2016 Records.db-wal
+449556 -rw-r--r--  1 archopposition  staff   4096 Oct 27 17:35:09 2016 pcs.db
+449560 -rw-r--r--  1 archopposition  staff  32768 Oct 27 17:35:09 2016 pcs.db-shm
+449559 -rw-r--r--  1 archopposition  staff  82432 Oct 27 17:35:12 2016 pcs.db-wal
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.bird/com.apple.ScriptEditor2/52ce50303f9ae183b87e418712d2f42672dade01/StagingAssets:
+total 0
+448681 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:34:58 2016 .
+448680 drwxr-xr-x  6 archopposition  staff  204 Oct 27 17:35:09 2016 ..
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.bird/com.apple.SharedDocs:
+total 0
+447332 drwxr-xr-x   3 archopposition  staff  102 Oct 27 17:34:51 2016 .
+446815 drwxr-xr-x  16 archopposition  staff  544 Oct 27 17:34:58 2016 ..
+447333 drwxr-xr-x   5 archopposition  staff  170 Oct 27 17:34:51 2016 a9cdc8de5a9aaa437a9128d4a55114d296daf6a4
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.bird/com.apple.SharedDocs/a9cdc8de5a9aaa437a9128d4a55114d296daf6a4:
+total 0
+447333 drwxr-xr-x  5 archopposition  staff  170 Oct 27 17:34:51 2016 .
+447332 drwxr-xr-x  3 archopposition  staff  102 Oct 27 17:34:51 2016 ..
+447335 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:34:51 2016 Assets
+447336 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:34:51 2016 AssetsDb
+447334 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:34:51 2016 StagingAssets
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.bird/com.apple.SharedDocs/a9cdc8de5a9aaa437a9128d4a55114d296daf6a4/Assets:
+total 0
+447335 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:34:51 2016 .
+447333 drwxr-xr-x  5 archopposition  staff  170 Oct 27 17:34:51 2016 ..
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.bird/com.apple.SharedDocs/a9cdc8de5a9aaa437a9128d4a55114d296daf6a4/AssetsDb:
+total 0
+447336 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:34:51 2016 .
+447333 drwxr-xr-x  5 archopposition  staff  170 Oct 27 17:34:51 2016 ..
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.bird/com.apple.SharedDocs/a9cdc8de5a9aaa437a9128d4a55114d296daf6a4/StagingAssets:
+total 0
+447334 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:34:51 2016 .
+447333 drwxr-xr-x  5 archopposition  staff  170 Oct 27 17:34:51 2016 ..
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.bird/com.apple.TextEdit:
+total 0
+448674 drwxr-xr-x   3 archopposition  staff  102 Oct 27 17:34:58 2016 .
+446815 drwxr-xr-x  16 archopposition  staff  544 Oct 27 17:34:58 2016 ..
+448675 drwxr-xr-x   6 archopposition  staff  204 Oct 27 17:35:04 2016 4243f95b4b40dd1d6accee3f622b5dc80865b496
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.bird/com.apple.TextEdit/4243f95b4b40dd1d6accee3f622b5dc80865b496:
+total 0
+448675 drwxr-xr-x  6 archopposition  staff  204 Oct 27 17:35:04 2016 .
+448674 drwxr-xr-x  3 archopposition  staff  102 Oct 27 17:34:58 2016 ..
+448677 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:34:58 2016 Assets
+448678 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:34:58 2016 AssetsDb
+449225 drwxr-xr-x  8 archopposition  staff  272 Oct 27 17:35:05 2016 Records
+448676 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:34:58 2016 StagingAssets
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.bird/com.apple.TextEdit/4243f95b4b40dd1d6accee3f622b5dc80865b496/Assets:
+total 0
+448677 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:34:58 2016 .
+448675 drwxr-xr-x  6 archopposition  staff  204 Oct 27 17:35:04 2016 ..
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.bird/com.apple.TextEdit/4243f95b4b40dd1d6accee3f622b5dc80865b496/AssetsDb:
+total 0
+448678 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:34:58 2016 .
+448675 drwxr-xr-x  6 archopposition  staff  204 Oct 27 17:35:04 2016 ..
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.bird/com.apple.TextEdit/4243f95b4b40dd1d6accee3f622b5dc80865b496/Records:
+total 360
+449225 drwxr-xr-x  8 archopposition  staff    272 Oct 27 17:35:05 2016 .
+448675 drwxr-xr-x  6 archopposition  staff    204 Oct 27 17:35:04 2016 ..
+449226 -rw-r--r--  1 archopposition  staff  28672 Oct 29 18:34:21 2016 Records.db
+449229 -rw-r--r--  1 archopposition  staff  32768 Oct 29 18:34:21 2016 Records.db-shm
+449228 -rw-r--r--  1 archopposition  staff      0 Oct 29 18:34:21 2016 Records.db-wal
+449252 -rw-r--r--  1 archopposition  staff   4096 Oct 27 17:35:05 2016 pcs.db
+449256 -rw-r--r--  1 archopposition  staff  32768 Oct 27 17:35:05 2016 pcs.db-shm
+449255 -rw-r--r--  1 archopposition  staff  82432 Oct 27 17:35:12 2016 pcs.db-wal
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.bird/com.apple.TextEdit/4243f95b4b40dd1d6accee3f622b5dc80865b496/StagingAssets:
+total 0
+448676 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:34:58 2016 .
+448675 drwxr-xr-x  6 archopposition  staff  204 Oct 27 17:35:04 2016 ..
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.bird/com.apple.TextInput:
+total 0
+448541 drwxr-xr-x   3 archopposition  staff  102 Oct 27 17:34:58 2016 .
+446815 drwxr-xr-x  16 archopposition  staff  544 Oct 27 17:34:58 2016 ..
+448542 drwxr-xr-x   7 archopposition  staff  238 Oct 27 17:35:32 2016 097dccf4b34c341b176e5fde948947816fa19c75
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.bird/com.apple.TextInput/097dccf4b34c341b176e5fde948947816fa19c75:
+total 0
+448542 drwxr-xr-x  7 archopposition  staff  238 Oct 27 17:35:32 2016 .
+448541 drwxr-xr-x  3 archopposition  staff  102 Oct 27 17:34:58 2016 ..
+448544 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:35:33 2016 Assets
+448545 drwxr-xr-x  5 archopposition  staff  170 Oct 27 17:35:32 2016 AssetsDb
+450202 drwxr-xr-x  3 archopposition  staff  102 Oct 27 17:35:33 2016 MMCS
+449238 drwxr-xr-x  8 archopposition  staff  272 Oct 27 17:35:05 2016 Records
+448543 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:34:58 2016 StagingAssets
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.bird/com.apple.TextInput/097dccf4b34c341b176e5fde948947816fa19c75/Assets:
+total 0
+448544 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:35:33 2016 .
+448542 drwxr-xr-x  7 archopposition  staff  238 Oct 27 17:35:32 2016 ..
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.bird/com.apple.TextInput/097dccf4b34c341b176e5fde948947816fa19c75/AssetsDb:
+total 160
+448545 drwxr-xr-x  5 archopposition  staff    170 Oct 27 17:35:32 2016 .
+448542 drwxr-xr-x  7 archopposition  staff    238 Oct 27 17:35:32 2016 ..
+450198 -rw-r--r--  1 archopposition  staff  49152 Oct 29 20:34:15 2016 Assets.db
+450201 -rw-r--r--  1 archopposition  staff  32768 Oct 29 20:45:41 2016 Assets.db-shm
+450200 -rw-r--r--  1 archopposition  staff      0 Oct 29 20:34:15 2016 Assets.db-wal
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.bird/com.apple.TextInput/097dccf4b34c341b176e5fde948947816fa19c75/MMCS:
+total 0
+450202 drwxr-xr-x  3 archopposition  staff  102 Oct 27 17:35:33 2016 .
+448542 drwxr-xr-x  7 archopposition  staff  238 Oct 27 17:35:32 2016 ..
+450203 drwx------  4 archopposition  staff  136 Oct 27 17:35:32 2016 .cs
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.bird/com.apple.TextInput/097dccf4b34c341b176e5fde948947816fa19c75/MMCS/.cs:
+total 376
+450203 drwx------  4 archopposition  staff     136 Oct 27 17:35:32 2016 .
+450202 drwxr-xr-x  3 archopposition  staff     102 Oct 27 17:35:33 2016 ..
+450204 -rw-r--r--  1 archopposition  staff    4096 Oct 27 17:35:32 2016 ChunkStoreDatabase
+450206 -rw-r--r--  1 archopposition  staff  185432 Oct 29 18:06:18 2016 ChunkStoreDatabase-wal
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.bird/com.apple.TextInput/097dccf4b34c341b176e5fde948947816fa19c75/Records:
+total 728
+449238 drwxr-xr-x  8 archopposition  staff     272 Oct 27 17:35:05 2016 .
+448542 drwxr-xr-x  7 archopposition  staff     238 Oct 27 17:35:32 2016 ..
+449239 -rw-r--r--  1 archopposition  staff   28672 Oct 29 18:34:18 2016 Records.db
+449242 -rw-r--r--  1 archopposition  staff   32768 Oct 29 18:34:18 2016 Records.db-shm
+449241 -rw-r--r--  1 archopposition  staff       0 Oct 29 18:34:18 2016 Records.db-wal
+449320 -rw-r--r--  1 archopposition  staff    4096 Oct 27 17:35:05 2016 pcs.db
+449331 -rw-r--r--  1 archopposition  staff   32768 Oct 27 21:36:44 2016 pcs.db-shm
+449330 -rw-r--r--  1 archopposition  staff  271952 Oct 27 20:31:14 2016 pcs.db-wal
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.bird/com.apple.TextInput/097dccf4b34c341b176e5fde948947816fa19c75/StagingAssets:
+total 0
+448543 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:34:58 2016 .
+448542 drwxr-xr-x  7 archopposition  staff  238 Oct 27 17:35:32 2016 ..
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.bird/com.apple.mail:
+total 0
+448546 drwxr-xr-x   3 archopposition  staff  102 Oct 27 17:34:58 2016 .
+446815 drwxr-xr-x  16 archopposition  staff  544 Oct 27 17:34:58 2016 ..
+448547 drwxr-xr-x   6 archopposition  staff  204 Oct 27 17:35:09 2016 7b17c06556279ff8009a23f5e678fe9816d98fc2
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.bird/com.apple.mail/7b17c06556279ff8009a23f5e678fe9816d98fc2:
+total 0
+448547 drwxr-xr-x  6 archopposition  staff  204 Oct 27 17:35:09 2016 .
+448546 drwxr-xr-x  3 archopposition  staff  102 Oct 27 17:34:58 2016 ..
+448549 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:34:58 2016 Assets
+448550 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:34:58 2016 AssetsDb
+449583 drwxr-xr-x  8 archopposition  staff  272 Oct 27 17:35:09 2016 Records
+448548 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:34:58 2016 StagingAssets
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.bird/com.apple.mail/7b17c06556279ff8009a23f5e678fe9816d98fc2/Assets:
+total 0
+448549 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:34:58 2016 .
+448547 drwxr-xr-x  6 archopposition  staff  204 Oct 27 17:35:09 2016 ..
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.bird/com.apple.mail/7b17c06556279ff8009a23f5e678fe9816d98fc2/AssetsDb:
+total 0
+448550 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:34:58 2016 .
+448547 drwxr-xr-x  6 archopposition  staff  204 Oct 27 17:35:09 2016 ..
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.bird/com.apple.mail/7b17c06556279ff8009a23f5e678fe9816d98fc2/Records:
+total 400
+449583 drwxr-xr-x  8 archopposition  staff     272 Oct 27 17:35:09 2016 .
+448547 drwxr-xr-x  6 archopposition  staff     204 Oct 27 17:35:09 2016 ..
+449584 -rw-r--r--  1 archopposition  staff   28672 Oct 29 18:34:20 2016 Records.db
+449587 -rw-r--r--  1 archopposition  staff   32768 Oct 29 18:34:20 2016 Records.db-shm
+449586 -rw-r--r--  1 archopposition  staff       0 Oct 29 18:34:20 2016 Records.db-wal
+449596 -rw-r--r--  1 archopposition  staff    4096 Oct 27 17:35:09 2016 pcs.db
+449600 -rw-r--r--  1 archopposition  staff   32768 Oct 27 17:35:09 2016 pcs.db-shm
+449599 -rw-r--r--  1 archopposition  staff  103032 Oct 27 17:35:12 2016 pcs.db-wal
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.bird/com.apple.mail/7b17c06556279ff8009a23f5e678fe9816d98fc2/StagingAssets:
+total 0
+448548 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:34:58 2016 .
+448547 drwxr-xr-x  6 archopposition  staff  204 Oct 27 17:35:09 2016 ..
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.bird/iCloud.com.apple.iBooks:
+total 0
+448522 drwxr-xr-x   3 archopposition  staff  102 Oct 27 17:34:58 2016 .
+446815 drwxr-xr-x  16 archopposition  staff  544 Oct 27 17:34:58 2016 ..
+448523 drwxr-xr-x   6 archopposition  staff  204 Oct 27 17:35:05 2016 219a4787f21c3c1c768ac7792a47ed6cb2ae6901
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.bird/iCloud.com.apple.iBooks/219a4787f21c3c1c768ac7792a47ed6cb2ae6901:
+total 0
+448523 drwxr-xr-x  6 archopposition  staff  204 Oct 27 17:35:05 2016 .
+448522 drwxr-xr-x  3 archopposition  staff  102 Oct 27 17:34:58 2016 ..
+448525 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:34:58 2016 Assets
+448526 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:34:58 2016 AssetsDb
+449354 drwxr-xr-x  8 archopposition  staff  272 Oct 27 17:35:05 2016 Records
+448524 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:34:58 2016 StagingAssets
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.bird/iCloud.com.apple.iBooks/219a4787f21c3c1c768ac7792a47ed6cb2ae6901/Assets:
+total 0
+448525 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:34:58 2016 .
+448523 drwxr-xr-x  6 archopposition  staff  204 Oct 27 17:35:05 2016 ..
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.bird/iCloud.com.apple.iBooks/219a4787f21c3c1c768ac7792a47ed6cb2ae6901/AssetsDb:
+total 0
+448526 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:34:58 2016 .
+448523 drwxr-xr-x  6 archopposition  staff  204 Oct 27 17:35:05 2016 ..
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.bird/iCloud.com.apple.iBooks/219a4787f21c3c1c768ac7792a47ed6cb2ae6901/Records:
+total 360
+449354 drwxr-xr-x  8 archopposition  staff    272 Oct 27 17:35:05 2016 .
+448523 drwxr-xr-x  6 archopposition  staff    204 Oct 27 17:35:05 2016 ..
+449355 -rw-r--r--  1 archopposition  staff  28672 Oct 29 18:34:19 2016 Records.db
+449358 -rw-r--r--  1 archopposition  staff  32768 Oct 29 18:34:19 2016 Records.db-shm
+449357 -rw-r--r--  1 archopposition  staff      0 Oct 29 18:34:19 2016 Records.db-wal
+449359 -rw-r--r--  1 archopposition  staff   4096 Oct 27 17:35:05 2016 pcs.db
+449363 -rw-r--r--  1 archopposition  staff  32768 Oct 27 17:35:05 2016 pcs.db-shm
+449362 -rw-r--r--  1 archopposition  staff  82432 Oct 27 17:35:12 2016 pcs.db-wal
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.bird/iCloud.com.apple.iBooks/219a4787f21c3c1c768ac7792a47ed6cb2ae6901/StagingAssets:
+total 0
+448524 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:34:58 2016 .
+448523 drwxr-xr-x  6 archopposition  staff  204 Oct 27 17:35:05 2016 ..
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.bird/iCloud.com.apple.iBooks.iTunesU:
+total 0
+448444 drwxr-xr-x   3 archopposition  staff  102 Oct 27 17:34:57 2016 .
+446815 drwxr-xr-x  16 archopposition  staff  544 Oct 27 17:34:58 2016 ..
+448445 drwxr-xr-x   6 archopposition  staff  204 Oct 27 17:35:04 2016 fb5efab817c9d9f2a2160b3bfd12c21f0dc92fda
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.bird/iCloud.com.apple.iBooks.iTunesU/fb5efab817c9d9f2a2160b3bfd12c21f0dc92fda:
+total 0
+448445 drwxr-xr-x  6 archopposition  staff  204 Oct 27 17:35:04 2016 .
+448444 drwxr-xr-x  3 archopposition  staff  102 Oct 27 17:34:57 2016 ..
+448447 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:34:57 2016 Assets
+448449 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:34:57 2016 AssetsDb
+449217 drwxr-xr-x  8 archopposition  staff  272 Oct 27 17:35:04 2016 Records
+448446 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:34:57 2016 StagingAssets
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.bird/iCloud.com.apple.iBooks.iTunesU/fb5efab817c9d9f2a2160b3bfd12c21f0dc92fda/Assets:
+total 0
+448447 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:34:57 2016 .
+448445 drwxr-xr-x  6 archopposition  staff  204 Oct 27 17:35:04 2016 ..
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.bird/iCloud.com.apple.iBooks.iTunesU/fb5efab817c9d9f2a2160b3bfd12c21f0dc92fda/AssetsDb:
+total 0
+448449 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:34:57 2016 .
+448445 drwxr-xr-x  6 archopposition  staff  204 Oct 27 17:35:04 2016 ..
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.bird/iCloud.com.apple.iBooks.iTunesU/fb5efab817c9d9f2a2160b3bfd12c21f0dc92fda/Records:
+total 360
+449217 drwxr-xr-x  8 archopposition  staff    272 Oct 27 17:35:04 2016 .
+448445 drwxr-xr-x  6 archopposition  staff    204 Oct 27 17:35:04 2016 ..
+449218 -rw-r--r--  1 archopposition  staff  28672 Oct 29 18:34:21 2016 Records.db
+449222 -rw-r--r--  1 archopposition  staff  32768 Oct 29 18:34:21 2016 Records.db-shm
+449221 -rw-r--r--  1 archopposition  staff      0 Oct 29 18:34:21 2016 Records.db-wal
+449243 -rw-r--r--  1 archopposition  staff   4096 Oct 27 17:35:04 2016 pcs.db
+449247 -rw-r--r--  1 archopposition  staff  32768 Oct 27 17:35:05 2016 pcs.db-shm
+449246 -rw-r--r--  1 archopposition  staff  82432 Oct 27 17:35:12 2016 pcs.db-wal
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.bird/iCloud.com.apple.iBooks.iTunesU/fb5efab817c9d9f2a2160b3bfd12c21f0dc92fda/StagingAssets:
+total 0
+448446 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:34:57 2016 .
+448445 drwxr-xr-x  6 archopposition  staff  204 Oct 27 17:35:04 2016 ..
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.bird/iCloud.com.apple.ncplugin.weather:
+total 0
+448536 drwxr-xr-x   3 archopposition  staff  102 Oct 27 17:34:58 2016 .
+446815 drwxr-xr-x  16 archopposition  staff  544 Oct 27 17:34:58 2016 ..
+448537 drwxr-xr-x   6 archopposition  staff  204 Oct 27 17:35:03 2016 8d6473f8c6c368b4b1ce63d39811775b4c47f378
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.bird/iCloud.com.apple.ncplugin.weather/8d6473f8c6c368b4b1ce63d39811775b4c47f378:
+total 0
+448537 drwxr-xr-x  6 archopposition  staff  204 Oct 27 17:35:03 2016 .
+448536 drwxr-xr-x  3 archopposition  staff  102 Oct 27 17:34:58 2016 ..
+448539 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:34:58 2016 Assets
+448540 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:34:58 2016 AssetsDb
+449160 drwxr-xr-x  8 archopposition  staff  272 Oct 27 17:35:03 2016 Records
+448538 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:34:58 2016 StagingAssets
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.bird/iCloud.com.apple.ncplugin.weather/8d6473f8c6c368b4b1ce63d39811775b4c47f378/Assets:
+total 0
+448539 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:34:58 2016 .
+448537 drwxr-xr-x  6 archopposition  staff  204 Oct 27 17:35:03 2016 ..
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.bird/iCloud.com.apple.ncplugin.weather/8d6473f8c6c368b4b1ce63d39811775b4c47f378/AssetsDb:
+total 0
+448540 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:34:58 2016 .
+448537 drwxr-xr-x  6 archopposition  staff  204 Oct 27 17:35:03 2016 ..
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.bird/iCloud.com.apple.ncplugin.weather/8d6473f8c6c368b4b1ce63d39811775b4c47f378/Records:
+total 360
+449160 drwxr-xr-x  8 archopposition  staff    272 Oct 27 17:35:03 2016 .
+448537 drwxr-xr-x  6 archopposition  staff    204 Oct 27 17:35:03 2016 ..
+449161 -rw-r--r--  1 archopposition  staff  28672 Oct 29 18:34:20 2016 Records.db
+449164 -rw-r--r--  1 archopposition  staff  32768 Oct 29 18:34:20 2016 Records.db-shm
+449163 -rw-r--r--  1 archopposition  staff      0 Oct 29 18:34:20 2016 Records.db-wal
+449166 -rw-r--r--  1 archopposition  staff   4096 Oct 27 17:35:03 2016 pcs.db
+449170 -rw-r--r--  1 archopposition  staff  32768 Oct 27 17:35:03 2016 pcs.db-shm
+449169 -rw-r--r--  1 archopposition  staff  82432 Oct 27 17:35:12 2016 pcs.db-wal
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.bird/iCloud.com.apple.ncplugin.weather/8d6473f8c6c368b4b1ce63d39811775b4c47f378/StagingAssets:
+total 0
+448538 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:34:58 2016 .
+448537 drwxr-xr-x  6 archopposition  staff  204 Oct 27 17:35:03 2016 ..
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.callhistory.sync-helper:
+total 0
+443072 drwxr-xr-x   3 archopposition  staff  102 Oct 27 17:33:57 2016 .
+443034 drwxr-xr-x  16 archopposition  staff  544 Oct 27 20:29:24 2016 ..
+443073 drwxr-xr-x   6 archopposition  staff  204 Oct 27 17:34:06 2016 45cc79c45d782858e4ef32e3cdd45ef0516b825d
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.callhistory.sync-helper/45cc79c45d782858e4ef32e3cdd45ef0516b825d:
+total 0
+443073 drwxr-xr-x  6 archopposition  staff  204 Oct 27 17:34:06 2016 .
+443072 drwxr-xr-x  3 archopposition  staff  102 Oct 27 17:33:57 2016 ..
+443075 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:33:57 2016 Assets
+443076 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:33:57 2016 AssetsDb
+444741 drwxr-xr-x  5 archopposition  staff  170 Oct 27 17:34:06 2016 Records
+443074 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:33:57 2016 StagingAssets
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.callhistory.sync-helper/45cc79c45d782858e4ef32e3cdd45ef0516b825d/Assets:
+total 0
+443075 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:33:57 2016 .
+443073 drwxr-xr-x  6 archopposition  staff  204 Oct 27 17:34:06 2016 ..
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.callhistory.sync-helper/45cc79c45d782858e4ef32e3cdd45ef0516b825d/AssetsDb:
+total 0
+443076 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:33:57 2016 .
+443073 drwxr-xr-x  6 archopposition  staff  204 Oct 27 17:34:06 2016 ..
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.callhistory.sync-helper/45cc79c45d782858e4ef32e3cdd45ef0516b825d/Records:
+total 224
+444741 drwxr-xr-x  5 archopposition  staff    170 Oct 27 17:34:06 2016 .
+443073 drwxr-xr-x  6 archopposition  staff    204 Oct 27 17:34:06 2016 ..
+444742 -rw-r--r--  1 archopposition  staff   4096 Oct 27 17:34:06 2016 pcs.db
+444749 -rw-r--r--  1 archopposition  staff  32768 Oct 27 17:34:06 2016 pcs.db-shm
+444748 -rw-r--r--  1 archopposition  staff  74192 Oct 27 17:34:12 2016 pcs.db-wal
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.callhistory.sync-helper/45cc79c45d782858e4ef32e3cdd45ef0516b825d/StagingAssets:
+total 0
+443074 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:33:57 2016 .
+443073 drwxr-xr-x  6 archopposition  staff  204 Oct 27 17:34:06 2016 ..
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.cloudpaird:
+total 0
+449135 drwxr-xr-x   3 archopposition  staff  102 Oct 27 17:35:03 2016 .
+443034 drwxr-xr-x  16 archopposition  staff  544 Oct 27 20:29:24 2016 ..
+449136 drwxr-xr-x   6 archopposition  staff  204 Oct 27 17:35:36 2016 ce49f3500a597aa2dca9af15112d99e9363cd778
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.cloudpaird/ce49f3500a597aa2dca9af15112d99e9363cd778:
+total 0
+449136 drwxr-xr-x  6 archopposition  staff  204 Oct 27 17:35:36 2016 .
+449135 drwxr-xr-x  3 archopposition  staff  102 Oct 27 17:35:03 2016 ..
+449138 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:35:03 2016 Assets
+449139 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:35:03 2016 AssetsDb
+450343 drwxr-xr-x  8 archopposition  staff  272 Oct 27 17:35:36 2016 Records
+449137 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:35:03 2016 StagingAssets
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.cloudpaird/ce49f3500a597aa2dca9af15112d99e9363cd778/Assets:
+total 0
+449138 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:35:03 2016 .
+449136 drwxr-xr-x  6 archopposition  staff  204 Oct 27 17:35:36 2016 ..
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.cloudpaird/ce49f3500a597aa2dca9af15112d99e9363cd778/AssetsDb:
+total 0
+449139 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:35:03 2016 .
+449136 drwxr-xr-x  6 archopposition  staff  204 Oct 27 17:35:36 2016 ..
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.cloudpaird/ce49f3500a597aa2dca9af15112d99e9363cd778/Records:
+total 328
+450343 drwxr-xr-x  8 archopposition  staff    272 Oct 27 17:35:36 2016 .
+449136 drwxr-xr-x  6 archopposition  staff    204 Oct 27 17:35:36 2016 ..
+450353 -rw-r--r--  1 archopposition  staff  28672 Oct 29 18:34:20 2016 Records.db
+450356 -rw-r--r--  1 archopposition  staff  32768 Oct 29 18:34:20 2016 Records.db-shm
+450355 -rw-r--r--  1 archopposition  staff      0 Oct 29 18:34:20 2016 Records.db-wal
+450344 -rw-r--r--  1 archopposition  staff   4096 Oct 27 17:35:36 2016 pcs.db
+450348 -rw-r--r--  1 archopposition  staff  32768 Oct 27 21:36:44 2016 pcs.db-shm
+450347 -rw-r--r--  1 archopposition  staff  65952 Oct 27 17:37:12 2016 pcs.db-wal
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.cloudpaird/ce49f3500a597aa2dca9af15112d99e9363cd778/StagingAssets:
+total 0
+449137 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:35:03 2016 .
+449136 drwxr-xr-x  6 archopposition  staff  204 Oct 27 17:35:36 2016 ..
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.gamed:
+total 0
+443093 drwxr-xr-x   3 archopposition  staff  102 Oct 27 17:33:57 2016 .
+443034 drwxr-xr-x  16 archopposition  staff  544 Oct 27 20:29:24 2016 ..
+443094 drwxr-xr-x   6 archopposition  staff  204 Oct 27 17:34:06 2016 052fe9a6b2585eef7a996dfce725751eb1eb09f8
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.gamed/052fe9a6b2585eef7a996dfce725751eb1eb09f8:
+total 0
+443094 drwxr-xr-x  6 archopposition  staff  204 Oct 27 17:34:06 2016 .
+443093 drwxr-xr-x  3 archopposition  staff  102 Oct 27 17:33:57 2016 ..
+443096 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:33:57 2016 Assets
+443097 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:33:57 2016 AssetsDb
+444735 drwxr-xr-x  5 archopposition  staff  170 Oct 27 17:34:06 2016 Records
+443095 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:33:57 2016 StagingAssets
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.gamed/052fe9a6b2585eef7a996dfce725751eb1eb09f8/Assets:
+total 0
+443096 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:33:57 2016 .
+443094 drwxr-xr-x  6 archopposition  staff  204 Oct 27 17:34:06 2016 ..
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.gamed/052fe9a6b2585eef7a996dfce725751eb1eb09f8/AssetsDb:
+total 0
+443097 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:33:57 2016 .
+443094 drwxr-xr-x  6 archopposition  staff  204 Oct 27 17:34:06 2016 ..
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.gamed/052fe9a6b2585eef7a996dfce725751eb1eb09f8/Records:
+total 224
+444735 drwxr-xr-x  5 archopposition  staff    170 Oct 27 17:34:06 2016 .
+443094 drwxr-xr-x  6 archopposition  staff    204 Oct 27 17:34:06 2016 ..
+444736 -rw-r--r--  1 archopposition  staff   4096 Oct 27 17:34:06 2016 pcs.db
+444740 -rw-r--r--  1 archopposition  staff  32768 Oct 27 17:34:06 2016 pcs.db-shm
+444739 -rw-r--r--  1 archopposition  staff  74192 Oct 27 17:34:12 2016 pcs.db-wal
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.gamed/052fe9a6b2585eef7a996dfce725751eb1eb09f8/StagingAssets:
+total 0
+443095 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:33:57 2016 .
+443094 drwxr-xr-x  6 archopposition  staff  204 Oct 27 17:34:06 2016 ..
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.textinput.KeyboardServices:
+total 0
+450119 drwxr-xr-x   3 archopposition  staff  102 Oct 27 17:35:31 2016 .
+443034 drwxr-xr-x  16 archopposition  staff  544 Oct 27 20:29:24 2016 ..
+450120 drwxr-xr-x   3 archopposition  staff  102 Oct 27 17:35:31 2016 com.apple.keyboardservicesd
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.textinput.KeyboardServices/com.apple.keyboardservicesd:
+total 0
+450120 drwxr-xr-x  3 archopposition  staff  102 Oct 27 17:35:31 2016 .
+450119 drwxr-xr-x  3 archopposition  staff  102 Oct 27 17:35:31 2016 ..
+450121 drwxr-xr-x  6 archopposition  staff  204 Oct 27 17:35:31 2016 2bb72ec7676f1ef6f5f88fa889a77a9f1443a05d
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.textinput.KeyboardServices/com.apple.keyboardservicesd/2bb72ec7676f1ef6f5f88fa889a77a9f1443a05d:
+total 0
+450121 drwxr-xr-x  6 archopposition  staff  204 Oct 27 17:35:31 2016 .
+450120 drwxr-xr-x  3 archopposition  staff  102 Oct 27 17:35:31 2016 ..
+450123 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:35:31 2016 Assets
+450124 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:35:31 2016 AssetsDb
+450141 drwxr-xr-x  8 archopposition  staff  272 Oct 27 17:35:31 2016 Records
+450122 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:35:31 2016 StagingAssets
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.textinput.KeyboardServices/com.apple.keyboardservicesd/2bb72ec7676f1ef6f5f88fa889a77a9f1443a05d/Assets:
+total 0
+450123 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:35:31 2016 .
+450121 drwxr-xr-x  6 archopposition  staff  204 Oct 27 17:35:31 2016 ..
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.textinput.KeyboardServices/com.apple.keyboardservicesd/2bb72ec7676f1ef6f5f88fa889a77a9f1443a05d/AssetsDb:
+total 0
+450124 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:35:31 2016 .
+450121 drwxr-xr-x  6 archopposition  staff  204 Oct 27 17:35:31 2016 ..
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.textinput.KeyboardServices/com.apple.keyboardservicesd/2bb72ec7676f1ef6f5f88fa889a77a9f1443a05d/Records:
+total 272
+450141 drwxr-xr-x  8 archopposition  staff    272 Oct 27 17:35:31 2016 .
+450121 drwxr-xr-x  6 archopposition  staff    204 Oct 27 17:35:31 2016 ..
+450179 -rw-r--r--  1 archopposition  staff  28672 Oct 29 18:34:20 2016 Records.db
+450182 -rw-r--r--  1 archopposition  staff  32768 Oct 29 18:34:20 2016 Records.db-shm
+450181 -rw-r--r--  1 archopposition  staff      0 Oct 29 18:34:20 2016 Records.db-wal
+450142 -rw-r--r--  1 archopposition  staff   4096 Oct 27 17:35:31 2016 pcs.db
+450147 -rw-r--r--  1 archopposition  staff  32768 Oct 27 17:35:31 2016 pcs.db-shm
+450146 -rw-r--r--  1 archopposition  staff  37112 Oct 27 17:35:42 2016 pcs.db-wal
+
+/Users/archopposition/Library/Caches/CloudKit/com.apple.textinput.KeyboardServices/com.apple.keyboardservicesd/2bb72ec7676f1ef6f5f88fa889a77a9f1443a05d/StagingAssets:
+total 0
+450122 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:35:31 2016 .
+450121 drwxr-xr-x  6 archopposition  staff  204 Oct 27 17:35:31 2016 ..
+
+/Users/archopposition/Library/Caches/CloudKit/tmp:
+total 0
+443036 drwxr-xr-x   2 archopposition  staff   68 Oct 27 17:33:56 2016 .
+443034 drwxr-xr-x  16 archopposition  staff  544 Oct 27 20:29:24 2016 ..
+
+/Users/archopposition/Library/Caches/com.apple.bird:
+total 0
+446746 drwxr-xr-x   4 archopposition  staff   136 Oct 27 17:35:33 2016 .
+442065 drwx------+ 55 archopposition  staff  1870 Oct 29 21:09:23 2016 ..
+ 0: group:everyone deny delete
+446747 drwxr-xr-x   3 archopposition  staff   102 Oct 27 17:34:48 2016 session
+450234 drwxr-xr-x   2 archopposition  staff    68 Oct 27 17:35:33 2016 unlink
+
+/Users/archopposition/Library/Caches/com.apple.bird/session:
+total 0
+446747 drwxr-xr-x  3 archopposition  staff  102 Oct 27 17:34:48 2016 .
+446746 drwxr-xr-x  4 archopposition  staff  136 Oct 27 17:35:33 2016 ..
+446797 drwxr-xr-x@ 5 archopposition  staff  170 Oct 27 17:35:33 2016 g
+	com.apple.metadata:com_apple_backup_excludeItem	 61 
+
+/Users/archopposition/Library/Caches/com.apple.bird/session/g:
+total 0
+446797 drwxr-xr-x@ 5 archopposition  staff  170 Oct 27 17:35:33 2016 .
+	com.apple.metadata:com_apple_backup_excludeItem	 61 
+446747 drwxr-xr-x  3 archopposition  staff  102 Oct 27 17:34:48 2016 ..
+450253 drwx------@ 2 archopposition  staff   68 Oct 27 17:35:33 2016 2DC443D8-050E-4C26-901D-DCF3CC524045
+	com.apple.bird.graveyard.size#N	  8 
+450232 drwx------@ 2 archopposition  staff   68 Oct 27 17:35:33 2016 5BEBDFF3-2039-4DE3-B6F7-AD9911669163
+	com.apple.bird.graveyard.size#N	  8 
+450229 drwx------@ 2 archopposition  staff   68 Oct 27 17:35:33 2016 6715C458-4EC0-4E43-B9CF-CED6B60C01C8
+	com.apple.bird.graveyard.size#N	  8 
+
+/Users/archopposition/Library/Caches/com.apple.bird/session/g/2DC443D8-050E-4C26-901D-DCF3CC524045:
+total 0
+450253 drwx------@ 2 archopposition  staff   68 Oct 27 17:35:33 2016 .
+	com.apple.bird.graveyard.size#N	  8 
+446797 drwxr-xr-x@ 5 archopposition  staff  170 Oct 27 17:35:33 2016 ..
+	com.apple.metadata:com_apple_backup_excludeItem	 61 
+
+/Users/archopposition/Library/Caches/com.apple.bird/session/g/5BEBDFF3-2039-4DE3-B6F7-AD9911669163:
+total 0
+450232 drwx------@ 2 archopposition  staff   68 Oct 27 17:35:33 2016 .
+	com.apple.bird.graveyard.size#N	  8 
+446797 drwxr-xr-x@ 5 archopposition  staff  170 Oct 27 17:35:33 2016 ..
+	com.apple.metadata:com_apple_backup_excludeItem	 61 
+
+/Users/archopposition/Library/Caches/com.apple.bird/session/g/6715C458-4EC0-4E43-B9CF-CED6B60C01C8:
+total 0
+450229 drwx------@ 2 archopposition  staff   68 Oct 27 17:35:33 2016 .
+	com.apple.bird.graveyard.size#N	  8 
+446797 drwxr-xr-x@ 5 archopposition  staff  170 Oct 27 17:35:33 2016 ..
+	com.apple.metadata:com_apple_backup_excludeItem	 61 
+
+/Users/archopposition/Library/Caches/com.apple.bird/unlink:
+total 0
+450234 drwxr-xr-x  2 archopposition  staff   68 Oct 27 17:35:33 2016 .
+446746 drwxr-xr-x  4 archopposition  staff  136 Oct 27 17:35:33 2016 ..

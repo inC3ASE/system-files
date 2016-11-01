@@ -1,0 +1,15 @@
+     agrCtlRSSI: -59
+     agrExtRSSI: 0
+    agrCtlNoise: -96
+    agrExtNoise: 0
+          state: running
+        op mode: station 
+     lastTxRate: 270
+        maxRate: 400
+lastAssocStatus: 0
+    802.11 auth: open
+      link auth: none
+          BSSID: 84:d4:7e:3c:35:50
+           SSID: Google Starbucks
+            MCS: 7
+        channel: 36,1
